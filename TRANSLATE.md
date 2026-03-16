@@ -79,7 +79,7 @@ Status legend:
 
 ## Day46-60
 
-- `[ ]` `Day46-60/46.Django快速上手.md` -> `Day46-60/46.getting-started-with-django.md`
+- `[x]` `Day46-60/46.Django快速上手.md` -> `Day46-60/46.getting-started-with-django.md`
 - `[ ]` `Day46-60/47.深入模型.md` -> `Day46-60/47.models-in-depth.md`
 - `[ ]` `Day46-60/48.静态资源和Ajax请求.md` -> `Day46-60/48.static-assets-and-ajax.md`
 - `[ ]` `Day46-60/49.Cookie和Session.md` -> `Day46-60/49.cookies-and-sessions.md`
@@ -155,7 +155,7 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day46-60/46.getting-started-with-django.md`.
+- `[~]` Review `Day46-60/47.models-in-depth.md`.
 - `[ ]` Continue through the lessons in order after that.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
@@ -230,3 +230,6 @@ Status legend:
 - `Day36-45/45.hive-in-practice.md`
   Status: complete
   Completed: pass 2 literal review completed, with the missing setup details and dropped Hive query examples restored, especially in the environment, grouping, and sampling sections
+- `Day46-60/46.getting-started-with-django.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the missing template walkthrough and the closing summary restored from the Chinese source
