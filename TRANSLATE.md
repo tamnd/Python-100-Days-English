@@ -22,7 +22,7 @@ Status legend:
 ## Top Level
 
 - `[x]` `README.md`
-- `[ ]` `更新日志.md` -> `changelog.md`
+- `[x]` `更新日志.md` -> `changelog.md`
 - `[ ]` `Python学习资源汇总.md` -> `python-learning-resources.md`
 
 ## Day01-20
@@ -155,9 +155,8 @@ Status legend:
 
 ## Current Focus
 
-- `[ ]` `README.md`
-- `[ ]` Continue with `changelog.md`.
-- `[ ]` Continue with `python-learning-resources.md`.
+- `[~]` Review `python-learning-resources.md`.
+- `[ ]` Continue with `Day01-20/01.getting-started-with-python.md`.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
 ## Checkpoint
@@ -165,3 +164,6 @@ Status legend:
 - `README.md`
   Status: complete
   Completed: pass 2 literal review completed, with README links verified against the English repo paths
+- `changelog.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with older history restored and donation images kept in place to match the Chinese source
