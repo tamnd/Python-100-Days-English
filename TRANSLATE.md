@@ -63,9 +63,9 @@ Status legend:
 
 ## Day31-45
 
-- `[ ]` `Day31-35/31.Python语言进阶.md` -> `Day31-35/31.python-advanced.md`
-- `[ ]` `Day31-35/32-33.Web前端入门.md` -> `Day31-35/32-33.web-frontend-introduction.md`
-- `[ ]` `Day31-35/34-35.玩转Linux操作系统.md` -> `Day31-35/34-35.linux-basics.md`
+- `[x]` `Day31-35/31.Python语言进阶.md` -> `Day31-35/31.python-advanced.md`
+- `[x]` `Day31-35/32-33.Web前端入门.md` -> `Day31-35/32-33.web-frontend-introduction.md`
+- `[x]` `Day31-35/34-35.玩转Linux操作系统.md` -> `Day31-35/34-35.linux-basics.md`
 - `[ ]` `Day36-45/36.关系型数据库和MySQL概述.md` -> `Day36-45/36.relational-databases-and-mysql-overview.md`
 - `[ ]` `Day36-45/37.SQL详解之DDL.md` -> `Day36-45/37.sql-ddl-in-detail.md`
 - `[ ]` `Day36-45/38.SQL详解之DML.md` -> `Day36-45/38.sql-dml-in-detail.md`
@@ -155,8 +155,8 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day31-35/31.python-advanced.md` against the original Chinese file.
-- `[ ]` Continue with `Day31-35/32-33.web-frontend-introduction.md`.
+- `[~]` Review `Day36-45/36.relational-databases-and-mysql-overview.md` against the original Chinese file.
+- `[ ]` Continue with `Day36-45/37.sql-ddl-in-detail.md`.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
 ## Checkpoint
@@ -254,3 +254,12 @@ Status legend:
 - `Day21-30/30.regular-expressions-in-practice.md`
   Status: complete
   Completed: revised toward a closer literal translation of the original lesson, including the expanded regex reference table, Python re notes, and the example explanations
+- `Day31-35/31.python-advanced.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the advanced-module notes, algorithm overview, and the fuller brute-force and greedy examples
+- `Day31-35/32-33.web-frontend-introduction.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the HTML history, frontend reference sections, and the Vue quick-start structure
+- `Day31-35/34-35.linux-basics.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the operating-system history, Linux command survey, vim section, software-installation notes, and process-management overview
