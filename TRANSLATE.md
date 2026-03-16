@@ -38,9 +38,9 @@ Status legend:
 - `[x]` `Day01-20/09.常用数据结构之列表-2.md` -> `Day01-20/09.lists-2.md`
 - `[x]` `Day01-20/10.常用数据结构之元组.md` -> `Day01-20/10.tuples.md`
 - `[x]` `Day01-20/11.常用数据结构之字符串.md` -> `Day01-20/11.strings.md`
-- `[~]` `Day01-20/12.常用数据结构之集合.md` -> `Day01-20/12.sets.md`
-- `[ ]` `Day01-20/13.常用数据结构之字典.md` -> `Day01-20/13.dictionaries.md`
-- `[ ]` `Day01-20/14.函数和模块.md` -> `Day01-20/14.functions-and-modules.md`
+- `[x]` `Day01-20/12.常用数据结构之集合.md` -> `Day01-20/12.sets.md`
+- `[x]` `Day01-20/13.常用数据结构之字典.md` -> `Day01-20/13.dictionaries.md`
+- `[~]` `Day01-20/14.函数和模块.md` -> `Day01-20/14.functions-and-modules.md`
 - `[ ]` `Day01-20/15.函数应用实战.md` -> `Day01-20/15.function-practice.md`
 - `[ ]` `Day01-20/16.函数使用进阶.md` -> `Day01-20/16.advanced-functions.md`
 - `[ ]` `Day01-20/17.函数高级应用.md` -> `Day01-20/17.advanced-function-applications.md`
@@ -155,8 +155,8 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day01-20/12.sets.md` against the original Chinese file.
-- `[ ]` Continue with `Day01-20/13.dictionaries.md`.
+- `[~]` Review `Day01-20/14.functions-and-modules.md` against the original Chinese file.
+- `[ ]` Continue with `Day01-20/15.function-practice.md`.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
 ## Checkpoint
@@ -198,5 +198,11 @@ Status legend:
   Status: complete
   Completed: revised toward a closer literal translation of the original lesson, including the historical introduction and the fuller string-definition and comparison notes
 - `Day01-20/12.sets.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the set introduction, hashability explanation, and the stronger summary wording
+- `Day01-20/13.dictionaries.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the modeling setup and the dictionary-key explanation
+- `Day01-20/14.functions-and-modules.md`
   Status: next in queue
   Completed: not started yet
