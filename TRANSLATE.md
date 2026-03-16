@@ -67,7 +67,7 @@ Status legend:
 - `[x]` `Day31-35/32-33.Web前端入门.md` -> `Day31-35/32-33.web-frontend-introduction.md`
 - `[x]` `Day31-35/34-35.玩转Linux操作系统.md` -> `Day31-35/34-35.linux-basics.md`
 - `[x]` `Day36-45/36.关系型数据库和MySQL概述.md` -> `Day36-45/36.relational-databases-and-mysql-overview.md`
-- `[ ]` `Day36-45/37.SQL详解之DDL.md` -> `Day36-45/37.sql-ddl.md`
+- `[x]` `Day36-45/37.SQL详解之DDL.md` -> `Day36-45/37.sql-ddl.md`
 - `[ ]` `Day36-45/38.SQL详解之DML.md` -> `Day36-45/38.sql-dml.md`
 - `[ ]` `Day36-45/39.SQL详解之DQL.md` -> `Day36-45/39.sql-dql.md`
 - `[ ]` `Day36-45/40.SQL详解之DCL.md` -> `Day36-45/40.sql-dcl.md`
@@ -155,7 +155,7 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day36-45/37.sql-ddl.md`.
+- `[~]` Review `Day36-45/38.sql-dml.md`.
 - `[ ]` Continue through the lessons in order after that.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
@@ -203,3 +203,6 @@ Status legend:
 - `Day36-45/36.relational-databases-and-mysql-overview.md`
   Status: complete
   Completed: pass 2 literal review completed, with the Windows and macOS installation screenshots restored, the graphical client section expanded back to match the Chinese source, and the MySQL help and command sections rewritten in simpler, closer English
+- `Day36-45/37.sql-ddl.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the character set and storage engine outputs restored, the data type help examples restored, and the whole drop-table and alter-table section added back in simpler, closer English
