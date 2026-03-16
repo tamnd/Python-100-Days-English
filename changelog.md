@@ -1,5 +1,9 @@
 ## Changelog
 
+### March 16, 2026
+
+1. Reworked `README.md` toward a more literal translation and added `TRANSLATE.md` to track file-by-file review progress.
+
 ### December 7, 2025
 
 1. Updated some resource files and fixed document issues.

@@ -21,7 +21,7 @@ Status legend:
 
 ## Top Level
 
-- `[~]` `README.md`
+- `[x]` `README.md`
 - `[ ]` `更新日志.md` -> `changelog.md`
 - `[ ]` `Python学习资源汇总.md` -> `python-learning-resources.md`
 
@@ -155,13 +155,15 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Rewrite `README.md` from summary style toward a closer literal translation of the original.
-- `[ ]` Continue `README.md` through Day21-100 and supplemental sections.
-- `[ ]` Review each lesson file in order, starting from `Day01-20/01.getting-started-with-python.md`.
+- `[~]` Review `Day01-20/01.getting-started-with-python.md` against the original Chinese file.
+- `[ ]` Continue with `Day01-20/02.first-python-program.md`.
+- `[ ]` Review each lesson file in order and update this checklist after every file.
 
 ## Checkpoint
 
 - `README.md`
-  Status: in progress
-  Completed: top credit note, author/note section, Python career section, beginner advice, and the `Day01-20` outline
-  Remaining: `Day21-100` outlines and supplemental sections
+  Status: complete
+  Completed: full README rewritten toward a closer literal translation of the original structure and content
+- `Day01-20/01.getting-started-with-python.md`
+  Status: next in queue
+  Completed: not started yet
