@@ -3,6 +3,7 @@
 ### March 16, 2026
 
 1. Reworked `README.md` toward a more literal translation and added `TRANSLATE.md` to track file-by-file review progress.
+2. Revised `Day01-20/01.getting-started-with-python.md` toward a closer literal translation and advanced the review checkpoint to Day 02.
 
 ### December 7, 2025
 
