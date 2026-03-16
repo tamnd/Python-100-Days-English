@@ -124,11 +124,11 @@ Status legend:
 
 ## Day81-100
 
-- `[ ]` `Day81-90/81.浅谈机器学习.md`
-- `[ ]` `Day81-90/82.k最近邻算法.md`
-- `[ ]` `Day81-90/83.决策树和随机森林.md`
-- `[ ]` `Day81-90/84.朴素贝叶斯算法.md`
-- `[ ]` `Day81-90/85.回归模型.md`
+- `[x]` `Day81-90/81.浅谈机器学习.md`
+- `[x]` `Day81-90/82.k最近邻算法.md`
+- `[x]` `Day81-90/83.决策树和随机森林.md`
+- `[x]` `Day81-90/84.朴素贝叶斯算法.md`
+- `[x]` `Day81-90/85.回归模型.md`
 - `[ ]` `Day81-90/86.K-Means聚类算法.md`
 - `[ ]` `Day81-90/87.集成学习算法.md`
 - `[ ]` `Day81-90/88.神经网络模型.md`
@@ -155,8 +155,8 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day81-90/81.machine-learning-overview.md` against the original Chinese file.
-- `[ ]` Continue with `Day81-90/82.k-nearest-neighbors.md`.
+- `[~]` Review `Day81-90/86.k-means-clustering.md` against the original Chinese file.
+- `[ ]` Continue with `Day81-90/87.ensemble-learning.md`.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
 ## Checkpoint
@@ -317,6 +317,21 @@ Status legend:
 - `Day66-80/80.data-visualization-3.md`
   Status: complete
   Completed: revised toward a closer literal translation of the original lesson, including seaborn examples, pyecharts setup, and interactive chart and map examples
+- `Day81-90/81.machine-learning-overview.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the AI history outline, machine-learning framing, application areas, workflow, and first examples
+- `Day81-90/82.k-nearest-neighbors.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including distance metrics, the iris dataset setup, NumPy and scikit-learn implementations, and classification metrics
+- `Day81-90/83.decision-trees-and-random-forest.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including entropy, information gain, Gini index, decision-tree construction, and the random-forest overview
+- `Day81-90/84.naive-bayes.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including Bayes' theorem, the naive independence assumption, a NumPy implementation, and the scikit-learn variants
+- `Day81-90/85.regression-models.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including regression categories, the least-squares setup, the Auto MPG dataset, and Ridge and Lasso examples
   Status: complete
   Completed: revised toward a closer literal translation of the original lesson, including the HTML history, frontend reference sections, and the Vue quick-start structure
 - `Day31-35/34-35.linux-basics.md`
