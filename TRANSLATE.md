@@ -33,8 +33,8 @@ Status legend:
 - `[x]` `Day01-20/04.Python语言中的运算符.md` -> `Day01-20/04.operators-in-python.md`
 - `[x]` `Day01-20/05.分支结构.md` -> `Day01-20/05.branching.md`
 - `[x]` `Day01-20/06.循环结构.md` -> `Day01-20/06.loops.md`
-- `[~]` `Day01-20/07.分支和循环结构实战.md` -> `Day01-20/07.branching-and-loops-in-practice.md`
-- `[ ]` `Day01-20/08.常用数据结构之列表-1.md` -> `Day01-20/08.lists-1.md`
+- `[x]` `Day01-20/07.分支和循环结构实战.md` -> `Day01-20/07.branching-and-loops-in-practice.md`
+- `[~]` `Day01-20/08.常用数据结构之列表-1.md` -> `Day01-20/08.lists-1.md`
 - `[ ]` `Day01-20/09.常用数据结构之列表-2.md` -> `Day01-20/09.lists-2.md`
 - `[ ]` `Day01-20/10.常用数据结构之元组.md` -> `Day01-20/10.tuples.md`
 - `[ ]` `Day01-20/11.常用数据结构之字符串.md` -> `Day01-20/11.strings.md`
@@ -155,8 +155,8 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day01-20/07.branching-and-loops-in-practice.md` against the original Chinese file.
-- `[ ]` Continue with `Day01-20/08.lists-1.md`.
+- `[~]` Review `Day01-20/08.lists-1.md` against the original Chinese file.
+- `[ ]` Continue with `Day01-20/09.lists-2.md`.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
 ## Checkpoint
@@ -183,5 +183,8 @@ Status legend:
   Status: complete
   Completed: revised toward a closer literal translation of the original lesson, including the loop-body explanations, while-loop notes, and break/continue discussion
 - `Day01-20/07.branching-and-loops-in-practice.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the practice framing, Fibonacci background, and the exhaustive-search explanation
+- `Day01-20/08.lists-1.md`
   Status: next in queue
   Completed: not started yet
