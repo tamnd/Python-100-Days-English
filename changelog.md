@@ -32,6 +32,7 @@
 28. Revised `Day66-80/76.pandas-in-depth-5.md` through `Day66-80/80.data-visualization-3.md` toward a closer literal translation and advanced the review checkpoint to Day 81.
 29. Revised `Day81-90/81.machine-learning-overview.md` through `Day81-90/85.regression-models.md` toward a closer literal translation and advanced the review checkpoint to Day 86.
 30. Revised `Day81-90/86.k-means-clustering.md` through `Day81-90/90.machine-learning-in-practice.md` toward a closer literal translation and advanced the review checkpoint to Day 91.
+31. Revised `Day91-100/91.team-project-problems-and-solutions.md` through `Day91-100/95.django-for-commercial-projects.md` toward a closer literal translation and advanced the review checkpoint to Day 96.
 
 ### December 7, 2025
 

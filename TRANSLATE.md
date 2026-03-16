@@ -134,11 +134,11 @@ Status legend:
 - `[x]` `Day81-90/88.神经网络模型.md`
 - `[x]` `Day81-90/89.自然语言处理入门.md`
 - `[x]` `Day81-90/90.机器学习实战.md`
-- `[ ]` `Day91-100/91.团队项目开发的问题和解决方案.md`
-- `[ ]` `Day91-100/92.Docker容器技术详解.md`
-- `[ ]` `Day91-100/93.MySQL性能优化.md`
-- `[ ]` `Day91-100/94.网络API接口设计.md`
-- `[ ]` `Day91-100/95.使用Django开发商业项目.md`
+- `[x]` `Day91-100/91.团队项目开发的问题和解决方案.md`
+- `[x]` `Day91-100/92.Docker容器技术详解.md`
+- `[x]` `Day91-100/93.MySQL性能优化.md`
+- `[x]` `Day91-100/94.网络API接口设计.md`
+- `[x]` `Day91-100/95.使用Django开发商业项目.md`
 - `[ ]` `Day91-100/96.软件测试和自动化测试.md`
 - `[ ]` `Day91-100/97.电商网站技术要点剖析.md`
 - `[ ]` `Day91-100/98.项目部署上线和性能调优.md`
@@ -155,8 +155,8 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day91-100/91.team-project-problems-and-solutions.md` against the original Chinese file.
-- `[ ]` Continue with `Day91-100/92.docker-in-depth.md`.
+- `[~]` Review `Day91-100/96.software-testing-and-automation.md` against the original Chinese file.
+- `[ ]` Continue with `Day91-100/97.ecommerce-site-architecture.md`.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
 ## Checkpoint
@@ -233,6 +233,21 @@ Status legend:
 - `Day81-90/90.machine-learning-in-practice.md`
   Status: complete
   Completed: replaced the short summary with a fuller lesson covering the Titanic project workflow, feature engineering, model training, evaluation, and deployment
+- `Day91-100/91.team-project-problems-and-solutions.md`
+  Status: complete
+  Completed: replaced the short summary with a fuller lesson covering team-development pain points, the role of version control, and the basic local and remote Git workflow
+- `Day91-100/92.docker-in-depth.md`
+  Status: complete
+  Completed: replaced the short summary with a fuller lesson covering Docker basics, installation, common container workflows, service examples, and image building
+- `Day91-100/93.mysql-performance-optimization.md`
+  Status: complete
+  Completed: replaced the short summary with a fuller lesson covering core optimization principles, table design, indexing, partitioning, and SQL analysis with slow logs and `EXPLAIN`
+- `Day91-100/94.network-api-design.md`
+  Status: complete
+  Completed: replaced the short summary with a fuller lesson covering resource-oriented API design, response conventions, versioning concerns, and practical API documentation examples
+- `Day91-100/95.django-for-commercial-projects.md`
+  Status: complete
+  Completed: replaced the short summary with a fuller lesson covering web architecture, HTTP, models, transactions, URL design, templates, and the broader Django project checklist
 - `Day01-20/19.object-oriented-programming-advanced.md`
   Status: complete
   Completed: revised toward a closer literal translation of the original lesson, including the visibility discussion, static-method explanation, and the polymorphism summary
