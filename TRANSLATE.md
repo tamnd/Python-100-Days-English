@@ -89,11 +89,11 @@ Status legend:
 - `[x]` `Day46-60/53.前后端分离开发入门.md`
 - `[x]` `Day46-60/54.RESTful架构和DRF入门.md`
 - `[x]` `Day46-60/55.RESTful架构和DRF进阶.md`
-- `[ ]` `Day46-60/56.使用缓存.md`
-- `[ ]` `Day46-60/57.接入三方平台.md`
-- `[ ]` `Day46-60/58.异步任务和定时任务.md`
-- `[ ]` `Day46-60/59.单元测试.md`
-- `[ ]` `Day46-60/60.项目上线.md`
+- `[x]` `Day46-60/56.使用缓存.md`
+- `[x]` `Day46-60/57.接入三方平台.md`
+- `[x]` `Day46-60/58.异步任务和定时任务.md`
+- `[x]` `Day46-60/59.单元测试.md`
+- `[x]` `Day46-60/60.项目上线.md`
 
 ## Day61-80
 
@@ -155,8 +155,8 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day46-60/56.caching.md` against the original Chinese file.
-- `[ ]` Continue with `Day46-60/57.third-party-platform-integration.md`.
+- `[~]` Review `Day61-65/61.web-data-collection-overview.md` against the original Chinese file.
+- `[ ]` Continue with `Day61-65/62.fetching-web-resources.md`.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
 ## Checkpoint
@@ -323,3 +323,18 @@ Status legend:
 - `Day46-60/55.restful-architecture-and-drf-advanced.md`
   Status: complete
   Completed: revised toward a closer literal translation of the original lesson, including the APIView subclass framing, the viewset notes, and the filtering guidance
+- `Day46-60/56.caching.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the Redis integration notes, the cache-object caveats, and the fuller cache-update discussion
+- `Day46-60/57.third-party-platform-integration.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the SMS-gateway flow, the Redis verification-window notes, and the cloud-upload implementation details
+- `Day46-60/58.async-and-scheduled-tasks.md`
+  Status: complete
+  Completed: reviewed against the original short lesson and kept it aligned as a brief pointer to the later Celery coverage
+- `Day46-60/59.unit-testing.md`
+  Status: complete
+  Completed: reviewed against the original short lesson and kept it aligned as a brief pointer to the later unit-testing discussion
+- `Day46-60/60.project-deployment.md`
+  Status: complete
+  Completed: reviewed against the original short lesson and kept it aligned as a brief pointer to the later deployment and tuning discussion
