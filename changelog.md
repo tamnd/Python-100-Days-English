@@ -24,6 +24,7 @@
 20. Revised `Day36-45/36.relational-databases-and-mysql-overview.md` through `Day36-45/40.sql-dcl.md` toward a closer literal translation and advanced the review checkpoint to Day 41.
 21. Revised `Day36-45/41.mysql-new-features.md` through `Day36-45/45.hive-in-practice.md` toward a closer literal translation and advanced the review checkpoint to Day 46.
 22. Revised `Day46-60/46.getting-started-with-django.md` through `Day46-60/50.reporting.md` toward a closer literal translation and advanced the review checkpoint to Day 51.
+23. Revised `Day46-60/51.logging-and-debug-toolbar.md` through `Day46-60/55.restful-architecture-and-drf-advanced.md` toward a closer literal translation and advanced the review checkpoint to Day 56.
 
 ### December 7, 2025
 

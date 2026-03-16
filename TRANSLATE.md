@@ -84,11 +84,11 @@ Status legend:
 - `[x]` `Day46-60/48.静态资源和Ajax请求.md`
 - `[x]` `Day46-60/49.Cookie和Session.md`
 - `[x]` `Day46-60/50.制作报表.md`
-- `[ ]` `Day46-60/51.日志和调试工具栏.md`
-- `[ ]` `Day46-60/52.中间件的应用.md`
-- `[ ]` `Day46-60/53.前后端分离开发入门.md`
-- `[ ]` `Day46-60/54.RESTful架构和DRF入门.md`
-- `[ ]` `Day46-60/55.RESTful架构和DRF进阶.md`
+- `[x]` `Day46-60/51.日志和调试工具栏.md`
+- `[x]` `Day46-60/52.中间件的应用.md`
+- `[x]` `Day46-60/53.前后端分离开发入门.md`
+- `[x]` `Day46-60/54.RESTful架构和DRF入门.md`
+- `[x]` `Day46-60/55.RESTful架构和DRF进阶.md`
 - `[ ]` `Day46-60/56.使用缓存.md`
 - `[ ]` `Day46-60/57.接入三方平台.md`
 - `[ ]` `Day46-60/58.异步任务和定时任务.md`
@@ -155,8 +155,8 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day46-60/51.logging-and-debug-toolbar.md` against the original Chinese file.
-- `[ ]` Continue with `Day46-60/52.middleware.md`.
+- `[~]` Review `Day46-60/56.caching.md` against the original Chinese file.
+- `[ ]` Continue with `Day46-60/57.third-party-platform-integration.md`.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
 ## Checkpoint
@@ -308,3 +308,18 @@ Status legend:
 - `Day46-60/50.reporting.md`
   Status: complete
   Completed: revised toward a closer literal translation of the original lesson, including the ECharts URL mapping and the full browser-side chart example
+- `Day46-60/51.logging-and-debug-toolbar.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the fuller logging placeholders, handler discussion, logger notes, and ORM optimization context
+- `Day46-60/52.middleware.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the built-in middleware overview, middleware-order explanation, and the class-based middleware notes
+- `Day46-60/53.frontend-backend-separation-intro.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the mapper discussion, JSON-field adjustments, and the development and deployment notes
+- `Day46-60/54.restful-architecture-and-drf-intro.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the SOA and REST framing, the resource-representation explanation, and the JWT overview
+- `Day46-60/55.restful-architecture-and-drf-advanced.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the APIView subclass framing, the viewset notes, and the filtering guidance
