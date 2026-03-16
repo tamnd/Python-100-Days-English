@@ -35,8 +35,8 @@ Status legend:
 - `[x]` `Day01-20/06.循环结构.md` -> `Day01-20/06.loops.md`
 - `[x]` `Day01-20/07.分支和循环结构实战.md` -> `Day01-20/07.branching-and-loops-in-practice.md`
 - `[x]` `Day01-20/08.常用数据结构之列表-1.md` -> `Day01-20/08.lists-1.md`
-- `[~]` `Day01-20/09.常用数据结构之列表-2.md` -> `Day01-20/09.lists-2.md`
-- `[ ]` `Day01-20/10.常用数据结构之元组.md` -> `Day01-20/10.tuples.md`
+- `[x]` `Day01-20/09.常用数据结构之列表-2.md` -> `Day01-20/09.lists-2.md`
+- `[~]` `Day01-20/10.常用数据结构之元组.md` -> `Day01-20/10.tuples.md`
 - `[ ]` `Day01-20/11.常用数据结构之字符串.md` -> `Day01-20/11.strings.md`
 - `[ ]` `Day01-20/12.常用数据结构之集合.md` -> `Day01-20/12.sets.md`
 - `[ ]` `Day01-20/13.常用数据结构之字典.md` -> `Day01-20/13.dictionaries.md`
@@ -155,8 +155,8 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day01-20/09.lists-2.md` against the original Chinese file.
-- `[ ]` Continue with `Day01-20/10.tuples.md`.
+- `[~]` Review `Day01-20/10.tuples.md` against the original Chinese file.
+- `[ ]` Continue with `Day01-20/11.strings.md`.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
 ## Checkpoint
@@ -189,5 +189,8 @@ Status legend:
   Status: complete
   Completed: revised toward a closer literal translation of the original lesson, including the list-introduction setup and the fuller indexing and slicing notes
 - `Day01-20/09.lists-2.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the list-method notes, comprehension explanation, and the fuller lottery example framing
+- `Day01-20/10.tuples.md`
   Status: next in queue
   Completed: not started yet

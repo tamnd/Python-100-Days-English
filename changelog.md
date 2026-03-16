@@ -11,6 +11,7 @@
 7. Revised `Day01-20/06.loops.md` toward a closer literal translation and advanced the review checkpoint to Day 07.
 8. Revised `Day01-20/07.branching-and-loops-in-practice.md` toward a closer literal translation and advanced the review checkpoint to Day 08.
 9. Revised `Day01-20/08.lists-1.md` toward a closer literal translation and advanced the review checkpoint to Day 09.
+10. Revised `Day01-20/09.lists-2.md` toward a closer literal translation and advanced the review checkpoint to Day 10.
 
 ### December 7, 2025
 
