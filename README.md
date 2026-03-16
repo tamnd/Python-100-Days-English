@@ -47,7 +47,7 @@ Several suggestions for beginners:
 - **Make English your working language.**
 - **Practice makes perfect.**
 - **All experience comes from the mistakes you've made.**
-- **Learn to share instead of only asking others for help.**
+- **Don't be a freeloader.**
 - **Embrace AI to boost your productivity.**
 
 ### Day01~20 - Python Language Basics
@@ -322,7 +322,7 @@ Several suggestions for beginners:
 5. Using Element
 6. Using Bootstrap
 
-#### [Mastering the Linux Operating System](./Day31-35/34-35.linux-basics.md)
+#### [Playing with the Linux Operating System](./Day31-35/34-35.linux-basics.md)
 
 1. History of operating-system development and an overview of Linux
 2. Basic Linux commands
@@ -343,18 +343,18 @@ Several suggestions for beginners:
 3. Installing MySQL
 4. Basic MySQL commands
 
-#### Day37 - [DDL Explained in Detail](./Day36-45/37.sql-ddl-in-detail.md)
+#### Day37 - [SQL in Detail: DDL](./Day36-45/37.sql-ddl.md)
 
 1. Creating databases and tables
 2. Dropping tables and modifying tables
 
-#### Day38 - [DML Explained in Detail](./Day36-45/38.sql-dml-in-detail.md)
+#### Day38 - [SQL in Detail: DML](./Day36-45/38.sql-dml.md)
 
 1. `insert` operations
 2. `delete` operations
 3. `update` operations
 
-#### Day39 - [DQL Explained in Detail](./Day36-45/39.sql-dql-in-detail.md)
+#### Day39 - [SQL in Detail: DQL](./Day36-45/39.sql-dql.md)
 
 1. Projection and aliases
 2. Filtering data
@@ -374,13 +374,13 @@ Several suggestions for beginners:
    - Ranking functions
    - Value-retrieval functions
 
-#### Day40 - [DCL Explained in Detail](./Day36-45/40.sql-dcl-in-detail.md)
+#### Day40 - [SQL in Detail: DCL](./Day36-45/40.sql-dcl.md)
 
 1. Creating users
 2. Granting privileges
 3. Revoking privileges
 
-#### Day41 - [New Features in MySQL](./Day36-45/41.new-features-in-mysql.md)
+#### Day41 - [New Features of MySQL](./Day36-45/41.mysql-new-features.md)
 
 - JSON type
 - Window functions
@@ -410,7 +410,7 @@ Several suggestions for beginners:
    - Composite indexes
 4. Points to note
 
-#### Day44 - [Connecting Python to a MySQL Database](./Day36-45/44.connecting-python-to-mysql.md)
+#### Day44 - [Python Connecting to a MySQL Database](./Day36-45/44.python-and-mysql.md)
 
 1. Installing third-party libraries
 2. Creating a connection
@@ -438,14 +438,14 @@ Several suggestions for beginners:
 
 ### Day46~60 - Django in Practice
 
-#### Day46 - [Getting Started with Django Quickly](./Day46-60/46.Django快速上手.md)
+#### Day46 - [Getting Started with Django Quickly](./Day46-60/46.getting-started-with-django.md)
 
 1. How web applications work
 2. HTTP requests and responses
 3. Overview of the Django framework
 4. A quick start in 5 minutes
 
-#### Day47 - [Going Deeper into Models](./Day46-60/47.深入模型.md)
+#### Day47 - [Models in Depth](./Day46-60/47.models-in-depth.md)
 
 1. Relational-database configuration
 2. Using the ORM to complete CRUD operations on models
@@ -453,20 +453,20 @@ Several suggestions for beginners:
 4. Django model best practices
 5. Model-definition reference
 
-#### Day48 - [Static Resources and Ajax Requests](./Day46-60/48.静态资源和Ajax请求.md)
+#### Day48 - [Static Resources and Ajax Requests](./Day46-60/48.static-assets-and-ajax.md)
 
 1. Loading static resources
 2. Ajax overview
 3. Using Ajax to implement voting
 
-#### Day49 - [Cookie and Session](./Day46-60/49.Cookie和Session.md)
+#### Day49 - [Cookie and Session](./Day46-60/49.cookies-and-sessions.md)
 
 1. Implementing user tracking
 2. The relationship between cookies and sessions
 3. Django framework support for sessions
 4. Reading and writing cookies in view functions
 
-#### Day50 - [Reports and Logging](./Day46-60/50.制作报表.md)
+#### Day50 - [Reports and Logs](./Day46-60/50.reporting.md)
 
 1. Modifying response headers through `HttpResponse`
 2. Using `StreamingHttpResponse` to handle large files
@@ -474,37 +474,37 @@ Several suggestions for beginners:
 4. Using `reportlab` to generate PDF reports
 5. Using ECharts to generate frontend charts
 
-#### Day51 - [Logs and the Debug Toolbar](./Day46-60/51.日志和调试工具栏.md)
+#### Day51 - [Logs and the Debug Toolbar](./Day46-60/51.logging-and-debug-toolbar.md)
 
 1. Configuring logs
 2. Configuring Django Debug Toolbar
 3. Optimizing ORM code
 
-#### Day52 - [Applications of Middleware](./Day46-60/52.中间件的应用.md)
+#### Day52 - [Applications of Middleware](./Day46-60/52.middleware.md)
 
 1. What middleware is
 2. Built-in middleware in Django
 3. Custom middleware and its application scenarios
 
-#### Day53 - [Introduction to Frontend-Backend Separation Development](./Day46-60/53.前后端分离开发入门.md)
+#### Day53 - [Introduction to Frontend-Backend Separation Development](./Day46-60/53.frontend-backend-separation-intro.md)
 
 1. Returning JSON-format data
 2. Rendering pages with Vue.js
 
-#### Day54 - [RESTful Architecture and DRF Basics](./Day46-60/54.RESTful架构和DRF入门.md)
+#### Day54 - [RESTful Architecture and DRF Basics](./Day46-60/54.restful-architecture-and-drf-intro.md)
 
 1. Overview of REST
 2. Getting started with the DRF library
 3. Frontend-backend separation development
 4. Applications of JWT
 
-#### Day55 - [RESTful Architecture and DRF Advanced Topics](./Day46-60/55.RESTful架构和DRF进阶.md)
+#### Day55 - [RESTful Architecture and DRF Advanced](./Day46-60/55.restful-architecture-and-drf-advanced.md)
 
 1. Using CBV
 2. Data pagination
 3. Data filtering
 
-#### Day56 - [Using Caching](./Day46-60/56.使用缓存.md)
+#### Day56 - [Using Caching](./Day46-60/56.caching.md)
 
 1. The first law of website optimization
 2. Using Redis to provide caching services in Django projects
@@ -512,21 +512,21 @@ Several suggestions for beginners:
 4. Using decorators to implement page caching
 5. Providing caching services for data APIs
 
-#### Day57 - [Connecting Third-Party Platforms](./Day46-60/57.接入三方平台.md)
+#### Day57 - [Connecting Third-Party Platforms](./Day46-60/57.third-party-platform-integration.md)
 
 1. File-upload form controls and image preview
 2. How the server handles uploaded files
 
-#### Day58 - [Asynchronous Tasks and Scheduled Tasks](./Day46-60/58.异步任务和定时任务.md)
+#### Day58 - [Asynchronous Tasks and Scheduled Tasks](./Day46-60/58.async-and-scheduled-tasks.md)
 
 1. The second law of website optimization
 2. Configuring a message queue service
 3. Using Celery in a project to make tasks asynchronous
 4. Using Celery in a project to implement scheduled tasks
 
-#### Day59 - [Unit Testing](./Day46-60/59.单元测试.md)
+#### Day59 - [Unit Testing](./Day46-60/59.unit-testing.md)
 
-#### Day60 - [Going Live with a Project](./Day46-60/60.项目上线.md)
+#### Day60 - [Project Going Online](./Day46-60/60.project-deployment.md)
 
 1. Unit testing in Python
 2. Django framework support for unit testing
@@ -538,7 +538,7 @@ Several suggestions for beginners:
 
 ### Day61~65 - Web Data Collection
 
-#### Day61 - [Overview of Web Data Collection](./Day61-65/61.网络数据采集概述.md)
+#### Day61 - [Overview of Web Data Collection](./Day61-65/61.web-data-collection-overview.md)
 
 1. The concept of web crawlers and their application areas
 2. Discussion of the legality of web crawlers
@@ -547,19 +547,19 @@ Several suggestions for beginners:
 
 #### Day62 - Data Fetching and Parsing
 
-1. [Using the `requests` third-party library for data fetching](./Day61-65/62.用Python获取网络资源-1.md)
-2. [Three ways to parse web pages](./Day61-65/62.用Python解析HTML页面-2.md)
+1. [Using the `requests` third-party library to fetch data](./Day61-65/62.fetching-web-resources.md)
+2. [Three ways to parse pages](./Day61-65/62.parsing-html-with-python.md)
    - Regular-expression parsing
    - XPath parsing
    - CSS-selector parsing
 
 #### Day63 - Concurrent Programming in Python
 
-1. [Multithreading](./Day61-65/63.Python中的并发编程-1.md)
-2. [Multiprocessing](./Day61-65/63.Python中的并发编程-2.md)
-3. [Asynchronous I/O](./Day61-65/63.Python中的并发编程-3.md)
+1. [Multithreading](./Day61-65/63.concurrent-programming-in-python-1.md)
+2. [Multiprocessing](./Day61-65/63.concurrent-programming-in-python-2.md)
+3. [Asynchronous I/O](./Day61-65/63.concurrent-programming-in-python-3.md)
 
-#### Day64 - [Using Selenium to Capture Dynamic Web Content](./Day61-65/64.使用Selenium抓取网页动态内容.md)
+#### Day64 - [Using Selenium to Fetch Dynamic Web Content](./Day61-65/64.selenium-for-dynamic-content.md)
 
 1. Installing Selenium
 2. Loading pages
@@ -569,7 +569,7 @@ Several suggestions for beginners:
 6. Breaking anti-crawler protections with Selenium
 7. Setting up a headless browser
 
-#### Day65 - [Introduction to the Scrapy Crawler Framework](./Day61-65/65.爬虫框架Scrapy简介.md)
+#### Day65 - [Introduction to the Scrapy Crawler Framework](./Day61-65/65.introduction-to-scrapy.md)
 
 1. Core Scrapy components
 2. The Scrapy workflow
@@ -580,13 +580,13 @@ Several suggestions for beginners:
 
 ### Day66~80 - Python Data Analysis
 
-#### Day66 - [Overview of Data Analysis](./Day66-80/66.数据分析概述.md)
+#### Day66 - [Overview of Data Analysis](./Day66-80/66.data-analysis-overview.md)
 
 1. Responsibilities of a data analyst
 2. The skill stack of a data analyst
 3. Data-analysis libraries
 
-#### Day67 - [Environment Preparation](./Day66-80/67.环境准备.md)
+#### Day67 - [Environment Preparation](./Day66-80/67.environment-setup.md)
 
 1. Installing and using Anaconda
    - Commands related to `conda`
@@ -594,7 +594,7 @@ Several suggestions for beginners:
    - Installation and startup
    - Useful tips
 
-#### Day68 - [Applications of NumPy - 1](./Day66-80/68.NumPy的应用-1.md)
+#### Day68 - [Applications of NumPy - 1](./Day66-80/68.numpy-applications-1.md)
 
 1. Creating array objects
 2. Properties of array objects
@@ -605,13 +605,13 @@ Several suggestions for beginners:
    - Slice indexing
 4. Case study: using arrays to process images
 
-#### Day69 - [Applications of NumPy - 2](./Day66-80/69.NumPy的应用-2.md)
+#### Day69 - [Applications of NumPy - 2](./Day66-80/69.numpy-applications-2.md)
 
 1. Methods related to array objects
    - Obtaining descriptive statistics
    - Other related methods
 
-#### Day70 - [Applications of NumPy - 3](./Day66-80/70.NumPy的应用-3.md)
+#### Day70 - [Applications of NumPy - 3](./Day66-80/70.numpy-applications-3.md)
 
 1. Array operations
    - Operations between arrays and scalars
@@ -621,26 +621,26 @@ Several suggestions for beginners:
 4. Broadcasting
 5. Common NumPy functions
 
-#### Day71 - [Applications of NumPy - 4](./Day66-80/71.NumPy的应用-4.md)
+#### Day71 - [Applications of NumPy - 4](./Day66-80/71.numpy-applications-4.md)
 
 1. Vectors
 2. Determinants
 3. Matrices
 4. Polynomials
 
-#### Day72 - [A Hands-on Introduction to pandas - 1](./Day66-80/72.深入浅出pandas-1.md)
+#### Day72 - [pandas Explained in a Simple Way - 1](./Day66-80/72.pandas-in-depth-1.md)
 
 1. Creating `Series` objects
 2. Operations on `Series` objects
 3. Properties and methods of `Series` objects
 
-#### Day73 - [A Hands-on Introduction to pandas - 2](./Day66-80/73.深入浅出pandas-2.md)
+#### Day73 - [pandas Explained in a Simple Way - 2](./Day66-80/73.pandas-in-depth-2.md)
 
 1. Creating `DataFrame` objects
 2. Properties and methods of `DataFrame` objects
 3. Reading and writing data in `DataFrame`
 
-#### Day74 - [A Hands-on Introduction to pandas - 3](./Day66-80/74.深入浅出pandas-3.md)
+#### Day74 - [pandas Explained in a Simple Way - 3](./Day66-80/74.pandas-in-depth-3.md)
 
 1. Data reshaping
    - Data concatenation
@@ -651,7 +651,7 @@ Several suggestions for beginners:
    - Outliers
    - Preprocessing
 
-#### Day75 - [A Hands-on Introduction to pandas - 4](./Day66-80/75.深入浅出pandas-4.md)
+#### Day75 - [pandas Explained in a Simple Way - 4](./Day66-80/75.pandas-in-depth-4.md)
 
 1. Data pivoting
    - Obtaining descriptive statistics
@@ -660,13 +660,13 @@ Several suggestions for beginners:
    - Pivot tables and crosstabs
 2. Data presentation
 
-#### Day76 - [A Hands-on Introduction to pandas - 5](./Day66-80/76.深入浅出pandas-5.md)
+#### Day76 - [pandas Explained in a Simple Way - 5](./Day66-80/76.pandas-in-depth-5.md)
 
 1. Calculating year-over-year and period-over-period changes
 2. Window calculations
 3. Determining correlations
 
-#### Day77 - [A Hands-on Introduction to pandas - 6](./Day66-80/77.深入浅出pandas-6.md)
+#### Day77 - [pandas Explained in a Simple Way - 6](./Day66-80/77.pandas-in-depth-6.md)
 
 1. Using indexes
    - Range indexes
@@ -675,7 +675,7 @@ Several suggestions for beginners:
    - Interval indexes
    - Date-time indexes
 
-#### Day78 - [Data Visualization - 1](./Day66-80/78.数据可视化-1.md)
+#### Day78 - [Data Visualization - 1](./Day66-80/78.data-visualization-1.md)
 
 1. Installing and importing matplotlib
 2. Creating the canvas
@@ -689,7 +689,7 @@ Several suggestions for beginners:
    - Box plots
 5. Displaying and saving charts
 
-#### Day79 - [Data Visualization - 2](./Day66-80/79.数据可视化-2.md)
+#### Day79 - [Data Visualization - 2](./Day66-80/79.data-visualization-2.md)
 
 1. Advanced charts
    - Bubble charts
@@ -698,14 +698,14 @@ Several suggestions for beginners:
    - Rose charts
    - 3D charts
 
-#### Day80 - [Data Visualization - 3](./Day66-80/80.数据可视化-3.md)
+#### Day80 - [Data Visualization - 3](./Day66-80/80.data-visualization-3.md)
 
 1. Seaborn
 2. Pyecharts
 
 ### Day81~90 - Machine Learning
 
-#### Day81 - [A Brief Discussion of Machine Learning](./Day81-90/81.浅谈机器学习.md)
+#### Day81 - [A Brief Discussion of Machine Learning](./Day81-90/81.machine-learning-overview.md)
 
 1. History of artificial intelligence
 2. What machine learning is
@@ -714,7 +714,7 @@ Several suggestions for beginners:
 5. The steps of machine learning
 6. A first machine-learning exercise
 
-#### Day82 - [k-Nearest Neighbors Algorithm](./Day81-90/82.k最近邻算法.md)
+#### Day82 - [k-Nearest Neighbors Algorithm](./Day81-90/82.k-nearest-neighbors.md)
 
 1. Distance measurement
 2. Introduction to the dataset
@@ -723,7 +723,7 @@ Several suggestions for beginners:
 5. Parameter tuning
 6. Implementing kNN regression
 
-#### Day83 - [Decision Trees and Random Forests](./Day81-90/83.决策树和随机森林.md)
+#### Day83 - [Decision Trees and Random Forests](./Day81-90/83.decision-trees-and-random-forest.md)
 
 1. Building decision trees
    - Feature selection
@@ -732,7 +732,7 @@ Several suggestions for beginners:
 2. Implementing a decision-tree model
 3. Overview of random forests
 
-#### Day84 - [Naive Bayes Algorithm](./Day81-90/84.朴素贝叶斯算法.md)
+#### Day84 - [Naive Bayes Algorithm](./Day81-90/84.naive-bayes.md)
 
 1. Bayes' theorem
 2. Naive Bayes
@@ -742,7 +742,7 @@ Several suggestions for beginners:
    - Code implementation
 4. Advantages and disadvantages of the algorithm
 
-#### Day85 - [Regression Models](./Day81-90/85.回归模型.md)
+#### Day85 - [Regression Models](./Day81-90/85.regression-models.md)
 
 1. Categories of regression models
 2. Calculating regression coefficients
@@ -754,13 +754,13 @@ Several suggestions for beginners:
 8. Polynomial regression
 9. Logistic regression
 
-#### Day86 - [K-Means Clustering Algorithm](./Day81-90/86.K-Means聚类算法.md)
+#### Day86 - [K-Means Clustering Algorithm](./Day81-90/86.k-means-clustering.md)
 
 1. Algorithm principles
 2. Mathematical description
 3. Code implementation
 
-#### Day87 - [Ensemble Learning Algorithms](./Day81-90/87.集成学习算法.md)
+#### Day87 - [Ensemble Learning Algorithms](./Day81-90/87.ensemble-learning.md)
 
 1. Categories of algorithms
 2. AdaBoost
@@ -768,14 +768,14 @@ Several suggestions for beginners:
 4. XGBoost
 5. LightGBM
 
-#### Day88 - [Neural-Network Models](./Day81-90/88.神经网络模型.md)
+#### Day88 - [Neural Network Models](./Day81-90/88.neural-network-models.md)
 
 1. Basic composition
 2. Working principles
 3. Code implementation
 4. Advantages and disadvantages of the model
 
-#### Day89 - [Introduction to Natural Language Processing](./Day81-90/89.自然语言处理入门.md)
+#### Day89 - [Introduction to Natural Language Processing](./Day81-90/89.natural-language-processing-intro.md)
 
 1. Bag-of-words model
 2. Word vectors
@@ -783,7 +783,7 @@ Several suggestions for beginners:
 4. Seq2Seq
 5. Transformer
 
-#### Day90 - [Machine Learning in Practice](./Day81-90/90.机器学习实战.md)
+#### Day90 - [Machine Learning in Practice](./Day81-90/90.machine-learning-in-practice.md)
 
 1. Data exploration
 2. Feature engineering
@@ -793,7 +793,7 @@ Several suggestions for beginners:
 
 ### Day91~99 - [Team Project Development](./Day91-100)
 
-#### Day 91: [Problems and Solutions in Team Project Development](./Day91-100/91.团队项目开发的问题和解决方案.md)
+#### Day 91: [Problems and Solutions in Team Project Development](./Day91-100/91.team-project-problems-and-solutions.md)
 
 1. Software process models
    - Classical process model (waterfall model)
@@ -820,7 +820,7 @@ Several suggestions for beginners:
      > - **Customer collaboration** over contract negotiation
      > - **Responding to change** over following a plan
      >
-     > ![](./res/agile-scrum-sprint-cycle.png)
+     ![](./res/agile-scrum-sprint-cycle.png)
      >
      > Roles: product owner (decides what to build and has the authority to finalize requirements), team lead (solves various problems, focuses on improving the way the team works, and shields the development team from outside interference), development team (project executors, specifically developers and testers).
      >
@@ -832,12 +832,19 @@ Several suggestions for beginners:
 
 2. Building the project team
    - Team composition and roles
+
+     ![company_architecture](./res/company_architecture.png)
+
    - Programming standards and code review (`flake8`, `pylint`)
-   - Some "conventions" in Python (please refer to [Python Programming Conventions](./extras/Python-programming-conventions.md))
+
+     ![](./res/pylint.png)
+
+   - Some "conventions" in Python (please refer to [Python Programming Conventions - How to Write Pythonic Code](./extras/Python-programming-conventions.md))
+
    - Factors that affect code readability:
-     - Too few comments or no comments at all
-     - Code that violates language best practices
-     - Anti-pattern programming (spaghetti code, copy-paste programming, arrogant programming, and so on)
+     - Too few comments or no comments
+     - Code breaks the best practices of the language
+     - Anti-pattern programming (spaghetti code, copy-paste programming, arrogant programming, ...)
 
 3. Introduction to team-development tools
    - Version control: Git, Mercury
@@ -845,7 +852,7 @@ Several suggestions for beginners:
    - Agile closed-loop tools: [ZenTao](https://www.zentao.net/), [JIRA](https://www.atlassian.com/software/jira/features)
    - Continuous integration: [Jenkins](https://jenkins.io/), [Travis-CI](https://travis-ci.org/)
 
-   Please refer to [Problems and Solutions in Team Project Development](Day91-100/91.团队项目开发的问题和解决方案.md).
+   Please refer to [Problems and Solutions in Team Project Development](./Day91-100/91.team-project-problems-and-solutions.md).
 
 ##### Project Topic Selection and Understanding the Business
 
@@ -860,15 +867,44 @@ Several suggestions for beginners:
    - Module division: draw mind maps (XMind). Each module is a branch node, and each concrete function is a leaf node (expressed with verbs). Ensure that each leaf node cannot be split into new nodes. Determine the importance, priority, and workload of each leaf node.
    - Task assignment: the project lead assigns tasks to each team member based on the above indicators.
 
+   ![](./res/requirements_by_xmind.png)
+
 3. Creating the project schedule (updated daily)
+
+   | Module | Function | Member | Status | Done | Hours | Planned Start | Actual Start | Planned End | Actual End | Notes |
+   | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+   | Comments | Add comment | Wang Dachui | In progress | 50% | 4 | 2018/8/7 |  | 2018/8/7 |  |  |
+   |  | Delete comment | Wang Dachui | Waiting | 0% | 2 | 2018/8/7 |  | 2018/8/7 |  |  |
+   |  | View comment | Bai Yuanfang | In progress | 20% | 4 | 2018/8/7 |  | 2018/8/7 |  | Code review needed |
+   |  | Comment voting | Bai Yuanfang | Waiting | 0% | 4 | 2018/8/8 |  | 2018/8/8 |  |  |
 
 4. OOAD and database design
    - UML class diagrams
+
+     ![uml](./res/uml-class-diagram.png)
+
    - Creating tables from models (forward engineering)
+
+     For example, in a Django project you can create database tables with the commands below.
+
+     ```Shell
+     python manage.py makemigrations app
+     python manage.py migrate
+     ```
+
    - Using PowerDesigner to draw physical model diagrams
+
+     ![](./res/power-designer-pdm.png)
+
    - Creating models from database tables (reverse engineering)
 
-#### Day 92: [Detailed Explanation of Docker Container Technology](./Day91-100/92.Docker容器技术详解.md)
+     For example, in a Django project you can generate models with the command below.
+
+     ```Shell
+     python manage.py inspectdb > app/models.py
+     ```
+
+#### Day 92: [Detailed Explanation of Docker Container Technology](./Day91-100/92.docker-in-depth.md)
 
 1. Introduction to Docker
 2. Installing Docker
@@ -877,7 +913,7 @@ Several suggestions for beginners:
 5. Container orchestration (Docker Compose)
 6. Cluster management (Kubernetes)
 
-#### Day 93: [MySQL Performance Optimization](./Day91-100/93.MySQL性能优化.md)
+#### Day 93: [MySQL Performance Optimization](./Day91-100/93.mysql-performance-optimization.md)
 
 1. Basic principles
 2. The InnoDB engine
@@ -887,14 +923,14 @@ Several suggestions for beginners:
 6. Configuration optimization
 7. Architecture optimization
 
-#### Day 94: [Network API Interface Design](./Day91-100/94.网络API接口设计.md)
+#### Day 94: [Network API Interface Design](./Day91-100/94.network-api-design.md)
 
 1. Design principles
    - Key issues
    - Other issues
 2. Writing documentation
 
-#### Day 95: [Developing Commercial Projects with Django](./Day91-100/95.使用Django开发商业项目.md)
+#### Day 95: [Developing Commercial Projects with Django](./Day91-100/95.django-for-commercial-projects.md)
 
 ##### Common Issues in Project Development
 
@@ -907,15 +943,20 @@ Several suggestions for beginners:
 ##### REST API Design
 
 1. RESTful architecture
-2. Writing API documentation
-3. Using [django-REST-framework](https://www.django-rest-framework.org/)
+   - [Understanding RESTful Architecture](http://www.ruanyifeng.com/blog/2011/09/restful.html)
+   - [RESTful API Design Guide](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
+   - [RESTful API Best Practices](http://www.ruanyifeng.com/blog/2018/10/restful-api-best-practices.html)
+2. Writing API interface documentation
+   - [RAP2](http://rap2.taobao.org/)
+   - [YAPI](http://yapi.demo.qunar.com/)
+3. Applying [django-REST-framework](https://www.django-rest-framework.org/)
 
 ##### Analysis of Key and Difficult Points in the Project
 
 1. Using caching to reduce database pressure - Redis
 2. Using message queues to decouple services and smooth traffic peaks - Celery + RabbitMQ
 
-#### Day 96: [Software Testing and Automated Testing](Day91-100/96.软件测试和自动化测试.md)
+#### Day 96: [Software Testing and Automated Testing](./Day91-100/96.software-testing-and-automation.md)
 
 ##### Unit Testing
 
@@ -926,9 +967,17 @@ Several suggestions for beginners:
 ##### Deploying Django Projects
 
 1. Preparations before deployment
+   - Key settings (`SECRET_KEY` / `DEBUG` / `ALLOWED_HOSTS` / cache / database)
+   - `HTTPS` / `CSRF_COOKIE_SECURE` / `SESSION_COOKIE_SECURE`
+   - Log-related configuration
 2. Review of common Linux commands
 3. Installation and configuration of common Linux services
 4. Using uWSGI / Gunicorn and Nginx
+   - Comparison between Gunicorn and uWSGI
+     - For simple applications that do not need a lot of customization, Gunicorn is a good choice. The learning curve of uWSGI is much steeper than Gunicorn, and Gunicorn's default parameters can already fit most applications.
+     - uWSGI supports heterogeneous deployment.
+     - Because Nginx itself supports uWSGI, in production Nginx and uWSGI are usually deployed together, and uWSGI is a full-featured and highly customizable WSGI middleware.
+     - In performance, Gunicorn and uWSGI are actually quite close.
 5. Deploying test and production environments with virtualization technology (Docker)
 
 ##### Performance Testing
@@ -941,9 +990,12 @@ Several suggestions for beginners:
 
 1. Using Shell and Python for automated testing
 2. Using Selenium for automated testing
+   - Selenium IDE
+   - Selenium WebDriver
+   - Selenium Remote Control
 3. Introduction to Robot Framework
 
-#### Day 97: [Analysis of Key Technical Points for E-commerce Websites](./Day91-100/97.电商网站技术要点剖析.md)
+#### Day 97: [Analysis of Key Technical Points for E-commerce Websites](./Day91-100/97.ecommerce-site-architecture.md)
 
 1. Business models and key requirements
 2. Physical-model design
@@ -955,14 +1007,20 @@ Several suggestions for beginners:
 8. Static-resource management
 9. Full-text search solutions
 
-#### Day 98: [Project Deployment and Performance Tuning](./Day91-100/98.项目部署上线和性能调优.md)
+#### Day 98: [Project Deployment and Performance Tuning](./Day91-100/98.deployment-and-performance-tuning.md)
 
 1. MySQL database tuning
 2. Web-server performance optimization
+   - Nginx load-balancing configuration
+   - Using Keepalived to achieve high availability
 3. Code performance tuning
+   - Multithreading
+   - Asynchronization
 4. Static-resource access optimization
+   - Cloud storage
+   - CDN
 
-#### Day 99: [Common Interview Questions](./Day91-100/99.面试中的公共问题.md)
+#### Day 99: [Common Interview Questions](./Day91-100/99.common-interview-questions.md)
 
 1. Computer-science fundamentals
 2. Python fundamentals
@@ -971,7 +1029,7 @@ Several suggestions for beginners:
 5. Data analysis
 6. Project-related questions
 
-### Day 100 - [Supplementary Content](./Day91-100/100.补充内容.md)
+### Day 100 - [Supplementary Content](./Day91-100/100.supplementary-content.md)
 
 - Interview handbooks
   - Python interview handbook
@@ -979,3 +1037,6 @@ Several suggestions for beginners:
   - Business-analysis interview handbook
   - Machine-learning interview handbook
 - Mathematical foundations of machine learning
+- Deep learning
+  - Computer vision
+  - Large language models
