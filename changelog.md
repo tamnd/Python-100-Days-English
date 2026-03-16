@@ -6,6 +6,7 @@
 2. Revised `Day01-20/01.getting-started-with-python.md` toward a closer literal translation and advanced the review checkpoint to Day 02.
 3. Revised `Day01-20/02.first-python-program.md` toward a closer literal translation and advanced the review checkpoint to Day 03.
 4. Revised `Day01-20/03.variables-in-python.md` toward a closer literal translation and advanced the review checkpoint to Day 04.
+5. Revised `Day01-20/04.operators-in-python.md` toward a closer literal translation and advanced the review checkpoint to Day 05.
 
 ### December 7, 2025
 

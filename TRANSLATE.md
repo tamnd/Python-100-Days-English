@@ -30,8 +30,8 @@ Status legend:
 - `[x]` `Day01-20/01.初识Python.md` -> `Day01-20/01.getting-started-with-python.md`
 - `[x]` `Day01-20/02.第一个Python程序.md` -> `Day01-20/02.first-python-program.md`
 - `[x]` `Day01-20/03.Python语言中的变量.md` -> `Day01-20/03.variables-in-python.md`
-- `[~]` `Day01-20/04.Python语言中的运算符.md` -> `Day01-20/04.operators-in-python.md`
-- `[ ]` `Day01-20/05.分支结构.md` -> `Day01-20/05.branching.md`
+- `[x]` `Day01-20/04.Python语言中的运算符.md` -> `Day01-20/04.operators-in-python.md`
+- `[~]` `Day01-20/05.分支结构.md` -> `Day01-20/05.branching.md`
 - `[ ]` `Day01-20/06.循环结构.md` -> `Day01-20/06.loops.md`
 - `[ ]` `Day01-20/07.分支和循环结构实战.md` -> `Day01-20/07.branching-and-loops-in-practice.md`
 - `[ ]` `Day01-20/08.常用数据结构之列表-1.md` -> `Day01-20/08.lists-1.md`
@@ -155,8 +155,8 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day01-20/04.operators-in-python.md` against the original Chinese file.
-- `[ ]` Continue with `Day01-20/05.branching.md`.
+- `[~]` Review `Day01-20/05.branching.md` against the original Chinese file.
+- `[ ]` Continue with `Day01-20/06.loops.md`.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
 ## Checkpoint
@@ -174,5 +174,8 @@ Status legend:
   Status: complete
   Completed: revised toward a closer literal translation of the original lesson, including the binary-counting explanation and the fuller naming notes
 - `Day01-20/04.operators-in-python.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the operator notes and the fuller example explanations
+- `Day01-20/05.branching.md`
   Status: next in queue
   Completed: not started yet
