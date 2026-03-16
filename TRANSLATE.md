@@ -129,11 +129,11 @@ Status legend:
 - `[x]` `Day81-90/83.决策树和随机森林.md`
 - `[x]` `Day81-90/84.朴素贝叶斯算法.md`
 - `[x]` `Day81-90/85.回归模型.md`
-- `[ ]` `Day81-90/86.K-Means聚类算法.md`
-- `[ ]` `Day81-90/87.集成学习算法.md`
-- `[ ]` `Day81-90/88.神经网络模型.md`
-- `[ ]` `Day81-90/89.自然语言处理入门.md`
-- `[ ]` `Day81-90/90.机器学习实战.md`
+- `[x]` `Day81-90/86.K-Means聚类算法.md`
+- `[x]` `Day81-90/87.集成学习算法.md`
+- `[x]` `Day81-90/88.神经网络模型.md`
+- `[x]` `Day81-90/89.自然语言处理入门.md`
+- `[x]` `Day81-90/90.机器学习实战.md`
 - `[ ]` `Day91-100/91.团队项目开发的问题和解决方案.md`
 - `[ ]` `Day91-100/92.Docker容器技术详解.md`
 - `[ ]` `Day91-100/93.MySQL性能优化.md`
@@ -155,8 +155,8 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day81-90/86.k-means-clustering.md` against the original Chinese file.
-- `[ ]` Continue with `Day81-90/87.ensemble-learning.md`.
+- `[~]` Review `Day91-100/91.team-project-problems-and-solutions.md` against the original Chinese file.
+- `[ ]` Continue with `Day91-100/92.docker-in-depth.md`.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
 ## Checkpoint
@@ -218,6 +218,21 @@ Status legend:
 - `Day01-20/18.object-oriented-programming-intro.md`
   Status: complete
   Completed: revised toward a closer literal translation of the original lesson, including the OOP framing, encapsulation explanation, and the three-step object-oriented workflow
+- `Day81-90/86.k-means-clustering.md`
+  Status: complete
+  Completed: replaced the short summary with a fuller lesson covering the clustering setup, K-Means objective, a plain Python implementation, and the `scikit-learn` parameters
+- `Day81-90/87.ensemble-learning.md`
+  Status: complete
+  Completed: replaced the short summary with a fuller lesson covering Bagging, Boosting, Stacking, AdaBoost, GBDT, XGBoost, and LightGBM in the order of the original
+- `Day81-90/88.neural-network-models.md`
+  Status: complete
+  Completed: replaced the short summary with a fuller lesson covering the neuron analogy caveat, the core network structure, activation functions, backpropagation, and the `scikit-learn` and PyTorch examples
+- `Day81-90/89.natural-language-processing-intro.md`
+  Status: complete
+  Completed: replaced the short summary with a fuller lesson covering bag-of-words, word embeddings, Word2Vec, RNN, Seq2Seq, and Transformer in the original lesson order
+- `Day81-90/90.machine-learning-in-practice.md`
+  Status: complete
+  Completed: replaced the short summary with a fuller lesson covering the Titanic project workflow, feature engineering, model training, evaluation, and deployment
 - `Day01-20/19.object-oriented-programming-advanced.md`
   Status: complete
   Completed: revised toward a closer literal translation of the original lesson, including the visibility discussion, static-method explanation, and the polymorphism summary

@@ -31,6 +31,7 @@
 27. Revised `Day66-80/71.numpy-applications-4.md` through `Day66-80/75.pandas-in-depth-4.md` toward a closer literal translation and advanced the review checkpoint to Day 76.
 28. Revised `Day66-80/76.pandas-in-depth-5.md` through `Day66-80/80.data-visualization-3.md` toward a closer literal translation and advanced the review checkpoint to Day 81.
 29. Revised `Day81-90/81.machine-learning-overview.md` through `Day81-90/85.regression-models.md` toward a closer literal translation and advanced the review checkpoint to Day 86.
+30. Revised `Day81-90/86.k-means-clustering.md` through `Day81-90/90.machine-learning-in-practice.md` toward a closer literal translation and advanced the review checkpoint to Day 91.
 
 ### December 7, 2025
 
