@@ -46,13 +46,13 @@ Status legend:
 - `[x]` `Day01-20/17.函数高级应用.md` -> `Day01-20/17.advanced-function-applications.md`
 - `[x]` `Day01-20/18.面向对象编程入门.md` -> `Day01-20/18.object-oriented-programming-intro.md`
 - `[x]` `Day01-20/19.面向对象编程进阶.md` -> `Day01-20/19.object-oriented-programming-advanced.md`
-- `[~]` `Day01-20/20.面向对象编程应用.md` -> `Day01-20/20.object-oriented-programming-in-practice.md`
+- `[x]` `Day01-20/20.面向对象编程应用.md` -> `Day01-20/20.object-oriented-programming-in-practice.md`
 
 ## Day21-30
 
-- `[ ]` `Day21-30/21.文件读写和异常处理.md` -> `Day21-30/21.file-io-and-exception-handling.md`
-- `[ ]` `Day21-30/22.对象的序列化和反序列化.md` -> `Day21-30/22.serialization-and-deserialization.md`
-- `[ ]` `Day21-30/23.Python读写CSV文件.md` -> `Day21-30/23.working-with-csv-files.md`
+- `[x]` `Day21-30/21.文件读写和异常处理.md` -> `Day21-30/21.file-io-and-exception-handling.md`
+- `[x]` `Day21-30/22.对象的序列化和反序列化.md` -> `Day21-30/22.serialization-and-deserialization.md`
+- `[x]` `Day21-30/23.Python读写CSV文件.md` -> `Day21-30/23.working-with-csv-files.md`
 - `[ ]` `Day21-30/24.Python读写Excel文件-1.md` -> `Day21-30/24.working-with-excel-files-1.md`
 - `[ ]` `Day21-30/25.Python读写Excel文件-2.md` -> `Day21-30/25.working-with-excel-files-2.md`
 - `[ ]` `Day21-30/26.Python操作Word和PowerPoint文件.md` -> `Day21-30/26.working-with-word-and-powerpoint.md`
@@ -155,8 +155,8 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day01-20/20.object-oriented-programming-in-practice.md` against the original Chinese file.
-- `[ ]` Continue with `Day21-30/21.file-io-and-exception-handling.md`.
+- `[~]` Review `Day21-30/24.working-with-excel-files-1.md` against the original Chinese file.
+- `[ ]` Continue with `Day21-30/25.working-with-excel-files-2.md`.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
 ## Checkpoint
@@ -222,5 +222,14 @@ Status legend:
   Status: complete
   Completed: revised toward a closer literal translation of the original lesson, including the visibility discussion, static-method explanation, and the polymorphism summary
 - `Day01-20/20.object-oriented-programming-in-practice.md`
-  Status: next in queue
-  Completed: not started yet
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the class-relationship explanation, operator-overloading discussion, and the fuller payroll-system walkthrough
+- `Day21-30/21.file-io-and-exception-handling.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the fuller persistence and filesystem explanation, exception-handling notes, and binary-file examples
+- `Day21-30/22.serialization-and-deserialization.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the browser-console JSON walkthrough, the fuller pip section, and the network-API explanation
+- `Day21-30/23.working-with-csv-files.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the CSV introduction, writer-parameter notes, and the pandas summary
