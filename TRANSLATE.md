@@ -97,7 +97,7 @@ Status legend:
 
 ## Day61-80
 
-- `[ ]` `Day61-65/61.网络数据采集概述.md` -> `Day61-65/61.web-data-collection-overview.md`
+- `[x]` `Day61-65/61.网络数据采集概述.md` -> `Day61-65/61.web-data-collection-overview.md`
 - `[ ]` `Day61-65/62.用Python获取网络资源-1.md` -> `Day61-65/62.fetching-web-resources.md`
 - `[ ]` `Day61-65/62.用Python解析HTML页面-2.md` -> `Day61-65/62.parsing-html-with-python.md`
 - `[ ]` `Day61-65/63.Python中的并发编程-1.md` -> `Day61-65/63.concurrent-programming-in-python-1.md`
@@ -155,7 +155,7 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day61-65/61.no-sql.md`.
+- `[~]` Review `Day61-65/62.fetching-web-resources.md`.
 - `[ ]` Continue through the lessons in order after that.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
@@ -275,3 +275,6 @@ Status legend:
 - `Day46-60/60.project-deployment.md`
   Status: complete
   Completed: pass 2 literal review completed, with the short pointer rewritten into closer literal English and the tracker path corrected to the real deployment lesson
+- `Day61-65/61.web-data-collection-overview.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the robots examples, HTTP diagrams, crawler-tool notes, and the fuller crawler workflow restored from the Chinese source
