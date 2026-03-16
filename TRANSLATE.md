@@ -28,7 +28,7 @@ Status legend:
 ## Day01-20
 
 - `[x]` `Day01-20/01.初识Python.md` -> `Day01-20/01.getting-started-with-python.md`
-- `[ ]` `Day01-20/02.第一个Python程序.md` -> `Day01-20/02.first-python-program.md`
+- `[x]` `Day01-20/02.第一个Python程序.md` -> `Day01-20/02.first-python-program.md`
 - `[ ]` `Day01-20/03.Python语言中的变量.md` -> `Day01-20/03.variables-in-python.md`
 - `[ ]` `Day01-20/04.Python语言中的运算符.md` -> `Day01-20/04.operators-in-python.md`
 - `[ ]` `Day01-20/05.分支结构.md` -> `Day01-20/05.branching.md`
@@ -155,7 +155,7 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day01-20/02.first-python-program.md`.
+- `[~]` Review `Day01-20/03.variables-in-python.md`.
 - `[ ]` Continue through the lessons in order after that.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
@@ -173,3 +173,6 @@ Status legend:
 - `Day01-20/01.getting-started-with-python.md`
   Status: complete
   Completed: pass 2 literal review completed, with the intro wording tightened and the Windows installation notes brought closer to the Chinese source
+- `Day01-20/02.first-python-program.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the tooling descriptions and the hello-world explanation tightened toward the Chinese source
