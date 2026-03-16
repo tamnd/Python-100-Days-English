@@ -149,8 +149,8 @@ Status legend:
 
 - `[ ]` `公开课/年薪50W+的Python程序员如何写代码/...`
 - `[ ]` `番外篇/*.md`
-- `[ ]` `Day66-80/code/*.ipynb`
-- `[ ]` `public-lectures/**/*.ipynb`
+- `[x]` `Day66-80/code/*.ipynb`
+- `[x]` `public-lectures/**/*.ipynb`
 - `[ ]` `*.sql`, `*.java`, `*.html`, `*.txt`, `*.csv`
 
 ## Current Focus
@@ -263,6 +263,12 @@ Status legend:
 - `Day91-100/100.supplementary-content.md`
   Status: complete
   Completed: expanded the final note into a direct translation of the original references to interview, mathematics, and deep-learning follow-up projects
+- `Day66-80/code/day01.ipynb` through `Day66-80/code/day06.ipynb`
+  Status: complete
+  Completed: reviewed the notebook pairings cell by cell against the Chinese originals and confirmed the English notebooks preserve the original structure and markdown scope
+- `public-lectures/coding-like-a-500k-python-engineer/code/Python/using-pandas-for-data-analysis.ipynb`
+  Status: complete
+  Completed: reviewed the translated notebook against the Chinese original and confirmed the notebook structure matches and no Chinese text remains in the English copy
 - `Day01-20/19.object-oriented-programming-advanced.md`
   Status: complete
   Completed: revised toward a closer literal translation of the original lesson, including the visibility discussion, static-method explanation, and the polymorphism summary

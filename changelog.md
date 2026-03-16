@@ -34,6 +34,7 @@
 30. Revised `Day81-90/86.k-means-clustering.md` through `Day81-90/90.machine-learning-in-practice.md` toward a closer literal translation and advanced the review checkpoint to Day 91.
 31. Revised `Day91-100/91.team-project-problems-and-solutions.md` through `Day91-100/95.django-for-commercial-projects.md` toward a closer literal translation and advanced the review checkpoint to Day 96.
 32. Revised `Day91-100/96.software-testing-and-automation.md` through `Day91-100/100.supplementary-content.md` toward a closer literal translation and closed out the lesson review sequence.
+33. Reviewed the translated `*.ipynb` files against the Chinese notebook sources and confirmed the notebook translation set is structurally aligned and clean of Chinese text.
 
 ### December 7, 2025
 
