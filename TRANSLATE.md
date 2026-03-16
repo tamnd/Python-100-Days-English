@@ -53,13 +53,13 @@ Status legend:
 - `[x]` `Day21-30/21.文件读写和异常处理.md` -> `Day21-30/21.file-io-and-exception-handling.md`
 - `[x]` `Day21-30/22.对象的序列化和反序列化.md` -> `Day21-30/22.serialization-and-deserialization.md`
 - `[x]` `Day21-30/23.Python读写CSV文件.md` -> `Day21-30/23.working-with-csv-files.md`
-- `[ ]` `Day21-30/24.Python读写Excel文件-1.md` -> `Day21-30/24.working-with-excel-files-1.md`
-- `[ ]` `Day21-30/25.Python读写Excel文件-2.md` -> `Day21-30/25.working-with-excel-files-2.md`
-- `[ ]` `Day21-30/26.Python操作Word和PowerPoint文件.md` -> `Day21-30/26.working-with-word-and-powerpoint.md`
-- `[ ]` `Day21-30/27.Python操作PDF文件.md` -> `Day21-30/27.working-with-pdf-files.md`
-- `[ ]` `Day21-30/28.Python处理图像.md` -> `Day21-30/28.image-processing.md`
-- `[ ]` `Day21-30/29.Python发送邮件和短信.md` -> `Day21-30/29.sending-email-and-sms.md`
-- `[ ]` `Day21-30/30.正则表达式的应用.md` -> `Day21-30/30.regular-expressions-in-practice.md`
+- `[x]` `Day21-30/24.Python读写Excel文件-1.md` -> `Day21-30/24.working-with-excel-files-1.md`
+- `[x]` `Day21-30/25.Python读写Excel文件-2.md` -> `Day21-30/25.working-with-excel-files-2.md`
+- `[x]` `Day21-30/26.Python操作Word和PowerPoint文件.md` -> `Day21-30/26.working-with-word-and-powerpoint.md`
+- `[x]` `Day21-30/27.Python操作PDF文件.md` -> `Day21-30/27.working-with-pdf-files.md`
+- `[x]` `Day21-30/28.Python处理图像.md` -> `Day21-30/28.image-processing.md`
+- `[x]` `Day21-30/29.Python发送邮件和短信.md` -> `Day21-30/29.sending-email-and-sms.md`
+- `[x]` `Day21-30/30.正则表达式的应用.md` -> `Day21-30/30.regular-expressions-in-practice.md`
 
 ## Day31-45
 
@@ -155,8 +155,8 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day21-30/24.working-with-excel-files-1.md` against the original Chinese file.
-- `[ ]` Continue with `Day21-30/25.working-with-excel-files-2.md`.
+- `[~]` Review `Day31-35/31.python-advanced.md` against the original Chinese file.
+- `[ ]` Continue with `Day31-35/32-33.web-frontend-introduction.md`.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
 ## Checkpoint
@@ -233,3 +233,24 @@ Status legend:
 - `Day21-30/23.working-with-csv-files.md`
   Status: complete
   Completed: revised toward a closer literal translation of the original lesson, including the CSV introduction, writer-parameter notes, and the pandas summary
+- `Day21-30/24.working-with-excel-files-1.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the xlrd/xlwt overview, style-setting walkthrough, and the formula example
+- `Day21-30/25.working-with-excel-files-2.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the openpyxl advantages, worksheet-access notes, and the chart-generation walkthrough
+- `Day21-30/26.working-with-word-and-powerpoint.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the Word template workflow and the PowerPoint example framing
+- `Day21-30/27.working-with-pdf-files.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the text-extraction caveats, page operations, and reportlab example
+- `Day21-30/28.image-processing.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the color and pixel explanations, Pillow examples, and the drawing walkthrough
+- `Day21-30/29.sending-email-and-sms.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the SMTP background, attachment example, helper function, and SMS-platform notes
+- `Day21-30/30.regular-expressions-in-practice.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the expanded regex reference table, Python re notes, and the example explanations

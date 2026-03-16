@@ -19,6 +19,7 @@
 15. Revised `Day01-20/16.advanced-functions.md` and `Day01-20/17.advanced-function-applications.md` toward a closer literal translation and advanced the review checkpoint to Day 18.
 16. Revised `Day01-20/18.object-oriented-programming-intro.md` and `Day01-20/19.object-oriented-programming-advanced.md` toward a closer literal translation and advanced the review checkpoint to Day 20.
 17. Revised `Day01-20/20.object-oriented-programming-in-practice.md`, `Day21-30/21.file-io-and-exception-handling.md`, `Day21-30/22.serialization-and-deserialization.md`, and `Day21-30/23.working-with-csv-files.md` toward a closer literal translation and advanced the review checkpoint to Day 24.
+18. Revised `Day21-30/24.working-with-excel-files-1.md` through `Day21-30/30.regular-expressions-in-practice.md` toward a closer literal translation and advanced the review checkpoint to Day 31.
 
 ### December 7, 2025
 
