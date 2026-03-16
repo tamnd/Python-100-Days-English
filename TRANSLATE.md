@@ -81,7 +81,7 @@ Status legend:
 
 - `[x]` `Day46-60/46.Django快速上手.md` -> `Day46-60/46.getting-started-with-django.md`
 - `[x]` `Day46-60/47.深入模型.md` -> `Day46-60/47.models-in-depth.md`
-- `[ ]` `Day46-60/48.静态资源和Ajax请求.md` -> `Day46-60/48.static-assets-and-ajax.md`
+- `[x]` `Day46-60/48.静态资源和Ajax请求.md` -> `Day46-60/48.static-assets-and-ajax.md`
 - `[ ]` `Day46-60/49.Cookie和Session.md` -> `Day46-60/49.cookies-and-sessions.md`
 - `[ ]` `Day46-60/50.制作报表.md` -> `Day46-60/50.reporting.md`
 - `[ ]` `Day46-60/51.日志和调试工具栏.md` -> `Day46-60/51.logging-and-debug-toolbar.md`
@@ -155,7 +155,7 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day46-60/48.static-assets-and-ajax.md`.
+- `[~]` Review `Day46-60/49.cookies-and-sessions.md`.
 - `[ ]` Continue through the lessons in order after that.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
@@ -236,3 +236,6 @@ Status legend:
 - `Day46-60/47.models-in-depth.md`
   Status: complete
   Completed: pass 2 literal review completed, with the missing admin walkthrough screenshots and the fuller subject/teacher template examples restored from the Chinese source
+- `Day46-60/48.static-assets-and-ajax.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the missing Ajax request-flow images and the full teacher template example restored from the Chinese source
