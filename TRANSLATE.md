@@ -40,9 +40,9 @@ Status legend:
 - `[x]` `Day01-20/11.常用数据结构之字符串.md` -> `Day01-20/11.strings.md`
 - `[x]` `Day01-20/12.常用数据结构之集合.md` -> `Day01-20/12.sets.md`
 - `[x]` `Day01-20/13.常用数据结构之字典.md` -> `Day01-20/13.dictionaries.md`
-- `[~]` `Day01-20/14.函数和模块.md` -> `Day01-20/14.functions-and-modules.md`
-- `[ ]` `Day01-20/15.函数应用实战.md` -> `Day01-20/15.function-practice.md`
-- `[ ]` `Day01-20/16.函数使用进阶.md` -> `Day01-20/16.advanced-functions.md`
+- `[x]` `Day01-20/14.函数和模块.md` -> `Day01-20/14.functions-and-modules.md`
+- `[x]` `Day01-20/15.函数应用实战.md` -> `Day01-20/15.function-practice.md`
+- `[~]` `Day01-20/16.函数使用进阶.md` -> `Day01-20/16.advanced-functions.md`
 - `[ ]` `Day01-20/17.函数高级应用.md` -> `Day01-20/17.advanced-function-applications.md`
 - `[ ]` `Day01-20/18.面向对象编程入门.md` -> `Day01-20/18.object-oriented-programming-intro.md`
 - `[ ]` `Day01-20/19.面向对象编程进阶.md` -> `Day01-20/19.object-oriented-programming-advanced.md`
@@ -155,8 +155,8 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day01-20/14.functions-and-modules.md` against the original Chinese file.
-- `[ ]` Continue with `Day01-20/15.function-practice.md`.
+- `[~]` Review `Day01-20/16.advanced-functions.md` against the original Chinese file.
+- `[ ]` Continue with `Day01-20/17.advanced-function-applications.md`.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
 ## Checkpoint
@@ -204,5 +204,11 @@ Status legend:
   Status: complete
   Completed: revised toward a closer literal translation of the original lesson, including the modeling setup and the dictionary-key explanation
 - `Day01-20/14.functions-and-modules.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the duplication discussion and the fuller explanation of function definition and imports
+- `Day01-20/15.function-practice.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the prime-number notes and the fuller gcd/lcm explanation
+- `Day01-20/16.advanced-functions.md`
   Status: next in queue
   Completed: not started yet

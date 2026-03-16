@@ -15,6 +15,7 @@
 11. Revised `Day01-20/10.tuples.md` toward a closer literal translation and advanced the review checkpoint to Day 11.
 12. Revised `Day01-20/11.strings.md` toward a closer literal translation and advanced the review checkpoint to Day 12.
 13. Revised `Day01-20/12.sets.md` and `Day01-20/13.dictionaries.md` toward a closer literal translation and advanced the review checkpoint to Day 14.
+14. Revised `Day01-20/14.functions-and-modules.md` and `Day01-20/15.function-practice.md` toward a closer literal translation and advanced the review checkpoint to Day 16.
 
 ### December 7, 2025
 
