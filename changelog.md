@@ -26,6 +26,7 @@
 22. Revised `Day46-60/46.getting-started-with-django.md` through `Day46-60/50.reporting.md` toward a closer literal translation and advanced the review checkpoint to Day 51.
 23. Revised `Day46-60/51.logging-and-debug-toolbar.md` through `Day46-60/55.restful-architecture-and-drf-advanced.md` toward a closer literal translation and advanced the review checkpoint to Day 56.
 24. Revised `Day46-60/56.caching.md` through `Day46-60/60.project-deployment.md` toward a closer literal translation and advanced the review checkpoint to Day 61.
+25. Revised `Day61-65/61.web-data-collection-overview.md` through `Day61-65/65.introduction-to-scrapy.md` toward a closer literal translation and advanced the review checkpoint to Day 66.
 
 ### December 7, 2025
 

@@ -97,15 +97,15 @@ Status legend:
 
 ## Day61-80
 
-- `[ ]` `Day61-65/61.网络数据采集概述.md`
-- `[ ]` `Day61-65/62.用Python获取网络资源-1.md`
-- `[ ]` `Day61-65/62.用Python解析HTML页面-2.md`
-- `[ ]` `Day61-65/63.Python中的并发编程-1.md`
-- `[ ]` `Day61-65/63.Python中的并发编程-2.md`
-- `[ ]` `Day61-65/63.Python中的并发编程-3.md`
-- `[ ]` `Day61-65/63.并发编程在爬虫中的应用.md`
-- `[ ]` `Day61-65/64.使用Selenium抓取网页动态内容.md`
-- `[ ]` `Day61-65/65.爬虫框架Scrapy简介.md`
+- `[x]` `Day61-65/61.网络数据采集概述.md`
+- `[x]` `Day61-65/62.用Python获取网络资源-1.md`
+- `[x]` `Day61-65/62.用Python解析HTML页面-2.md`
+- `[x]` `Day61-65/63.Python中的并发编程-1.md`
+- `[x]` `Day61-65/63.Python中的并发编程-2.md`
+- `[x]` `Day61-65/63.Python中的并发编程-3.md`
+- `[x]` `Day61-65/63.并发编程在爬虫中的应用.md`
+- `[x]` `Day61-65/64.使用Selenium抓取网页动态内容.md`
+- `[x]` `Day61-65/65.爬虫框架Scrapy简介.md`
 - `[ ]` `Day66-80/66.数据分析概述.md`
 - `[ ]` `Day66-80/67.环境准备.md`
 - `[ ]` `Day66-80/68.NumPy的应用-1.md`
@@ -155,8 +155,8 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day61-65/61.web-data-collection-overview.md` against the original Chinese file.
-- `[ ]` Continue with `Day61-65/62.fetching-web-resources.md`.
+- `[~]` Review `Day66-80/66.data-analysis-overview.md` against the original Chinese file.
+- `[ ]` Continue with `Day66-80/67.environment-setup.md`.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
 ## Checkpoint
@@ -338,3 +338,30 @@ Status legend:
 - `Day46-60/60.project-deployment.md`
   Status: complete
   Completed: reviewed against the original short lesson and kept it aligned as a brief pointer to the later deployment and tuning discussion
+- `Day61-65/61.web-data-collection-overview.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the legality discussion, robots-protocol notes, HTTP refresher, and crawler workflow
+- `Day61-65/62.fetching-web-resources.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the requests framing, the Douban example notes, and the proxy discussion
+- `Day61-65/62.parsing-html-with-python.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the HTML-structure explanation, the XPath notes, and the CSS-selector framing
+- `Day61-65/63.concurrent-programming-in-python-1.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the process-vs-thread discussion, the concurrency and parallelism distinction, and the shared-resource warning
+- `Day61-65/63.concurrent-programming-in-python-2.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the multiprocessing framing, the CPU-bound comparison, and the queue note
+- `Day61-65/63.concurrent-programming-in-python-3.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the blocking and async definitions, the coroutine framing, and the aiohttp conclusion
+- `Day61-65/63.concurrent-programming-in-crawlers.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the 360-image API context and the performance comparison summary
+- `Day61-65/64.selenium-for-dynamic-content.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the API-vs-browser framing and the closing Selenium example note
+- `Day61-65/65.introduction-to-scrapy.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the repeat-request fix and the pipeline discussion
