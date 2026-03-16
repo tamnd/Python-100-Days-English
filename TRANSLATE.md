@@ -55,11 +55,11 @@ Status legend:
 - `[x]` `Day21-30/23.Python读写CSV文件.md` -> `Day21-30/23.working-with-csv-files.md`
 - `[x]` `Day21-30/24.Python读写Excel文件-1.md` -> `Day21-30/24.working-with-excel-files-1.md`
 - `[x]` `Day21-30/25.Python读写Excel文件-2.md` -> `Day21-30/25.working-with-excel-files-2.md`
-- `[ ]` `Day21-30/26.Python操作Word和PowerPoint文件.md` -> `Day21-30/26.working-with-word-and-powerpoint.md`
-- `[ ]` `Day21-30/27.Python操作PDF文件.md` -> `Day21-30/27.working-with-pdf-files.md`
-- `[ ]` `Day21-30/28.Python处理图像.md` -> `Day21-30/28.image-processing.md`
-- `[ ]` `Day21-30/29.Python发送邮件和短信.md` -> `Day21-30/29.sending-email-and-sms.md`
-- `[ ]` `Day21-30/30.正则表达式的应用.md` -> `Day21-30/30.regular-expressions-in-practice.md`
+- `[x]` `Day21-30/26.Python操作Word和PowerPoint文件.md` -> `Day21-30/26.working-with-word-and-powerpoint.md`
+- `[x]` `Day21-30/27.Python操作PDF文件.md` -> `Day21-30/27.working-with-pdf-files.md`
+- `[x]` `Day21-30/28.Python处理图像.md` -> `Day21-30/28.image-processing.md`
+- `[x]` `Day21-30/29.Python发送邮件和短信.md` -> `Day21-30/29.sending-email-and-sms.md`
+- `[x]` `Day21-30/30.正则表达式的应用.md` -> `Day21-30/30.regular-expressions-in-practice.md`
 
 ## Day31-45
 
@@ -155,7 +155,7 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day21-30/26.working-with-word-and-powerpoint.md`.
+- `[~]` Review `Day31-35/31.python-advanced.md`.
 - `[ ]` Continue through the lessons in order after that.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
