@@ -71,11 +71,11 @@ Status legend:
 - `[x]` `Day36-45/38.SQL详解之DML.md` -> `Day36-45/38.sql-dml.md`
 - `[x]` `Day36-45/39.SQL详解之DQL.md` -> `Day36-45/39.sql-dql.md`
 - `[x]` `Day36-45/40.SQL详解之DCL.md` -> `Day36-45/40.sql-dcl.md`
-- `[ ]` `Day36-45/41.MySQL新特性.md` -> `Day36-45/41.new-features-in-mysql.md`
-- `[ ]` `Day36-45/42.视图、函数和过程.md` -> `Day36-45/42.views-functions-and-procedures.md`
-- `[ ]` `Day36-45/43.索引.md` -> `Day36-45/43.indexes.md`
-- `[ ]` `Day36-45/44.Python接入MySQL数据库.md` -> `Day36-45/44.connecting-python-to-mysql.md`
-- `[ ]` `Day36-45/45.Hive实战.md` -> `Day36-45/45.hive-in-practice.md`
+- `[x]` `Day36-45/41.MySQL新特性.md` -> `Day36-45/41.mysql-new-features.md`
+- `[x]` `Day36-45/42.视图、函数和过程.md` -> `Day36-45/42.views-functions-and-procedures.md`
+- `[x]` `Day36-45/43.索引.md` -> `Day36-45/43.indexes.md`
+- `[x]` `Day36-45/44.Python接入MySQL数据库.md` -> `Day36-45/44.python-and-mysql.md`
+- `[x]` `Day36-45/45.Hive实战.md` -> `Day36-45/45.hive-in-practice.md`
 
 ## Day46-60
 
@@ -155,8 +155,8 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day36-45/41.mysql-new-features.md` against the original Chinese file.
-- `[ ]` Continue with `Day36-45/42.views-functions-and-procedures.md`.
+- `[~]` Review `Day46-60/46.getting-started-with-django.md` against the original Chinese file.
+- `[ ]` Continue with `Day46-60/47.models-in-depth.md`.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
 ## Checkpoint
@@ -278,3 +278,18 @@ Status legend:
 - `Day36-45/40.sql-dcl.md`
   Status: complete
   Completed: revised toward a closer literal translation of the original lesson, including user creation, privilege grants, revocation, and immediate-refresh notes
+- `Day36-45/41.mysql-new-features.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the fuller JSON examples, result notes, and the expanded window-function explanation
+- `Day36-45/42.views-functions-and-procedures.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the view cautions, function notes, stored-procedure explanation, and the closing design advice
+- `Day36-45/43.indexes.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the execution-plan comparison, prefix-index tradeoffs, and the stronger indexing guidance
+- `Day36-45/44.python-and-mysql.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the fuller five-step explanation, batching note, transaction note, and query-memory guidance
+- `Day36-45/45.hive-in-practice.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the Hive function tables, grouping and sampling comparisons, lateral-view patterns, Hive-vs-MySQL notes, and performance tips

@@ -22,6 +22,7 @@
 18. Revised `Day21-30/24.working-with-excel-files-1.md` through `Day21-30/30.regular-expressions-in-practice.md` toward a closer literal translation and advanced the review checkpoint to Day 31.
 19. Revised `Day31-35/31.python-advanced.md`, `Day31-35/32-33.web-frontend-introduction.md`, and `Day31-35/34-35.linux-basics.md` toward a closer literal translation and advanced the review checkpoint to Day 36.
 20. Revised `Day36-45/36.relational-databases-and-mysql-overview.md` through `Day36-45/40.sql-dcl.md` toward a closer literal translation and advanced the review checkpoint to Day 41.
+21. Revised `Day36-45/41.mysql-new-features.md` through `Day36-45/45.hive-in-practice.md` toward a closer literal translation and advanced the review checkpoint to Day 46.
 
 ### December 7, 2025
 
