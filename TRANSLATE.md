@@ -100,7 +100,7 @@ Status legend:
 - `[x]` `Day61-65/61.网络数据采集概述.md` -> `Day61-65/61.web-data-collection-overview.md`
 - `[x]` `Day61-65/62.用Python获取网络资源-1.md` -> `Day61-65/62.fetching-web-resources.md`
 - `[x]` `Day61-65/62.用Python解析HTML页面-2.md` -> `Day61-65/62.parsing-html-with-python.md`
-- `[ ]` `Day61-65/63.Python中的并发编程-1.md` -> `Day61-65/63.concurrent-programming-in-python-1.md`
+- `[x]` `Day61-65/63.Python中的并发编程-1.md` -> `Day61-65/63.concurrent-programming-in-python-1.md`
 - `[ ]` `Day61-65/63.Python中的并发编程-2.md` -> `Day61-65/63.concurrent-programming-in-python-2.md`
 - `[ ]` `Day61-65/63.Python中的并发编程-3.md` -> `Day61-65/63.concurrent-programming-in-python-3.md`
 - `[ ]` `Day61-65/63.并发编程在爬虫中的应用.md` -> `Day61-65/63.concurrent-programming-in-crawlers.md`
@@ -155,7 +155,7 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day61-65/63.concurrent-programming-in-python-1.md`.
+- `[~]` Review `Day61-65/63.concurrent-programming-in-python-2.md`.
 - `[ ]` Continue through the lessons in order after that.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
@@ -284,3 +284,6 @@ Status legend:
 - `Day61-65/62.parsing-html-with-python.md`
   Status: complete
   Completed: pass 2 literal review completed, with the missing HTML-structure screenshot, the fuller XPath examples and tables, the developer-tools note, and the closer BeautifulSoup and summary wording restored from the Chinese source
+- `Day61-65/63.concurrent-programming-in-python-1.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the missing process-thread explanation, multithreading examples, daemon-thread section, resource-contention walkthrough, and GIL discussion restored from the Chinese source
