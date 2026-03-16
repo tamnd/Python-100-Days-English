@@ -102,7 +102,7 @@ Status legend:
 - `[x]` `Day61-65/62.用Python解析HTML页面-2.md` -> `Day61-65/62.parsing-html-with-python.md`
 - `[x]` `Day61-65/63.Python中的并发编程-1.md` -> `Day61-65/63.concurrent-programming-in-python-1.md`
 - `[x]` `Day61-65/63.Python中的并发编程-2.md` -> `Day61-65/63.concurrent-programming-in-python-2.md`
-- `[ ]` `Day61-65/63.Python中的并发编程-3.md` -> `Day61-65/63.concurrent-programming-in-python-3.md`
+- `[x]` `Day61-65/63.Python中的并发编程-3.md` -> `Day61-65/63.concurrent-programming-in-python-3.md`
 - `[ ]` `Day61-65/63.并发编程在爬虫中的应用.md` -> `Day61-65/63.concurrent-programming-in-crawlers.md`
 - `[ ]` `Day61-65/64.使用Selenium抓取网页动态内容.md` -> `Day61-65/64.selenium-for-dynamic-content.md`
 - `[ ]` `Day61-65/65.爬虫框架Scrapy简介.md` -> `Day61-65/65.introduction-to-scrapy.md`
@@ -155,7 +155,7 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day61-65/63.concurrent-programming-in-python-3.md`.
+- `[~]` Review `Day61-65/63.concurrent-programming-in-crawlers.md`.
 - `[ ]` Continue through the lessons in order after that.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
@@ -290,3 +290,6 @@ Status legend:
 - `Day61-65/63.concurrent-programming-in-python-2.md`
   Status: complete
   Completed: pass 2 literal review completed, with the missing fork section, prime-number benchmark details, fuller process communication example, and the longer multithreading-versus-multiprocessing summary restored from the Chinese source
+- `Day61-65/63.concurrent-programming-in-python-3.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the fuller blocking-and-async concept section, the coroutine activation example, the event-loop explanation, and the expanded aiohttp walkthrough restored from the Chinese source
