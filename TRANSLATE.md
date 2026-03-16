@@ -44,9 +44,9 @@ Status legend:
 - `[x]` `Day01-20/15.函数应用实战.md` -> `Day01-20/15.function-practice.md`
 - `[x]` `Day01-20/16.函数使用进阶.md` -> `Day01-20/16.advanced-functions.md`
 - `[x]` `Day01-20/17.函数高级应用.md` -> `Day01-20/17.advanced-function-applications.md`
-- `[~]` `Day01-20/18.面向对象编程入门.md` -> `Day01-20/18.object-oriented-programming-intro.md`
-- `[ ]` `Day01-20/19.面向对象编程进阶.md` -> `Day01-20/19.object-oriented-programming-advanced.md`
-- `[ ]` `Day01-20/20.面向对象编程应用.md` -> `Day01-20/20.object-oriented-programming-in-practice.md`
+- `[x]` `Day01-20/18.面向对象编程入门.md` -> `Day01-20/18.object-oriented-programming-intro.md`
+- `[x]` `Day01-20/19.面向对象编程进阶.md` -> `Day01-20/19.object-oriented-programming-advanced.md`
+- `[~]` `Day01-20/20.面向对象编程应用.md` -> `Day01-20/20.object-oriented-programming-in-practice.md`
 
 ## Day21-30
 
@@ -155,8 +155,8 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day01-20/18.object-oriented-programming-intro.md` against the original Chinese file.
-- `[ ]` Continue with `Day01-20/19.object-oriented-programming-advanced.md`.
+- `[~]` Review `Day01-20/20.object-oriented-programming-in-practice.md` against the original Chinese file.
+- `[ ]` Continue with `Day21-30/21.file-io-and-exception-handling.md`.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
 ## Checkpoint
@@ -216,5 +216,11 @@ Status legend:
   Status: complete
   Completed: revised toward a closer literal translation of the original lesson, including the decorator motivation and the fuller recursion and stack explanation
 - `Day01-20/18.object-oriented-programming-intro.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the OOP framing, encapsulation explanation, and the three-step object-oriented workflow
+- `Day01-20/19.object-oriented-programming-advanced.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the visibility discussion, static-method explanation, and the polymorphism summary
+- `Day01-20/20.object-oriented-programming-in-practice.md`
   Status: next in queue
   Completed: not started yet
