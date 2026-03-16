@@ -37,24 +37,24 @@ Status legend:
 - `[x]` `Day01-20/08.常用数据结构之列表-1.md` -> `Day01-20/08.lists-1.md`
 - `[x]` `Day01-20/09.常用数据结构之列表-2.md` -> `Day01-20/09.lists-2.md`
 - `[x]` `Day01-20/10.常用数据结构之元组.md` -> `Day01-20/10.tuples.md`
-- `[ ]` `Day01-20/11.常用数据结构之字符串.md` -> `Day01-20/11.strings.md`
-- `[ ]` `Day01-20/12.常用数据结构之集合.md` -> `Day01-20/12.sets.md`
-- `[ ]` `Day01-20/13.常用数据结构之字典.md` -> `Day01-20/13.dictionaries.md`
-- `[ ]` `Day01-20/14.函数和模块.md` -> `Day01-20/14.functions-and-modules.md`
-- `[ ]` `Day01-20/15.函数应用实战.md` -> `Day01-20/15.function-practice.md`
-- `[ ]` `Day01-20/16.函数使用进阶.md` -> `Day01-20/16.advanced-functions.md`
-- `[ ]` `Day01-20/17.函数高级应用.md` -> `Day01-20/17.advanced-function-applications.md`
-- `[ ]` `Day01-20/18.面向对象编程入门.md` -> `Day01-20/18.object-oriented-programming-intro.md`
-- `[ ]` `Day01-20/19.面向对象编程进阶.md` -> `Day01-20/19.object-oriented-programming-advanced.md`
-- `[ ]` `Day01-20/20.面向对象编程应用.md` -> `Day01-20/20.object-oriented-programming-in-practice.md`
+- `[x]` `Day01-20/11.常用数据结构之字符串.md` -> `Day01-20/11.strings.md`
+- `[x]` `Day01-20/12.常用数据结构之集合.md` -> `Day01-20/12.sets.md`
+- `[x]` `Day01-20/13.常用数据结构之字典.md` -> `Day01-20/13.dictionaries.md`
+- `[x]` `Day01-20/14.函数和模块.md` -> `Day01-20/14.functions-and-modules.md`
+- `[x]` `Day01-20/15.函数应用实战.md` -> `Day01-20/15.function-practice.md`
+- `[x]` `Day01-20/16.函数使用进阶.md` -> `Day01-20/16.advanced-functions.md`
+- `[x]` `Day01-20/17.函数高级应用.md` -> `Day01-20/17.advanced-function-applications.md`
+- `[x]` `Day01-20/18.面向对象编程入门.md` -> `Day01-20/18.object-oriented-programming-intro.md`
+- `[x]` `Day01-20/19.面向对象编程进阶.md` -> `Day01-20/19.object-oriented-programming-advanced.md`
+- `[x]` `Day01-20/20.面向对象编程应用.md` -> `Day01-20/20.object-oriented-programming-in-practice.md`
 
 ## Day21-30
 
-- `[ ]` `Day21-30/21.文件读写和异常处理.md` -> `Day21-30/21.file-io-and-exception-handling.md`
-- `[ ]` `Day21-30/22.对象的序列化和反序列化.md` -> `Day21-30/22.serialization-and-deserialization.md`
-- `[ ]` `Day21-30/23.Python读写CSV文件.md` -> `Day21-30/23.working-with-csv-files.md`
-- `[ ]` `Day21-30/24.Python读写Excel文件-1.md` -> `Day21-30/24.working-with-excel-files-1.md`
-- `[ ]` `Day21-30/25.Python读写Excel文件-2.md` -> `Day21-30/25.working-with-excel-files-2.md`
+- `[x]` `Day21-30/21.文件读写和异常处理.md` -> `Day21-30/21.file-io-and-exception-handling.md`
+- `[x]` `Day21-30/22.对象的序列化和反序列化.md` -> `Day21-30/22.serialization-and-deserialization.md`
+- `[x]` `Day21-30/23.Python读写CSV文件.md` -> `Day21-30/23.working-with-csv-files.md`
+- `[x]` `Day21-30/24.Python读写Excel文件-1.md` -> `Day21-30/24.working-with-excel-files-1.md`
+- `[x]` `Day21-30/25.Python读写Excel文件-2.md` -> `Day21-30/25.working-with-excel-files-2.md`
 - `[ ]` `Day21-30/26.Python操作Word和PowerPoint文件.md` -> `Day21-30/26.working-with-word-and-powerpoint.md`
 - `[ ]` `Day21-30/27.Python操作PDF文件.md` -> `Day21-30/27.working-with-pdf-files.md`
 - `[ ]` `Day21-30/28.Python处理图像.md` -> `Day21-30/28.image-processing.md`
@@ -155,7 +155,7 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day01-20/11.strings.md`.
+- `[~]` Review `Day21-30/26.working-with-word-and-powerpoint.md`.
 - `[ ]` Continue through the lessons in order after that.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
