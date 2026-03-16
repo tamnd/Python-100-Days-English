@@ -91,7 +91,7 @@ Status legend:
 - `[x]` `Day46-60/55.RESTful架构和DRF进阶.md` -> `Day46-60/55.restful-architecture-and-drf-advanced.md`
 - `[x]` `Day46-60/56.使用缓存.md` -> `Day46-60/56.caching.md`
 - `[x]` `Day46-60/57.接入三方平台.md` -> `Day46-60/57.third-party-platform-integration.md`
-- `[ ]` `Day46-60/58.异步任务和定时任务.md` -> `Day46-60/58.async-and-scheduled-tasks.md`
+- `[x]` `Day46-60/58.异步任务和定时任务.md` -> `Day46-60/58.async-and-scheduled-tasks.md`
 - `[ ]` `Day46-60/59.单元测试.md` -> `Day46-60/59.unit-testing.md`
 - `[ ]` `Day46-60/60.项目上线.md` -> `Day46-60/60.project-deployment.md`
 
@@ -155,7 +155,7 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day46-60/58.async-and-scheduled-tasks.md`.
+- `[~]` Review `Day46-60/59.unit-testing.md`.
 - `[ ]` Continue through the lessons in order after that.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
@@ -266,3 +266,6 @@ Status legend:
 - `Day46-60/57.third-party-platform-integration.md`
   Status: complete
   Completed: pass 2 literal review completed, with the Luosimao setup steps and screenshots, the fuller SMS notes, the Qiniu setup flow, and the missing upload-management screenshot restored from the Chinese source
+- `Day46-60/58.async-and-scheduled-tasks.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the short async-task guidance tightened back toward the Chinese source and the Celery pointer kept in place
