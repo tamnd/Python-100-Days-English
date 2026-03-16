@@ -89,7 +89,7 @@ Status legend:
 - `[x]` `Day46-60/53.前后端分离开发入门.md` -> `Day46-60/53.frontend-backend-separation-intro.md`
 - `[x]` `Day46-60/54.RESTful架构和DRF入门.md` -> `Day46-60/54.restful-architecture-and-drf-intro.md`
 - `[x]` `Day46-60/55.RESTful架构和DRF进阶.md` -> `Day46-60/55.restful-architecture-and-drf-advanced.md`
-- `[ ]` `Day46-60/56.使用缓存.md` -> `Day46-60/56.caching.md`
+- `[x]` `Day46-60/56.使用缓存.md` -> `Day46-60/56.caching.md`
 - `[ ]` `Day46-60/57.接入三方平台.md` -> `Day46-60/57.third-party-platform-integration.md`
 - `[ ]` `Day46-60/58.异步任务和定时任务.md` -> `Day46-60/58.async-and-scheduled-tasks.md`
 - `[ ]` `Day46-60/59.单元测试.md` -> `Day46-60/59.unit-testing.md`
@@ -155,7 +155,7 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day46-60/56.caching.md`.
+- `[~]` Review `Day46-60/57.third-party-platform-integration.md`.
 - `[ ]` Continue through the lessons in order after that.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
@@ -260,3 +260,6 @@ Status legend:
 - `Day46-60/55.restful-architecture-and-drf-advanced.md`
   Status: complete
   Completed: pass 2 literal review completed, with the fuller CBV explanation, the `ModelViewSet` source example, and the pagination and filtering notes pulled closer to the Chinese source
+- `Day46-60/56.caching.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the cache-architecture image, the fuller declarative and programmatic caching notes, and the cache update, penetration, breakdown, and avalanche explanations restored from the Chinese source
