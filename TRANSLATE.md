@@ -93,7 +93,7 @@ Status legend:
 - `[x]` `Day46-60/57.接入三方平台.md` -> `Day46-60/57.third-party-platform-integration.md`
 - `[x]` `Day46-60/58.异步任务和定时任务.md` -> `Day46-60/58.async-and-scheduled-tasks.md`
 - `[x]` `Day46-60/59.单元测试.md` -> `Day46-60/59.unit-testing.md`
-- `[ ]` `Day46-60/60.项目上线.md` -> `Day46-60/60.project-deployment.md`
+- `[x]` `Day46-60/60.项目上线.md` -> `Day46-60/60.project-deployment.md`
 
 ## Day61-80
 
@@ -155,7 +155,7 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day46-60/60.performance-testing.md`.
+- `[~]` Review `Day61-65/61.no-sql.md`.
 - `[ ]` Continue through the lessons in order after that.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
@@ -272,3 +272,6 @@ Status legend:
 - `Day46-60/59.unit-testing.md`
   Status: complete
   Completed: pass 2 literal review completed, with the short pointer rewritten into closer literal English
+- `Day46-60/60.project-deployment.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the short pointer rewritten into closer literal English and the tracker path corrected to the real deployment lesson
