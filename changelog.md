@@ -13,6 +13,7 @@
 9. Revised `Day01-20/08.lists-1.md` toward a closer literal translation and advanced the review checkpoint to Day 09.
 10. Revised `Day01-20/09.lists-2.md` toward a closer literal translation and advanced the review checkpoint to Day 10.
 11. Revised `Day01-20/10.tuples.md` toward a closer literal translation and advanced the review checkpoint to Day 11.
+12. Revised `Day01-20/11.strings.md` toward a closer literal translation and advanced the review checkpoint to Day 12.
 
 ### December 7, 2025
 
