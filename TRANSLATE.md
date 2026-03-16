@@ -84,7 +84,7 @@ Status legend:
 - `[x]` `Day46-60/48.静态资源和Ajax请求.md` -> `Day46-60/48.static-assets-and-ajax.md`
 - `[x]` `Day46-60/49.Cookie和Session.md` -> `Day46-60/49.cookies-and-sessions.md`
 - `[x]` `Day46-60/50.制作报表.md` -> `Day46-60/50.reporting.md`
-- `[ ]` `Day46-60/51.日志和调试工具栏.md` -> `Day46-60/51.logging-and-debug-toolbar.md`
+- `[x]` `Day46-60/51.日志和调试工具栏.md` -> `Day46-60/51.logging-and-debug-toolbar.md`
 - `[ ]` `Day46-60/52.中间件的应用.md` -> `Day46-60/52.middleware.md`
 - `[ ]` `Day46-60/53.前后端分离开发入门.md` -> `Day46-60/53.frontend-backend-separation-intro.md`
 - `[ ]` `Day46-60/54.RESTful架构和DRF入门.md` -> `Day46-60/54.restful-architecture-and-drf-intro.md`
@@ -155,7 +155,7 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day46-60/51.logging-and-debug-toolbar.md`.
+- `[~]` Review `Day46-60/52.middleware.md`.
 - `[ ]` Continue through the lessons in order after that.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
@@ -245,3 +245,6 @@ Status legend:
 - `Day46-60/50.reporting.md`
   Status: complete
   Completed: pass 2 literal review completed, with the reportlab note, the chart output image, and the Excel and ECharts explanations tightened back toward the Chinese source
+- `Day46-60/51.logging-and-debug-toolbar.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the debug-toolbar table and screenshot restored, the concrete SQL example added back, and the ORM optimization notes brought closer to the Chinese source
