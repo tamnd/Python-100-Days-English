@@ -8,6 +8,7 @@
 4. Revised `Day01-20/03.variables-in-python.md` toward a closer literal translation and advanced the review checkpoint to Day 04.
 5. Revised `Day01-20/04.operators-in-python.md` toward a closer literal translation and advanced the review checkpoint to Day 05.
 6. Revised `Day01-20/05.branching.md` toward a closer literal translation and advanced the review checkpoint to Day 06.
+7. Revised `Day01-20/06.loops.md` toward a closer literal translation and advanced the review checkpoint to Day 07.
 
 ### December 7, 2025
 
