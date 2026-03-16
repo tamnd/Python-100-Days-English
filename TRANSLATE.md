@@ -72,7 +72,7 @@ Status legend:
 - `[x]` `Day36-45/39.SQL详解之DQL.md` -> `Day36-45/39.sql-dql.md`
 - `[x]` `Day36-45/40.SQL详解之DCL.md` -> `Day36-45/40.sql-dcl.md`
 - `[x]` `Day36-45/41.MySQL新特性.md` -> `Day36-45/41.mysql-new-features.md`
-- `[ ]` `Day36-45/42.视图、函数和过程.md` -> `Day36-45/42.views-functions-and-procedures.md`
+- `[x]` `Day36-45/42.视图、函数和过程.md` -> `Day36-45/42.views-functions-and-procedures.md`
 - `[ ]` `Day36-45/43.索引.md` -> `Day36-45/43.indexes.md`
 - `[ ]` `Day36-45/44.Python接入MySQL数据库.md` -> `Day36-45/44.python-and-mysql.md`
 - `[ ]` `Day36-45/45.Hive实战.md` -> `Day36-45/45.hive-in-practice.md`
@@ -155,7 +155,7 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day36-45/42.views-functions-and-procedures.md`.
+- `[~]` Review `Day36-45/43.indexes.md`.
 - `[ ]` Continue through the lessons in order after that.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
@@ -218,3 +218,6 @@ Status legend:
 - `Day36-45/41.mysql-new-features.md`
   Status: complete
   Completed: pass 2 literal review completed, with the JSON and window-function explanations pulled closer to the Chinese source and the missing detail in the window-function notes restored
+- `Day36-45/42.views-functions-and-procedures.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the missing later sections on data consistency, transaction isolation, and the closing summary restored from the Chinese source
