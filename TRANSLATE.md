@@ -75,7 +75,7 @@ Status legend:
 - `[x]` `Day36-45/42.视图、函数和过程.md` -> `Day36-45/42.views-functions-and-procedures.md`
 - `[x]` `Day36-45/43.索引.md` -> `Day36-45/43.indexes.md`
 - `[x]` `Day36-45/44.Python接入MySQL数据库.md` -> `Day36-45/44.python-and-mysql.md`
-- `[ ]` `Day36-45/45.Hive实战.md` -> `Day36-45/45.hive-in-practice.md`
+- `[x]` `Day36-45/45.Hive实战.md` -> `Day36-45/45.hive-in-practice.md`
 
 ## Day46-60
 
@@ -155,7 +155,7 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day36-45/45.hive-in-practice.md`.
+- `[~]` Review `Day46-60/46.getting-started-with-django.md`.
 - `[ ]` Continue through the lessons in order after that.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
@@ -227,3 +227,6 @@ Status legend:
 - `Day36-45/44.python-and-mysql.md`
   Status: complete
   Completed: pass 2 literal review completed, with the Python-MySQL workflow and transaction notes rewritten into simpler, more literal English while keeping the original examples
+- `Day36-45/45.hive-in-practice.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the missing setup details and dropped Hive query examples restored, especially in the environment, grouping, and sampling sections
