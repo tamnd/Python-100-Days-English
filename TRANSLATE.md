@@ -139,11 +139,11 @@ Status legend:
 - `[x]` `Day91-100/93.MySQL性能优化.md`
 - `[x]` `Day91-100/94.网络API接口设计.md`
 - `[x]` `Day91-100/95.使用Django开发商业项目.md`
-- `[ ]` `Day91-100/96.软件测试和自动化测试.md`
-- `[ ]` `Day91-100/97.电商网站技术要点剖析.md`
-- `[ ]` `Day91-100/98.项目部署上线和性能调优.md`
-- `[ ]` `Day91-100/99.面试中的公共问题.md`
-- `[ ]` `Day91-100/100.补充内容.md`
+- `[x]` `Day91-100/96.软件测试和自动化测试.md`
+- `[x]` `Day91-100/97.电商网站技术要点剖析.md`
+- `[x]` `Day91-100/98.项目部署上线和性能调优.md`
+- `[x]` `Day91-100/99.面试中的公共问题.md`
+- `[x]` `Day91-100/100.补充内容.md`
 
 ## Supplemental Material
 
@@ -155,8 +155,8 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day91-100/96.software-testing-and-automation.md` against the original Chinese file.
-- `[ ]` Continue with `Day91-100/97.ecommerce-site-architecture.md`.
+- `[~]` Review `changelog.md` against the original Chinese file.
+- `[ ]` Continue with `python-learning-resources.md`.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
 ## Checkpoint
@@ -248,6 +248,21 @@ Status legend:
 - `Day91-100/95.django-for-commercial-projects.md`
   Status: complete
   Completed: replaced the short summary with a fuller lesson covering web architecture, HTTP, models, transactions, URL design, templates, and the broader Django project checklist
+- `Day91-100/96.software-testing-and-automation.md`
+  Status: complete
+  Completed: replaced the short summary with a fuller lesson covering testing methods, testing stages, TDD, unit-testing tools, UI automation, API testing, and CI integration
+- `Day91-100/97.ecommerce-site-architecture.md`
+  Status: complete
+  Completed: replaced the short summary with a fuller lesson covering e-commerce business models, product and admin requirements, SPU and SKU design, third-party login, caching, shopping carts, and payment integration
+- `Day91-100/98.deployment-and-performance-tuning.md`
+  Status: complete
+  Completed: replaced the short summary with a fuller lesson covering deployment checks, security settings, Python environment preparation, uWSGI, Nginx, load balancing, Keepalived, and MySQL replication
+- `Day91-100/99.common-interview-questions.md`
+  Status: complete
+  Completed: replaced the short summary with a fuller lesson covering interview preparation across computer fundamentals, Python, web frameworks, crawlers, data analysis, and project experience
+- `Day91-100/100.supplementary-content.md`
+  Status: complete
+  Completed: expanded the final note into a direct translation of the original references to interview, mathematics, and deep-learning follow-up projects
 - `Day01-20/19.object-oriented-programming-advanced.md`
   Status: complete
   Completed: revised toward a closer literal translation of the original lesson, including the visibility discussion, static-method explanation, and the polymorphism summary
