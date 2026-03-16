@@ -79,11 +79,11 @@ Status legend:
 
 ## Day46-60
 
-- `[ ]` `Day46-60/46.Django快速上手.md`
-- `[ ]` `Day46-60/47.深入模型.md`
-- `[ ]` `Day46-60/48.静态资源和Ajax请求.md`
-- `[ ]` `Day46-60/49.Cookie和Session.md`
-- `[ ]` `Day46-60/50.制作报表.md`
+- `[x]` `Day46-60/46.Django快速上手.md`
+- `[x]` `Day46-60/47.深入模型.md`
+- `[x]` `Day46-60/48.静态资源和Ajax请求.md`
+- `[x]` `Day46-60/49.Cookie和Session.md`
+- `[x]` `Day46-60/50.制作报表.md`
 - `[ ]` `Day46-60/51.日志和调试工具栏.md`
 - `[ ]` `Day46-60/52.中间件的应用.md`
 - `[ ]` `Day46-60/53.前后端分离开发入门.md`
@@ -155,8 +155,8 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day46-60/46.getting-started-with-django.md` against the original Chinese file.
-- `[ ]` Continue with `Day46-60/47.models-in-depth.md`.
+- `[~]` Review `Day46-60/51.logging-and-debug-toolbar.md` against the original Chinese file.
+- `[ ]` Continue with `Day46-60/52.middleware.md`.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
 ## Checkpoint
@@ -293,3 +293,18 @@ Status legend:
 - `Day36-45/45.hive-in-practice.md`
   Status: complete
   Completed: revised toward a closer literal translation of the original lesson, including the Hive function tables, grouping and sampling comparisons, lateral-view patterns, Hive-vs-MySQL notes, and performance tips
+- `Day46-60/46.getting-started-with-django.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the first-app walkthrough, dynamic-content example, and the template introduction
+- `Day46-60/47.models-in-depth.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including ORM notes, admin setup, model-admin examples, and the subject and teacher page rendering
+- `Day46-60/48.static-assets-and-ajax.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the Ajax voting script, the frontend interaction details, and the lesson summary
+- `Day46-60/49.cookies-and-sessions.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the login form example, password notes, session-tracking explanation, and captcha overview
+- `Day46-60/50.reporting.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the ECharts URL mapping and the full browser-side chart example
