@@ -111,11 +111,11 @@ Status legend:
 - `[x]` `Day66-80/68.NumPy的应用-1.md`
 - `[x]` `Day66-80/69.NumPy的应用-2.md`
 - `[x]` `Day66-80/70.NumPy的应用-3.md`
-- `[ ]` `Day66-80/71.NumPy的应用-4.md`
-- `[ ]` `Day66-80/72.深入浅出pandas-1.md`
-- `[ ]` `Day66-80/73.深入浅出pandas-2.md`
-- `[ ]` `Day66-80/74.深入浅出pandas-3.md`
-- `[ ]` `Day66-80/75.深入浅出pandas-4.md`
+- `[x]` `Day66-80/71.NumPy的应用-4.md`
+- `[x]` `Day66-80/72.深入浅出pandas-1.md`
+- `[x]` `Day66-80/73.深入浅出pandas-2.md`
+- `[x]` `Day66-80/74.深入浅出pandas-3.md`
+- `[x]` `Day66-80/75.深入浅出pandas-4.md`
 - `[ ]` `Day66-80/76.深入浅出pandas-5.md`
 - `[ ]` `Day66-80/77.深入浅出pandas-6.md`
 - `[ ]` `Day66-80/78.数据可视化-1.md`
@@ -155,8 +155,8 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day66-80/71.numpy-applications-4.md` against the original Chinese file.
-- `[ ]` Continue with `Day66-80/72.pandas-in-depth-1.md`.
+- `[~]` Review `Day66-80/76.pandas-in-depth-5.md` against the original Chinese file.
+- `[ ]` Continue with `Day66-80/77.pandas-in-depth-6.md`.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
 ## Checkpoint
@@ -287,6 +287,21 @@ Status legend:
 - `Day66-80/70.numpy-applications-3.md`
   Status: complete
   Completed: revised toward a closer literal translation of the original lesson, including vectorized operations, unary and binary functions, broadcasting, and common helper functions
+- `Day66-80/71.numpy-applications-4.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including vector operations, determinant notes, matrix basics, linear algebra helpers, and the polynomial examples
+- `Day66-80/72.pandas-in-depth-1.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including Series creation, indexing modes, statistics methods, and the core Series property table
+- `Day66-80/73.pandas-in-depth-2.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including DataFrame creation from files and databases, indexing examples, and boolean and query filtering
+- `Day66-80/74.pandas-in-depth-3.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including reshaping, missing-value handling, duplicate and outlier processing, and preprocessing examples
+- `Day66-80/75.pandas-in-depth-4.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including descriptive statistics, grouped aggregation, pivot tables, cross tables, and chart presentation examples
   Status: complete
   Completed: revised toward a closer literal translation of the original lesson, including the HTML history, frontend reference sections, and the Vue quick-start structure
 - `Day31-35/34-35.linux-basics.md`

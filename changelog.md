@@ -28,6 +28,7 @@
 24. Revised `Day46-60/56.caching.md` through `Day46-60/60.project-deployment.md` toward a closer literal translation and advanced the review checkpoint to Day 61.
 25. Revised `Day61-65/61.web-data-collection-overview.md` through `Day61-65/65.introduction-to-scrapy.md` toward a closer literal translation and advanced the review checkpoint to Day 66.
 26. Revised `Day66-80/66.data-analysis-overview.md` through `Day66-80/70.numpy-applications-3.md` toward a closer literal translation and advanced the review checkpoint to Day 71.
+27. Revised `Day66-80/71.numpy-applications-4.md` through `Day66-80/75.pandas-in-depth-4.md` toward a closer literal translation and advanced the review checkpoint to Day 76.
 
 ### December 7, 2025
 
