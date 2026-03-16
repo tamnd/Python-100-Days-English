@@ -106,11 +106,11 @@ Status legend:
 - `[x]` `Day61-65/63.并发编程在爬虫中的应用.md`
 - `[x]` `Day61-65/64.使用Selenium抓取网页动态内容.md`
 - `[x]` `Day61-65/65.爬虫框架Scrapy简介.md`
-- `[ ]` `Day66-80/66.数据分析概述.md`
-- `[ ]` `Day66-80/67.环境准备.md`
-- `[ ]` `Day66-80/68.NumPy的应用-1.md`
-- `[ ]` `Day66-80/69.NumPy的应用-2.md`
-- `[ ]` `Day66-80/70.NumPy的应用-3.md`
+- `[x]` `Day66-80/66.数据分析概述.md`
+- `[x]` `Day66-80/67.环境准备.md`
+- `[x]` `Day66-80/68.NumPy的应用-1.md`
+- `[x]` `Day66-80/69.NumPy的应用-2.md`
+- `[x]` `Day66-80/70.NumPy的应用-3.md`
 - `[ ]` `Day66-80/71.NumPy的应用-4.md`
 - `[ ]` `Day66-80/72.深入浅出pandas-1.md`
 - `[ ]` `Day66-80/73.深入浅出pandas-2.md`
@@ -155,8 +155,8 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day66-80/66.data-analysis-overview.md` against the original Chinese file.
-- `[ ]` Continue with `Day66-80/67.environment-setup.md`.
+- `[~]` Review `Day66-80/71.numpy-applications-4.md` against the original Chinese file.
+- `[ ]` Continue with `Day66-80/72.pandas-in-depth-1.md`.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
 ## Checkpoint
@@ -258,6 +258,35 @@ Status legend:
   Status: complete
   Completed: revised toward a closer literal translation of the original lesson, including the advanced-module notes, algorithm overview, and the fuller brute-force and greedy examples
 - `Day31-35/32-33.web-frontend-introduction.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the HTML, CSS, JavaScript, jQuery, and Vue introduction sections
+- `Day31-35/34-35.linux-basics.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the operating-system overview, command examples, and Linux workflow notes
+- `Day36-45/36.relational-databases-and-mysql-overview.md` through `Day36-45/45.hive-in-practice.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original database lesson sequence, including schema definitions, SQL examples, MySQL features, and Hive notes
+- `Day46-60/46.getting-started-with-django.md` through `Day46-60/60.project-deployment.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original Django lesson sequence, including models, middleware, DRF, caching, testing, and deployment content
+- `Day61-65/61.web-data-collection-overview.md` through `Day61-65/65.introduction-to-scrapy.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original crawler lesson sequence, using plainer English while keeping the original structure and examples
+- `Day66-80/66.data-analysis-overview.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the three definitions of data analysis, role breakdown, workflow distinction, and library overview
+- `Day66-80/67.environment-setup.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including Anaconda setup, `conda` workflows, JupyterLab tips, and shortcut tables
+- `Day66-80/68.numpy-applications-1.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including array-creation methods, array properties, indexing modes, and the image-slicing examples
+- `Day66-80/69.numpy-applications-2.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including descriptive statistics, axis-based examples, box plots, and related array methods
+- `Day66-80/70.numpy-applications-3.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including vectorized operations, unary and binary functions, broadcasting, and common helper functions
   Status: complete
   Completed: revised toward a closer literal translation of the original lesson, including the HTML history, frontend reference sections, and the Vue quick-start structure
 - `Day31-35/34-35.linux-basics.md`
