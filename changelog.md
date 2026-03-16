@@ -21,6 +21,7 @@
 17. Revised `Day01-20/20.object-oriented-programming-in-practice.md`, `Day21-30/21.file-io-and-exception-handling.md`, `Day21-30/22.serialization-and-deserialization.md`, and `Day21-30/23.working-with-csv-files.md` toward a closer literal translation and advanced the review checkpoint to Day 24.
 18. Revised `Day21-30/24.working-with-excel-files-1.md` through `Day21-30/30.regular-expressions-in-practice.md` toward a closer literal translation and advanced the review checkpoint to Day 31.
 19. Revised `Day31-35/31.python-advanced.md`, `Day31-35/32-33.web-frontend-introduction.md`, and `Day31-35/34-35.linux-basics.md` toward a closer literal translation and advanced the review checkpoint to Day 36.
+20. Revised `Day36-45/36.relational-databases-and-mysql-overview.md` through `Day36-45/40.sql-dcl.md` toward a closer literal translation and advanced the review checkpoint to Day 41.
 
 ### December 7, 2025
 

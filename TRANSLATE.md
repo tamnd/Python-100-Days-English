@@ -66,11 +66,11 @@ Status legend:
 - `[x]` `Day31-35/31.Python语言进阶.md` -> `Day31-35/31.python-advanced.md`
 - `[x]` `Day31-35/32-33.Web前端入门.md` -> `Day31-35/32-33.web-frontend-introduction.md`
 - `[x]` `Day31-35/34-35.玩转Linux操作系统.md` -> `Day31-35/34-35.linux-basics.md`
-- `[ ]` `Day36-45/36.关系型数据库和MySQL概述.md` -> `Day36-45/36.relational-databases-and-mysql-overview.md`
-- `[ ]` `Day36-45/37.SQL详解之DDL.md` -> `Day36-45/37.sql-ddl-in-detail.md`
-- `[ ]` `Day36-45/38.SQL详解之DML.md` -> `Day36-45/38.sql-dml-in-detail.md`
-- `[ ]` `Day36-45/39.SQL详解之DQL.md` -> `Day36-45/39.sql-dql-in-detail.md`
-- `[ ]` `Day36-45/40.SQL详解之DCL.md` -> `Day36-45/40.sql-dcl-in-detail.md`
+- `[x]` `Day36-45/36.关系型数据库和MySQL概述.md` -> `Day36-45/36.relational-databases-and-mysql-overview.md`
+- `[x]` `Day36-45/37.SQL详解之DDL.md` -> `Day36-45/37.sql-ddl.md`
+- `[x]` `Day36-45/38.SQL详解之DML.md` -> `Day36-45/38.sql-dml.md`
+- `[x]` `Day36-45/39.SQL详解之DQL.md` -> `Day36-45/39.sql-dql.md`
+- `[x]` `Day36-45/40.SQL详解之DCL.md` -> `Day36-45/40.sql-dcl.md`
 - `[ ]` `Day36-45/41.MySQL新特性.md` -> `Day36-45/41.new-features-in-mysql.md`
 - `[ ]` `Day36-45/42.视图、函数和过程.md` -> `Day36-45/42.views-functions-and-procedures.md`
 - `[ ]` `Day36-45/43.索引.md` -> `Day36-45/43.indexes.md`
@@ -155,8 +155,8 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day36-45/36.relational-databases-and-mysql-overview.md` against the original Chinese file.
-- `[ ]` Continue with `Day36-45/37.sql-ddl-in-detail.md`.
+- `[~]` Review `Day36-45/41.mysql-new-features.md` against the original Chinese file.
+- `[ ]` Continue with `Day36-45/42.views-functions-and-procedures.md`.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
 ## Checkpoint
@@ -263,3 +263,18 @@ Status legend:
 - `Day31-35/34-35.linux-basics.md`
   Status: complete
   Completed: revised toward a closer literal translation of the original lesson, including the operating-system history, Linux command survey, vim section, software-installation notes, and process-management overview
+- `Day36-45/36.relational-databases-and-mysql-overview.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the relational-model overview, installation walkthrough, and the fuller MySQL command notes
+- `Day36-45/37.sql-ddl.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the school-schema walkthrough, constraint notes, and storage-engine discussion
+- `Day36-45/38.sql-dml.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the insert, delete, and update explanations and the complete sample data block
+- `Day36-45/39.sql-dql.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including the full query examples, grouping cases, and join and pagination notes
+- `Day36-45/40.sql-dcl.md`
+  Status: complete
+  Completed: revised toward a closer literal translation of the original lesson, including user creation, privilege grants, revocation, and immediate-refresh notes
