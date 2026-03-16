@@ -64,7 +64,7 @@ Status legend:
 ## Day31-45
 
 - `[x]` `Day31-35/31.Python语言进阶.md` -> `Day31-35/31.python-advanced.md`
-- `[ ]` `Day31-35/32-33.Web前端入门.md` -> `Day31-35/32-33.web-frontend-introduction.md`
+- `[x]` `Day31-35/32-33.Web前端入门.md` -> `Day31-35/32-33.web-frontend-introduction.md`
 - `[ ]` `Day31-35/34-35.玩转Linux操作系统.md` -> `Day31-35/34-35.linux-basics.md`
 - `[ ]` `Day36-45/36.关系型数据库和MySQL概述.md` -> `Day36-45/36.relational-databases-and-mysql-overview.md`
 - `[ ]` `Day36-45/37.SQL详解之DDL.md` -> `Day36-45/37.sql-ddl.md`
@@ -155,7 +155,7 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day31-35/32-33.web-frontend-introduction.md`.
+- `[~]` Review `Day31-35/34-35.linux-basics.md`.
 - `[ ]` Continue through the lessons in order after that.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
