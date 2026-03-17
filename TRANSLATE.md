@@ -135,7 +135,7 @@ Status legend:
 - `[x]` `Day81-90/89.自然语言处理入门.md` -> `Day81-90/89.natural-language-processing-intro.md`
 - `[x]` `Day81-90/90.机器学习实战.md` -> `Day81-90/90.machine-learning-in-practice.md`
 - `[x]` `Day91-100/91.团队项目开发的问题和解决方案.md` -> `Day91-100/91.team-project-problems-and-solutions.md`
-- `[ ]` `Day91-100/92.Docker容器技术详解.md` -> `Day91-100/92.docker-in-depth.md`
+- `[x]` `Day91-100/92.Docker容器技术详解.md` -> `Day91-100/92.docker-in-depth.md`
 - `[ ]` `Day91-100/93.MySQL性能优化.md` -> `Day91-100/93.mysql-performance-optimization.md`
 - `[ ]` `Day91-100/94.网络API接口设计.md` -> `Day91-100/94.network-api-design.md`
 - `[ ]` `Day91-100/95.使用Django开发商业项目.md` -> `Day91-100/95.django-for-commercial-projects.md`
@@ -155,7 +155,7 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day91-100/92.docker-in-depth.md`.
+- `[~]` Review `Day91-100/93.mysql-performance-optimization.md`.
 - `[ ]` Continue through the lessons in order after that.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
@@ -380,3 +380,6 @@ Status legend:
 - `Day91-100/91.team-project-problems-and-solutions.md`
   Status: complete
   Completed: pass 2 literal review completed, with the missing Git branch workflow, defect-management sections, and continuous-integration material restored from the Chinese source
+- `Day91-100/92.docker-in-depth.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the missing container-vs-VM figure, command output blocks, and fuller operational notes restored from the Chinese source
