@@ -82,7 +82,7 @@ Status legend:
 - `[x]` `Day46-60/46.Django快速上手.md` -> `Day46-60/46.getting-started-with-django.md`
 - `[x]` `Day46-60/47.深入模型.md` -> `Day46-60/47.models-in-depth.md`
 - `[x]` `Day46-60/48.静态资源和Ajax请求.md` -> `Day46-60/48.static-assets-and-ajax.md`
-- `[ ]` `Day46-60/49.Cookie和Session.md` -> `Day46-60/49.cookies-and-sessions.md`
+- `[x]` `Day46-60/49.Cookie和Session.md` -> `Day46-60/49.cookies-and-sessions.md`
 - `[ ]` `Day46-60/50.制作报表.md` -> `Day46-60/50.reporting.md`
 - `[ ]` `Day46-60/51.日志和调试工具栏.md` -> `Day46-60/51.logging-and-debug-toolbar.md`
 - `[ ]` `Day46-60/52.中间件的应用.md` -> `Day46-60/52.middleware.md`
@@ -266,6 +266,9 @@ Status legend:
 - `Day46-60/48.static-assets-and-ajax.md`
   Status: complete
   Completed: pass 3 literal review completed, with the static-resource and Ajax explanations rewritten into simpler and more literal English while keeping the original voting example and frontend code flow
+- `Day46-60/49.cookies-and-sessions.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the login preparation, user-tracking explanation, and session-background sections rewritten into simpler and more literal English while keeping the original code and lesson flow
 - `Day01-20/19.object-oriented-programming-advanced.md`
   Status: complete
   Completed: pass 3 literal review completed, with the visibility, dynamic-attribute, and inheritance sections rewritten into simpler English while restoring the original examples and key notes from the Chinese source
