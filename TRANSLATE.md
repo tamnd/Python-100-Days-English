@@ -128,7 +128,7 @@ Status legend:
 - `[x]` `Day81-90/82.k最近邻算法.md` -> `Day81-90/82.k-nearest-neighbors.md`
 - `[x]` `Day81-90/83.决策树和随机森林.md` -> `Day81-90/83.decision-trees-and-random-forest.md`
 - `[x]` `Day81-90/84.朴素贝叶斯算法.md` -> `Day81-90/84.naive-bayes.md`
-- `[ ]` `Day81-90/85.回归模型.md` -> `Day81-90/85.regression-models.md`
+- `[x]` `Day81-90/85.回归模型.md` -> `Day81-90/85.regression-models.md`
 - `[ ]` `Day81-90/86.K-Means聚类算法.md` -> `Day81-90/86.k-means-clustering.md`
 - `[ ]` `Day81-90/87.集成学习算法.md` -> `Day81-90/87.ensemble-learning.md`
 - `[ ]` `Day81-90/88.神经网络模型.md` -> `Day81-90/88.neural-network-models.md`
@@ -155,7 +155,7 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day81-90/85.regression-models.md`.
+- `[~]` Review `Day81-90/86.k-means-clustering.md`.
 - `[ ]` Continue through the lessons in order after that.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
@@ -359,3 +359,6 @@ Status legend:
 - `Day81-90/84.naive-bayes.md`
   Status: complete
   Completed: pass 2 literal review completed, with the worked Bayes example, likelihood outputs, classifier comparison table, and model result blocks restored from the Chinese source
+- `Day81-90/85.regression-models.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the dataset details, regression metric outputs, regularization sections, SGD regression, polynomial regression, and logistic regression material restored from the Chinese source
