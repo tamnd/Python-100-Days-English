@@ -1,27 +1,24 @@
-> Original content credit: adapted from [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days).
-> This repository is an English translation of that original project.
-
 ## Python - 100 Days from Beginner to Master
 
 > **Author**: Luo Hao
 >
-> **Note**: If GitHub access is slow, you can follow my Zhihu account ([**Python-Jack**](https://www.zhihu.com/people/jackfrued)). The column [**Learn Python from Scratch**](https://zhuanlan.zhihu.com/c_1216656665569013760), which corresponds to the first 20 days of this project, is especially suitable for beginners. Other columns such as [**Data Thinking and Statistical Thinking**](https://www.zhihu.com/column/c_1620074540456964096), [**Data Analysis with Python**](https://www.zhihu.com/column/c_1217746527315496960), and [**An AI Journey at a Moment's Notice**](https://www.zhihu.com/column/c_1628900668109946880) are also being updated continuously. You are welcome to follow, like, and comment. The free QQ study group is already overcrowded, and the messages are too noisy for me to reply one by one. If you want to study together with daily check-ins or need paid consultation, you can join the paid study group. New users can scan the QR code below, complete the payment, add my personal WeChat (`jackfrued`), and I will invite you to the paid learning and check-in group. When adding me on WeChat, please include your name and your needs in the note. I will provide whatever help I can.
+> **Note**: If visiting GitHub is rather slow, you can follow my Zhihu account ([**Python-Jack**](https://www.zhihu.com/people/jackfrued)). The [**Learn Python from Scratch**](https://zhuanlan.zhihu.com/c_1216656665569013760) column there, which corresponds to the first 20 days of this project, is more suitable for beginners. Other columns such as [**Data Thinking and Statistical Thinking**](https://www.zhihu.com/column/c_1620074540456964096), [**Data Analysis Based on Python**](https://www.zhihu.com/column/c_1217746527315496960), and [**An AI Journey Whenever You Want to Go**](https://www.zhihu.com/column/c_1628900668109946880) are also being updated continuously. Everyone is welcome to follow, like, and comment. At present, the free QQ communication group is already overcrowded, and the messages are too messy, so there is no way to reply one by one. If you want to study together by daily check-in or need paid consultation, you can join the paid communication group. New users can pay through the QR code below and then add my personal WeChat (`jackfrued`). After that, I will invite everyone into the paid study check-in group. When adding me on WeChat, please note your name and your needs. I will provide help within my ability.
 >
 > <img src="res/pay_qr_code.png" style="zoom:32%;">
 >
-> Some of the videos corresponding to this project have also been published on [Bilibili](https://space.bilibili.com/1177252794). If you are interested, please like, support, and follow the channel.
+> Some videos corresponding to this project have already been synced to [Bilibili](https://space.bilibili.com/1177252794). If you are interested, please like, toss a coin, and follow. Give it the one-click triple support!
 
-### Python Application Areas and Career Development
+### Python Application Areas and Career Development Analysis
 
-Simply put, Python is an "elegant", "explicit", and "simple" programming language.
+Simply speaking, Python is an "elegant", "explicit", and "simple" programming language.
 
-- The learning curve is gentle, and even non-specialists can get started.
-- It is open source and has a powerful ecosystem.
-- It is an interpreted language with excellent cross-platform portability.
+- The learning curve is low, and even non-professionals can get started.
+- It is an open-source system and has a powerful ecosystem.
+- It is an interpreted language with perfect platform portability.
 - It is a dynamically typed language that supports both object-oriented and functional programming.
 - Its code style is highly standardized and very readable.
 
-Python is useful in all of the following areas.
+Python can show its ability in the following fields.
 
 - Backend development - Python / Java / Go / PHP
 - DevOps - Python / Shell / Ruby
@@ -31,7 +28,7 @@ Python is useful in all of the following areas.
 - Machine learning - Python / R / C++ / Julia
 - Automated testing - Python / Shell
 
-As a Python developer, depending on your interests and career planning, there are many employment directions you can choose from.
+As a Python developer, according to your personal preferences and career planning, there are also very many employment fields you can choose from.
 
 - Python backend engineer (servers, cloud platforms, data APIs)
 - Python operations engineer (automated operations, SRE, DevOps)
@@ -40,7 +37,7 @@ As a Python developer, depending on your interests and career planning, there ar
 - Python crawler engineer (this track is not recommended!!!)
 - Python test engineer (automated testing, test development)
 
-> **Note**: At present, the **data science track is extremely popular**, because both the internet industry and traditional industries have already accumulated massive amounts of data. Every industry needs data scientists to discover more business value from existing data and provide data support for business decisions. This is what people call data-driven decision-making.
+> **Note**: At present, the **data science track is a very hot direction**, because no matter whether it is the internet industry or traditional industries, they have already accumulated a large amount of data. All walks of life need data scientists to discover more business value from the existing data, so as to provide data support for enterprise decisions. This is what is called data-driven decision-making.
 
 Several suggestions for beginners:
 
