@@ -41,7 +41,7 @@ Status legend:
 - `[x]` `Day01-20/12.常用数据结构之集合.md` -> `Day01-20/12.sets.md`
 - `[x]` `Day01-20/13.常用数据结构之字典.md` -> `Day01-20/13.dictionaries.md`
 - `[x]` `Day01-20/14.函数和模块.md` -> `Day01-20/14.functions-and-modules.md`
-- `[ ]` `Day01-20/15.函数应用实战.md` -> `Day01-20/15.function-practice.md`
+- `[x]` `Day01-20/15.函数应用实战.md` -> `Day01-20/15.function-practice.md`
 - `[ ]` `Day01-20/16.函数使用进阶.md` -> `Day01-20/16.advanced-functions.md`
 - `[ ]` `Day01-20/17.函数高级应用.md` -> `Day01-20/17.advanced-function-applications.md`
 - `[ ]` `Day01-20/18.面向对象编程入门.md` -> `Day01-20/18.object-oriented-programming-intro.md`
@@ -206,3 +206,6 @@ Status legend:
 - `Day01-20/14.functions-and-modules.md`
   Status: complete
   Completed: pass 3 literal review completed, with the function basics, parameter rules, and module-management sections rewritten into simpler English while restoring key details from the Chinese source
+- `Day01-20/15.function-practice.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the function practice examples and explanatory notes rewritten into simpler English while keeping the original examples and teaching purpose
