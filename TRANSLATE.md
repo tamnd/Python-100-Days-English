@@ -1,6 +1,6 @@
 # Translation Review Checklist
 
-This file tracks the literal-translation review between:
+This file tracks pass 2 of the literal-translation review between:
 
 - Original source repo: `/Users/apple/github/tamnd/codex-python/Python-100-Days-Chinese`
 - English translation repo: `/Users/apple/github/tamnd/codex-python/Python-100-Days-English`
@@ -9,21 +9,21 @@ Review rule:
 
 - Compare the original file and the translated file side by side.
 - Preserve structure, ordering, examples, and scope unless a literal translation would be misleading.
+- Write in naive English, but keep the original meaning and layout 1-to-1.
 - Replace summary-style rewrites with closer translations.
-- Keep original meaning, named examples, and lists intact.
 - Verify linked filenames and referenced asset paths after each edit.
 
 Status legend:
 
 - `[ ]` not reviewed yet
 - `[~]` in progress
-- `[x]` reviewed for literal translation
+- `[x]` reviewed for literal translation in pass 2
 
 ## Top Level
 
 - `[x]` `README.md`
-- `[ ]` `更新日志.md` -> `changelog.md`
-- `[ ]` `Python学习资源汇总.md` -> `python-learning-resources.md`
+- `[x]` `更新日志.md` -> `changelog.md`
+- `[x]` `Python学习资源汇总.md` -> `python-learning-resources.md`
 
 ## Day01-20
 
@@ -79,414 +79,331 @@ Status legend:
 
 ## Day46-60
 
-- `[x]` `Day46-60/46.Django快速上手.md`
-- `[x]` `Day46-60/47.深入模型.md`
-- `[x]` `Day46-60/48.静态资源和Ajax请求.md`
-- `[x]` `Day46-60/49.Cookie和Session.md`
-- `[x]` `Day46-60/50.制作报表.md`
-- `[x]` `Day46-60/51.日志和调试工具栏.md`
-- `[x]` `Day46-60/52.中间件的应用.md`
-- `[x]` `Day46-60/53.前后端分离开发入门.md`
-- `[x]` `Day46-60/54.RESTful架构和DRF入门.md`
-- `[x]` `Day46-60/55.RESTful架构和DRF进阶.md`
-- `[x]` `Day46-60/56.使用缓存.md`
-- `[x]` `Day46-60/57.接入三方平台.md`
-- `[x]` `Day46-60/58.异步任务和定时任务.md`
-- `[x]` `Day46-60/59.单元测试.md`
-- `[x]` `Day46-60/60.项目上线.md`
+- `[x]` `Day46-60/46.Django快速上手.md` -> `Day46-60/46.getting-started-with-django.md`
+- `[x]` `Day46-60/47.深入模型.md` -> `Day46-60/47.models-in-depth.md`
+- `[x]` `Day46-60/48.静态资源和Ajax请求.md` -> `Day46-60/48.static-assets-and-ajax.md`
+- `[x]` `Day46-60/49.Cookie和Session.md` -> `Day46-60/49.cookies-and-sessions.md`
+- `[x]` `Day46-60/50.制作报表.md` -> `Day46-60/50.reporting.md`
+- `[x]` `Day46-60/51.日志和调试工具栏.md` -> `Day46-60/51.logging-and-debug-toolbar.md`
+- `[x]` `Day46-60/52.中间件的应用.md` -> `Day46-60/52.middleware.md`
+- `[x]` `Day46-60/53.前后端分离开发入门.md` -> `Day46-60/53.frontend-backend-separation-intro.md`
+- `[x]` `Day46-60/54.RESTful架构和DRF入门.md` -> `Day46-60/54.restful-architecture-and-drf-intro.md`
+- `[x]` `Day46-60/55.RESTful架构和DRF进阶.md` -> `Day46-60/55.restful-architecture-and-drf-advanced.md`
+- `[x]` `Day46-60/56.使用缓存.md` -> `Day46-60/56.caching.md`
+- `[x]` `Day46-60/57.接入三方平台.md` -> `Day46-60/57.third-party-platform-integration.md`
+- `[x]` `Day46-60/58.异步任务和定时任务.md` -> `Day46-60/58.async-and-scheduled-tasks.md`
+- `[x]` `Day46-60/59.单元测试.md` -> `Day46-60/59.unit-testing.md`
+- `[x]` `Day46-60/60.项目上线.md` -> `Day46-60/60.project-deployment.md`
 
 ## Day61-80
 
-- `[x]` `Day61-65/61.网络数据采集概述.md`
-- `[x]` `Day61-65/62.用Python获取网络资源-1.md`
-- `[x]` `Day61-65/62.用Python解析HTML页面-2.md`
-- `[x]` `Day61-65/63.Python中的并发编程-1.md`
-- `[x]` `Day61-65/63.Python中的并发编程-2.md`
-- `[x]` `Day61-65/63.Python中的并发编程-3.md`
-- `[x]` `Day61-65/63.并发编程在爬虫中的应用.md`
-- `[x]` `Day61-65/64.使用Selenium抓取网页动态内容.md`
-- `[x]` `Day61-65/65.爬虫框架Scrapy简介.md`
-- `[x]` `Day66-80/66.数据分析概述.md`
-- `[x]` `Day66-80/67.环境准备.md`
-- `[x]` `Day66-80/68.NumPy的应用-1.md`
-- `[x]` `Day66-80/69.NumPy的应用-2.md`
-- `[x]` `Day66-80/70.NumPy的应用-3.md`
-- `[x]` `Day66-80/71.NumPy的应用-4.md`
-- `[x]` `Day66-80/72.深入浅出pandas-1.md`
-- `[x]` `Day66-80/73.深入浅出pandas-2.md`
-- `[x]` `Day66-80/74.深入浅出pandas-3.md`
-- `[x]` `Day66-80/75.深入浅出pandas-4.md`
-- `[x]` `Day66-80/76.深入浅出pandas-5.md`
-- `[x]` `Day66-80/77.深入浅出pandas-6.md`
-- `[x]` `Day66-80/78.数据可视化-1.md`
-- `[x]` `Day66-80/79.数据可视化-2.md`
-- `[x]` `Day66-80/80.数据可视化-3.md`
+- `[x]` `Day61-65/61.网络数据采集概述.md` -> `Day61-65/61.web-data-collection-overview.md`
+- `[x]` `Day61-65/62.用Python获取网络资源-1.md` -> `Day61-65/62.fetching-web-resources.md`
+- `[x]` `Day61-65/62.用Python解析HTML页面-2.md` -> `Day61-65/62.parsing-html-with-python.md`
+- `[x]` `Day61-65/63.Python中的并发编程-1.md` -> `Day61-65/63.concurrent-programming-in-python-1.md`
+- `[x]` `Day61-65/63.Python中的并发编程-2.md` -> `Day61-65/63.concurrent-programming-in-python-2.md`
+- `[x]` `Day61-65/63.Python中的并发编程-3.md` -> `Day61-65/63.concurrent-programming-in-python-3.md`
+- `[x]` `Day61-65/63.并发编程在爬虫中的应用.md` -> `Day61-65/63.concurrent-programming-in-crawlers.md`
+- `[x]` `Day61-65/64.使用Selenium抓取网页动态内容.md` -> `Day61-65/64.selenium-for-dynamic-content.md`
+- `[x]` `Day61-65/65.爬虫框架Scrapy简介.md` -> `Day61-65/65.introduction-to-scrapy.md`
+- `[x]` `Day66-80/66.数据分析概述.md` -> `Day66-80/66.data-analysis-overview.md`
+- `[x]` `Day66-80/67.环境准备.md` -> `Day66-80/67.environment-setup.md`
+- `[x]` `Day66-80/68.NumPy的应用-1.md` -> `Day66-80/68.numpy-applications-1.md`
+- `[x]` `Day66-80/69.NumPy的应用-2.md` -> `Day66-80/69.numpy-applications-2.md`
+- `[x]` `Day66-80/70.NumPy的应用-3.md` -> `Day66-80/70.numpy-applications-3.md`
+- `[x]` `Day66-80/71.NumPy的应用-4.md` -> `Day66-80/71.numpy-applications-4.md`
+- `[x]` `Day66-80/72.深入浅出pandas-1.md` -> `Day66-80/72.pandas-in-depth-1.md`
+- `[x]` `Day66-80/73.深入浅出pandas-2.md` -> `Day66-80/73.pandas-in-depth-2.md`
+- `[x]` `Day66-80/74.深入浅出pandas-3.md` -> `Day66-80/74.pandas-in-depth-3.md`
+- `[x]` `Day66-80/75.深入浅出pandas-4.md` -> `Day66-80/75.pandas-in-depth-4.md`
+- `[x]` `Day66-80/76.深入浅出pandas-5.md` -> `Day66-80/76.pandas-in-depth-5.md`
+- `[x]` `Day66-80/77.深入浅出pandas-6.md` -> `Day66-80/77.pandas-in-depth-6.md`
+- `[x]` `Day66-80/78.数据可视化-1.md` -> `Day66-80/78.data-visualization-1.md`
+- `[x]` `Day66-80/79.数据可视化-2.md` -> `Day66-80/79.data-visualization-2.md`
+- `[x]` `Day66-80/80.数据可视化-3.md` -> `Day66-80/80.data-visualization-3.md`
 
 ## Day81-100
 
-- `[x]` `Day81-90/81.浅谈机器学习.md`
-- `[x]` `Day81-90/82.k最近邻算法.md`
-- `[x]` `Day81-90/83.决策树和随机森林.md`
-- `[x]` `Day81-90/84.朴素贝叶斯算法.md`
-- `[x]` `Day81-90/85.回归模型.md`
-- `[x]` `Day81-90/86.K-Means聚类算法.md`
-- `[x]` `Day81-90/87.集成学习算法.md`
-- `[x]` `Day81-90/88.神经网络模型.md`
-- `[x]` `Day81-90/89.自然语言处理入门.md`
-- `[x]` `Day81-90/90.机器学习实战.md`
-- `[x]` `Day91-100/91.团队项目开发的问题和解决方案.md`
-- `[x]` `Day91-100/92.Docker容器技术详解.md`
-- `[x]` `Day91-100/93.MySQL性能优化.md`
-- `[x]` `Day91-100/94.网络API接口设计.md`
-- `[x]` `Day91-100/95.使用Django开发商业项目.md`
-- `[x]` `Day91-100/96.软件测试和自动化测试.md`
-- `[x]` `Day91-100/97.电商网站技术要点剖析.md`
-- `[x]` `Day91-100/98.项目部署上线和性能调优.md`
-- `[x]` `Day91-100/99.面试中的公共问题.md`
-- `[x]` `Day91-100/100.补充内容.md`
+- `[x]` `Day81-90/81.浅谈机器学习.md` -> `Day81-90/81.machine-learning-overview.md`
+- `[x]` `Day81-90/82.k最近邻算法.md` -> `Day81-90/82.k-nearest-neighbors.md`
+- `[x]` `Day81-90/83.决策树和随机森林.md` -> `Day81-90/83.decision-trees-and-random-forest.md`
+- `[x]` `Day81-90/84.朴素贝叶斯算法.md` -> `Day81-90/84.naive-bayes.md`
+- `[x]` `Day81-90/85.回归模型.md` -> `Day81-90/85.regression-models.md`
+- `[x]` `Day81-90/86.K-Means聚类算法.md` -> `Day81-90/86.k-means-clustering.md`
+- `[x]` `Day81-90/87.集成学习算法.md` -> `Day81-90/87.ensemble-learning.md`
+- `[x]` `Day81-90/88.神经网络模型.md` -> `Day81-90/88.neural-network-models.md`
+- `[x]` `Day81-90/89.自然语言处理入门.md` -> `Day81-90/89.natural-language-processing-intro.md`
+- `[x]` `Day81-90/90.机器学习实战.md` -> `Day81-90/90.machine-learning-in-practice.md`
+- `[x]` `Day91-100/91.团队项目开发的问题和解决方案.md` -> `Day91-100/91.team-project-problems-and-solutions.md`
+- `[x]` `Day91-100/92.Docker容器技术详解.md` -> `Day91-100/92.docker-in-depth.md`
+- `[x]` `Day91-100/93.MySQL性能优化.md` -> `Day91-100/93.mysql-performance-optimization.md`
+- `[x]` `Day91-100/94.网络API接口设计.md` -> `Day91-100/94.network-api-design.md`
+- `[x]` `Day91-100/95.使用Django开发商业项目.md` -> `Day91-100/95.django-for-commercial-projects.md`
+- `[x]` `Day91-100/96.软件测试和自动化测试.md` -> `Day91-100/96.software-testing-and-automation.md`
+- `[x]` `Day91-100/97.电商网站技术要点剖析.md` -> `Day91-100/97.ecommerce-site-architecture.md`
+- `[x]` `Day91-100/98.项目部署上线和性能调优.md` -> `Day91-100/98.deployment-and-performance-tuning.md`
+- `[x]` `Day91-100/99.面试中的公共问题.md` -> `Day91-100/99.common-interview-questions.md`
+- `[x]` `Day91-100/100.补充内容.md` -> `Day91-100/100.supplementary-content.md`
 
 ## Supplemental Material
 
 - `[ ]` `公开课/年薪50W+的Python程序员如何写代码/...`
 - `[ ]` `番外篇/*.md`
-- `[x]` `Day66-80/code/*.ipynb`
-- `[x]` `public-lectures/**/*.ipynb`
+- `[ ]` `Day66-80/code/*.ipynb`
+- `[ ]` `public-lectures/**/*.ipynb`
 - `[ ]` `*.sql`, `*.java`, `*.html`, `*.txt`, `*.csv`
 
 ## Current Focus
 
-- `[~]` Review `changelog.md` against the original Chinese file.
-- `[ ]` Continue with `python-learning-resources.md`.
+- `[~]` Review supplemental material after the numbered lessons.
+- `[ ]` Continue through the remaining non-lesson material after that.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
 ## Checkpoint
 
 - `README.md`
   Status: complete
-  Completed: full README rewritten toward a closer literal translation of the original structure and content
+  Completed: pass 2 literal review completed, with README links verified against the English repo paths
+- `changelog.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with older history restored and donation images kept in place to match the Chinese source
+- `python-learning-resources.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the missing website and book sections restored and the resource notes brought closer to the Chinese source
 - `Day01-20/01.getting-started-with-python.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including installation notes and wording details
+  Completed: pass 2 literal review completed, with the intro wording tightened and the Windows installation notes brought closer to the Chinese source
 - `Day01-20/02.first-python-program.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the tooling discussion and the introductory code examples
+  Completed: pass 2 literal review completed, with the tooling descriptions and the hello-world explanation tightened toward the Chinese source
 - `Day01-20/03.variables-in-python.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the binary-counting explanation and the fuller naming notes
+  Completed: pass 2 literal review completed, with the binary-counting explanation and naming notes brought closer to the Chinese source
 - `Day01-20/04.operators-in-python.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the operator notes and the fuller example explanations
+  Completed: pass 2 literal review completed, with the operator notes, formatting explanations, and closing guidance brought closer to the Chinese source
 - `Day01-20/05.branching.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the BMI walkthrough, branching notes, and nested-branch explanations
+  Completed: pass 2 literal review completed, with the branching notes, match-case section, and triangle explanation checked back against the Chinese source
 - `Day01-20/06.loops.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the loop-body explanations, while-loop notes, and break/continue discussion
+  Completed: pass 2 literal review completed, including the previously missing gcd example, guessing game, and full summary from the Chinese source
 - `Day01-20/07.branching-and-loops-in-practice.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the practice framing, Fibonacci background, and the exhaustive-search explanation
+  Completed: pass 2 literal review completed, with the practice framing, Fibonacci note, and Craps description checked back against the Chinese source
 - `Day01-20/08.lists-1.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the list-introduction setup and the fuller indexing and slicing notes
+  Completed: pass 2 literal review completed, with the slicing reminder, traversal outputs, and the `len` note restored from the Chinese source
 - `Day01-20/09.lists-2.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the list-method notes, comprehension explanation, and the fuller lottery example framing
+  Completed: pass 2 literal review completed, with the nested-list explanation, the fuller lottery color-output note, and the missing `rich` example section restored from the Chinese source
 - `Day01-20/10.tuples.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the tuple immutability notes, packing and unpacking explanation, and the list-vs-tuple comparison
-- `Day01-20/11.strings.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the historical introduction and the fuller string-definition and comparison notes
-- `Day01-20/12.sets.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the set introduction, hashability explanation, and the stronger summary wording
-- `Day01-20/13.dictionaries.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the modeling setup and the dictionary-key explanation
-- `Day01-20/14.functions-and-modules.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the duplication discussion and the fuller explanation of function definition and imports
-- `Day01-20/15.function-practice.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the prime-number notes and the fuller gcd/lcm explanation
-- `Day01-20/16.advanced-functions.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the higher-order-function explanation and the fuller discussion of sorted and partial functions
-- `Day01-20/17.advanced-function-applications.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the decorator motivation and the fuller recursion and stack explanation
-- `Day01-20/18.object-oriented-programming-intro.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the OOP framing, encapsulation explanation, and the three-step object-oriented workflow
-- `Day81-90/86.k-means-clustering.md`
-  Status: complete
-  Completed: replaced the short summary with a fuller lesson covering the clustering setup, K-Means objective, a plain Python implementation, and the `scikit-learn` parameters
-- `Day81-90/87.ensemble-learning.md`
-  Status: complete
-  Completed: replaced the short summary with a fuller lesson covering Bagging, Boosting, Stacking, AdaBoost, GBDT, XGBoost, and LightGBM in the order of the original
-- `Day81-90/88.neural-network-models.md`
-  Status: complete
-  Completed: replaced the short summary with a fuller lesson covering the neuron analogy caveat, the core network structure, activation functions, backpropagation, and the `scikit-learn` and PyTorch examples
-- `Day81-90/89.natural-language-processing-intro.md`
-  Status: complete
-  Completed: replaced the short summary with a fuller lesson covering bag-of-words, word embeddings, Word2Vec, RNN, Seq2Seq, and Transformer in the original lesson order
-- `Day81-90/90.machine-learning-in-practice.md`
-  Status: complete
-  Completed: replaced the short summary with a fuller lesson covering the Titanic project workflow, feature engineering, model training, evaluation, and deployment
-- `Day91-100/91.team-project-problems-and-solutions.md`
-  Status: complete
-  Completed: replaced the short summary with a fuller lesson covering team-development pain points, the role of version control, and the basic local and remote Git workflow
-- `Day91-100/92.docker-in-depth.md`
-  Status: complete
-  Completed: replaced the short summary with a fuller lesson covering Docker basics, installation, common container workflows, service examples, and image building
-- `Day91-100/93.mysql-performance-optimization.md`
-  Status: complete
-  Completed: replaced the short summary with a fuller lesson covering core optimization principles, table design, indexing, partitioning, and SQL analysis with slow logs and `EXPLAIN`
-- `Day91-100/94.network-api-design.md`
-  Status: complete
-  Completed: replaced the short summary with a fuller lesson covering resource-oriented API design, response conventions, versioning concerns, and practical API documentation examples
-- `Day91-100/95.django-for-commercial-projects.md`
-  Status: complete
-  Completed: replaced the short summary with a fuller lesson covering web architecture, HTTP, models, transactions, URL design, templates, and the broader Django project checklist
-- `Day91-100/96.software-testing-and-automation.md`
-  Status: complete
-  Completed: replaced the short summary with a fuller lesson covering testing methods, testing stages, TDD, unit-testing tools, UI automation, API testing, and CI integration
-- `Day91-100/97.ecommerce-site-architecture.md`
-  Status: complete
-  Completed: replaced the short summary with a fuller lesson covering e-commerce business models, product and admin requirements, SPU and SKU design, third-party login, caching, shopping carts, and payment integration
-- `Day91-100/98.deployment-and-performance-tuning.md`
-  Status: complete
-  Completed: replaced the short summary with a fuller lesson covering deployment checks, security settings, Python environment preparation, uWSGI, Nginx, load balancing, Keepalived, and MySQL replication
-- `Day91-100/99.common-interview-questions.md`
-  Status: complete
-  Completed: replaced the short summary with a fuller lesson covering interview preparation across computer fundamentals, Python, web frameworks, crawlers, data analysis, and project experience
-- `Day91-100/100.supplementary-content.md`
-  Status: complete
-  Completed: expanded the final note into a direct translation of the original references to interview, mathematics, and deep-learning follow-up projects
-- `Day66-80/code/day01.ipynb` through `Day66-80/code/day06.ipynb`
-  Status: complete
-  Completed: reviewed the notebook pairings cell by cell against the Chinese originals and confirmed the English notebooks preserve the original structure and markdown scope
-- `public-lectures/coding-like-a-500k-python-engineer/code/Python/using-pandas-for-data-analysis.ipynb`
-  Status: complete
-  Completed: reviewed the translated notebook against the Chinese original and confirmed the notebook structure matches and no Chinese text remains in the English copy
-- `Day01-20/19.object-oriented-programming-advanced.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the visibility discussion, static-method explanation, and the polymorphism summary
-- `Day01-20/20.object-oriented-programming-in-practice.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the class-relationship explanation, operator-overloading discussion, and the fuller payroll-system walkthrough
-- `Day21-30/21.file-io-and-exception-handling.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the fuller persistence and filesystem explanation, exception-handling notes, and binary-file examples
-- `Day21-30/22.serialization-and-deserialization.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the browser-console JSON walkthrough, the fuller pip section, and the network-API explanation
-- `Day21-30/23.working-with-csv-files.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the CSV introduction, writer-parameter notes, and the pandas summary
-- `Day21-30/24.working-with-excel-files-1.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the xlrd/xlwt overview, style-setting walkthrough, and the formula example
-- `Day21-30/25.working-with-excel-files-2.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the openpyxl advantages, worksheet-access notes, and the chart-generation walkthrough
-- `Day21-30/26.working-with-word-and-powerpoint.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the Word template workflow and the PowerPoint example framing
-- `Day21-30/27.working-with-pdf-files.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the text-extraction caveats, page operations, and reportlab example
-- `Day21-30/28.image-processing.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the color and pixel explanations, Pillow examples, and the drawing walkthrough
-- `Day21-30/29.sending-email-and-sms.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the SMTP background, attachment example, helper function, and SMS-platform notes
-- `Day21-30/30.regular-expressions-in-practice.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the expanded regex reference table, Python re notes, and the example explanations
-- `Day31-35/31.python-advanced.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the advanced-module notes, algorithm overview, and the fuller brute-force and greedy examples
-- `Day31-35/32-33.web-frontend-introduction.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the HTML, CSS, JavaScript, jQuery, and Vue introduction sections
-- `Day31-35/34-35.linux-basics.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the operating-system overview, command examples, and Linux workflow notes
-- `Day36-45/36.relational-databases-and-mysql-overview.md` through `Day36-45/45.hive-in-practice.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original database lesson sequence, including schema definitions, SQL examples, MySQL features, and Hive notes
-- `Day46-60/46.getting-started-with-django.md` through `Day46-60/60.project-deployment.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original Django lesson sequence, including models, middleware, DRF, caching, testing, and deployment content
-- `Day61-65/61.web-data-collection-overview.md` through `Day61-65/65.introduction-to-scrapy.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original crawler lesson sequence, using plainer English while keeping the original structure and examples
-- `Day66-80/66.data-analysis-overview.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the three definitions of data analysis, role breakdown, workflow distinction, and library overview
-- `Day66-80/67.environment-setup.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including Anaconda setup, `conda` workflows, JupyterLab tips, and shortcut tables
-- `Day66-80/68.numpy-applications-1.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including array-creation methods, array properties, indexing modes, and the image-slicing examples
-- `Day66-80/69.numpy-applications-2.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including descriptive statistics, axis-based examples, box plots, and related array methods
-- `Day66-80/70.numpy-applications-3.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including vectorized operations, unary and binary functions, broadcasting, and common helper functions
-- `Day66-80/71.numpy-applications-4.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including vector operations, determinant notes, matrix basics, linear algebra helpers, and the polynomial examples
-- `Day66-80/72.pandas-in-depth-1.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including Series creation, indexing modes, statistics methods, and the core Series property table
-- `Day66-80/73.pandas-in-depth-2.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including DataFrame creation from files and databases, indexing examples, and boolean and query filtering
-- `Day66-80/74.pandas-in-depth-3.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including reshaping, missing-value handling, duplicate and outlier processing, and preprocessing examples
-- `Day66-80/75.pandas-in-depth-4.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including descriptive statistics, grouped aggregation, pivot tables, cross tables, and chart presentation examples
-- `Day66-80/76.pandas-in-depth-5.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including month-over-month calculations, rolling-window examples, and the covariance and correlation discussion
-- `Day66-80/77.pandas-in-depth-6.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including range, categorical, multi-level, interval, and datetime index examples
-- `Day66-80/78.data-visualization-1.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including matplotlib setup, figure and axes creation, and the line, scatter, bar, pie, histogram, and box-plot examples
-- `Day66-80/79.data-visualization-2.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including bubble, area, radar, rose, and 3D chart examples
-- `Day66-80/80.data-visualization-3.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including seaborn examples, pyecharts setup, and interactive chart and map examples
-- `Day81-90/81.machine-learning-overview.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the AI history outline, machine-learning framing, application areas, workflow, and first examples
-- `Day81-90/82.k-nearest-neighbors.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including distance metrics, the iris dataset setup, NumPy and scikit-learn implementations, and classification metrics
-- `Day81-90/83.decision-trees-and-random-forest.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including entropy, information gain, Gini index, decision-tree construction, and the random-forest overview
-- `Day81-90/84.naive-bayes.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including Bayes' theorem, the naive independence assumption, a NumPy implementation, and the scikit-learn variants
-- `Day81-90/85.regression-models.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including regression categories, the least-squares setup, the Auto MPG dataset, and Ridge and Lasso examples
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the HTML history, frontend reference sections, and the Vue quick-start structure
-- `Day31-35/34-35.linux-basics.md`
-  Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the operating-system history, Linux command survey, vim section, software-installation notes, and process-management overview
+  Completed: pass 2 literal review completed, with the tuple-operator note, the bytecode explanation for variable swapping, and the fuller summary restored from the Chinese source
 - `Day36-45/36.relational-databases-and-mysql-overview.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the relational-model overview, installation walkthrough, and the fuller MySQL command notes
+  Completed: pass 2 literal review completed, with the Windows and macOS installation screenshots restored, the graphical client section expanded back to match the Chinese source, and the MySQL help and command sections rewritten in simpler, closer English
 - `Day36-45/37.sql-ddl.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the school-schema walkthrough, constraint notes, and storage-engine discussion
+  Completed: pass 2 literal review completed, with the character set and storage engine outputs restored, the data type help examples restored, and the whole drop-table and alter-table section added back in simpler, closer English
 - `Day36-45/38.sql-dml.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the insert, delete, and update explanations and the complete sample data block
+  Completed: pass 2 literal review completed, with the DML explanations rewritten into simpler English, the full college sample-data descriptions restored, and the extra English-only summary removed
 - `Day36-45/39.sql-dql.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the full query examples, grouping cases, and join and pagination notes
+  Completed: pass 2 literal review completed, with the missing ending section restored, the extra query examples and left join added back, and the operator/function notes restored in simpler, closer English
 - `Day36-45/40.sql-dcl.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including user creation, privilege grants, revocation, and immediate-refresh notes
+  Completed: pass 2 literal review completed, with the DCL explanations rewritten into simpler, more literal English while keeping the original scope and examples
 - `Day36-45/41.mysql-new-features.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the fuller JSON examples, result notes, and the expanded window-function explanation
+  Completed: pass 2 literal review completed, with the JSON and window-function explanations pulled closer to the Chinese source and the missing detail in the window-function notes restored
 - `Day36-45/42.views-functions-and-procedures.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the view cautions, function notes, stored-procedure explanation, and the closing design advice
+  Completed: pass 2 literal review completed, with the missing later sections on data consistency, transaction isolation, and the closing summary restored from the Chinese source
 - `Day36-45/43.indexes.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the execution-plan comparison, prefix-index tradeoffs, and the stronger indexing guidance
+  Completed: pass 2 literal review completed, with the fuller explain-plan output blocks and the missing index details restored in simpler, closer English
 - `Day36-45/44.python-and-mysql.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the fuller five-step explanation, batching note, transaction note, and query-memory guidance
+  Completed: pass 2 literal review completed, with the Python-MySQL workflow and transaction notes rewritten into simpler, more literal English while keeping the original examples
 - `Day36-45/45.hive-in-practice.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the Hive function tables, grouping and sampling comparisons, lateral-view patterns, Hive-vs-MySQL notes, and performance tips
+  Completed: pass 2 literal review completed, with the missing setup details and dropped Hive query examples restored, especially in the environment, grouping, and sampling sections
 - `Day46-60/46.getting-started-with-django.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the first-app walkthrough, dynamic-content example, and the template introduction
+  Completed: pass 2 literal review completed, with the missing template walkthrough and the closing summary restored from the Chinese source
 - `Day46-60/47.models-in-depth.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including ORM notes, admin setup, model-admin examples, and the subject and teacher page rendering
+  Completed: pass 2 literal review completed, with the missing admin walkthrough screenshots and the fuller subject/teacher template examples restored from the Chinese source
 - `Day46-60/48.static-assets-and-ajax.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the Ajax voting script, the frontend interaction details, and the lesson summary
+  Completed: pass 2 literal review completed, with the missing Ajax request-flow images and the full teacher template example restored from the Chinese source
 - `Day46-60/49.cookies-and-sessions.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the login form example, password notes, session-tracking explanation, and captcha overview
+  Completed: pass 2 literal review completed, with the full login page, CSRF explanation, captcha implementation, session configuration notes, cookie API section, and the login-only voting logic restored from the Chinese source
 - `Day46-60/50.reporting.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the ECharts URL mapping and the full browser-side chart example
+  Completed: pass 2 literal review completed, with the reportlab note, the chart output image, and the Excel and ECharts explanations tightened back toward the Chinese source
 - `Day46-60/51.logging-and-debug-toolbar.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the fuller logging placeholders, handler discussion, logger notes, and ORM optimization context
+  Completed: pass 2 literal review completed, with the debug-toolbar table and screenshot restored, the concrete SQL example added back, and the ORM optimization notes brought closer to the Chinese source
 - `Day46-60/52.middleware.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the built-in middleware overview, middleware-order explanation, and the class-based middleware notes
+  Completed: pass 2 literal review completed, with the fuller middleware overview, the older class-based middleware hooks, the middleware-flow image, and the execution-order notes restored from the Chinese source
 - `Day46-60/53.frontend-backend-separation-intro.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the mapper discussion, JSON-field adjustments, and the development and deployment notes
+  Completed: pass 2 literal review completed, with the missing URL mapping, JSON examples, mapper customization example, and fuller Vue.js and deployment notes restored from the Chinese source
 - `Day46-60/54.restful-architecture-and-drf-intro.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the SOA and REST framing, the resource-representation explanation, and the JWT overview
+  Completed: pass 2 literal review completed, with the fuller REST overview, DRF setup details, DRF and Vue examples, and the whole missing JWT section restored from the Chinese source
 - `Day46-60/55.restful-architecture-and-drf-advanced.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the APIView subclass framing, the viewset notes, and the filtering guidance
+  Completed: pass 2 literal review completed, with the fuller CBV explanation, the `ModelViewSet` source example, and the pagination and filtering notes pulled closer to the Chinese source
 - `Day46-60/56.caching.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the Redis integration notes, the cache-object caveats, and the fuller cache-update discussion
+  Completed: pass 2 literal review completed, with the cache-architecture image, the fuller declarative and programmatic caching notes, and the cache update, penetration, breakdown, and avalanche explanations restored from the Chinese source
 - `Day46-60/57.third-party-platform-integration.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the SMS-gateway flow, the Redis verification-window notes, and the cloud-upload implementation details
+  Completed: pass 2 literal review completed, with the Luosimao setup steps and screenshots, the fuller SMS notes, the Qiniu setup flow, and the missing upload-management screenshot restored from the Chinese source
 - `Day46-60/58.async-and-scheduled-tasks.md`
   Status: complete
-  Completed: reviewed against the original short lesson and kept it aligned as a brief pointer to the later Celery coverage
+  Completed: pass 2 literal review completed, with the short async-task guidance tightened back toward the Chinese source and the Celery pointer kept in place
 - `Day46-60/59.unit-testing.md`
   Status: complete
-  Completed: reviewed against the original short lesson and kept it aligned as a brief pointer to the later unit-testing discussion
+  Completed: pass 2 literal review completed, with the short pointer rewritten into closer literal English
 - `Day46-60/60.project-deployment.md`
   Status: complete
-  Completed: reviewed against the original short lesson and kept it aligned as a brief pointer to the later deployment and tuning discussion
+  Completed: pass 2 literal review completed, with the short pointer rewritten into closer literal English and the tracker path corrected to the real deployment lesson
 - `Day61-65/61.web-data-collection-overview.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the legality discussion, robots-protocol notes, HTTP refresher, and crawler workflow
+  Completed: pass 2 literal review completed, with the robots examples, HTTP diagrams, crawler-tool notes, and the fuller crawler workflow restored from the Chinese source
 - `Day61-65/62.fetching-web-resources.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the requests framing, the Douban example notes, and the proxy discussion
+  Completed: pass 2 literal review completed, with the missing requests screenshot, the fuller Douban and proxy notes, and the closing guidance restored from the Chinese source
 - `Day61-65/62.parsing-html-with-python.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the HTML-structure explanation, the XPath notes, and the CSS-selector framing
+  Completed: pass 2 literal review completed, with the missing HTML-structure screenshot, the fuller XPath examples and tables, the developer-tools note, and the closer BeautifulSoup and summary wording restored from the Chinese source
 - `Day61-65/63.concurrent-programming-in-python-1.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the process-vs-thread discussion, the concurrency and parallelism distinction, and the shared-resource warning
+  Completed: pass 2 literal review completed, with the missing process-thread explanation, multithreading examples, daemon-thread section, resource-contention walkthrough, and GIL discussion restored from the Chinese source
 - `Day61-65/63.concurrent-programming-in-python-2.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the multiprocessing framing, the CPU-bound comparison, and the queue note
+  Completed: pass 2 literal review completed, with the missing fork section, prime-number benchmark details, fuller process communication example, and the longer multithreading-versus-multiprocessing summary restored from the Chinese source
 - `Day61-65/63.concurrent-programming-in-python-3.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the blocking and async definitions, the coroutine framing, and the aiohttp conclusion
+  Completed: pass 2 literal review completed, with the fuller blocking-and-async concept section, the coroutine activation example, the event-loop explanation, and the expanded aiohttp walkthrough restored from the Chinese source
 - `Day61-65/63.concurrent-programming-in-crawlers.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the 360-image API context and the performance comparison summary
+  Completed: pass 2 literal review completed, with the missing 360-image API explanation, the full single-thread, thread-pool, and async crawler examples, and the timing comparison details restored from the Chinese source
 - `Day61-65/64.selenium-for-dynamic-content.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the API-vs-browser framing and the closing Selenium example note
+  Completed: pass 2 literal review completed, with the missing ChromeDriver and anti-Selenium screenshots, the fuller waiting-condition and API tables, and the complete Selenium example restored from the Chinese source
 - `Day61-65/65.introduction-to-scrapy.md`
   Status: complete
-  Completed: revised toward a closer literal translation of the original lesson, including the repeat-request fix and the pipeline discussion
+  Completed: pass 2 literal review completed, with the missing Scrapy architecture diagram, the fuller project and callback flow, the duplicate-page note, the Excel pipeline example, and the settings explanation restored from the Chinese source
+- `Day66-80/66.data-analysis-overview.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the role descriptions, general process lists, and the data-analysis library notes pulled closer to the Chinese source
+- `Day66-80/67.environment-setup.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the Anaconda and JupyterLab setup notes, the conda commands, and the usage tips and shortcut tables pulled closer to the Chinese source
+- `Day66-80/68.numpy-applications-1.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the later indexing examples and omitted outputs restored so the NumPy notebook stays closer to the Chinese source
+- `Day66-80/69.numpy-applications-2.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the omitted sample outputs, descriptive-statistics results, and later array-method examples restored so the lesson matches the Chinese source more closely
+- `Day66-80/70.numpy-applications-3.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the omitted vectorized-operation outputs, broadcasting examples, and common-function examples restored so the lesson stays closer to the Chinese source
+- `Day66-80/71.numpy-applications-4.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the determinant notes, matrix-object outputs, linear-algebra examples, and the missing polynomial least-squares section restored from the Chinese source
+- `Day66-80/72.pandas-in-depth-1.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the missing Series processing, sorting, charting sections, and the dropped outputs restored from the Chinese source
+- `Day66-80/73.pandas-in-depth-2.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the dropped DataFrame example outputs and query results restored so the lesson stays closer to the Chinese source
+- `Day66-80/74.pandas-in-depth-3.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the reshaping, cleaning, and outlier-handling example results restored and the wording tightened toward the Chinese source
+- `Day66-80/75.pandas-in-depth-4.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the missing statistics, grouping, pivot-table, and crosstab result blocks restored so the lesson stays closer to the Chinese source
+- `Day66-80/76.pandas-in-depth-5.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the missing month-over-month result blocks, rolling-window images, and correlation visuals restored from the Chinese source
+- `Day66-80/77.pandas-in-depth-6.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the missing index-example outputs and the cut-off datetime-index section restored from the Chinese source
+- `Day66-80/78.data-visualization-1.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the missing chart outputs, visual examples, and small explanatory notes restored from the Chinese source
+- `Day66-80/79.data-visualization-2.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the missing bubble, area, radar, rose, and 3D chart visuals restored from the Chinese source
+- `Day66-80/80.data-visualization-3.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the missing seaborn and pyecharts example visuals and explanatory image restored from the Chinese source
+- `Day81-90/81.machine-learning-overview.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the dropped AI context, fuller machine-learning applications, and the missing kNN and regression walkthrough restored from the Chinese source
+- `Day81-90/82.k-nearest-neighbors.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the missing scikit-learn background, kNN outputs, and fuller model-evaluation explanation restored from the Chinese source
+- `Day81-90/83.decision-trees-and-random-forest.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the missing decision-tree calculations, tree-plot outputs, and random-forest section restored from the Chinese source
+- `Day81-90/84.naive-bayes.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the worked Bayes example, likelihood outputs, classifier comparison table, and model result blocks restored from the Chinese source
+- `Day81-90/85.regression-models.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the dataset details, regression metric outputs, regularization sections, SGD regression, polynomial regression, and logistic regression material restored from the Chinese source
+- `Day81-90/86.k-means-clustering.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the missing comparison and visualization images, the original-label comparison plot, and the closer closing notes restored from the Chinese source
+- `Day81-90/87.ensemble-learning.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the missing ensemble diagrams, AdaBoost and GBDT output blocks, XGBoost feature-importance image, and fuller LightGBM notes restored from the Chinese source
+- `Day81-90/88.neural-network-models.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the missing network and activation-function figures, the first MLP output block, and the later PyTorch regression section restored from the Chinese source
+- `Day81-90/89.natural-language-processing-intro.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the missing bag-of-words output blocks, Chinese stop-word example, Word2Vec figure and outputs, and the later Seq2Seq and Transformer diagrams restored from the Chinese source
+- `Day81-90/90.machine-learning-in-practice.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the dropped Titanic output blocks, dataset-visualization image, validation results, and deployment/API example details restored from the Chinese source
+- `Day91-100/91.team-project-problems-and-solutions.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the missing Git branch workflow, defect-management sections, and continuous-integration material restored from the Chinese source
+- `Day91-100/92.docker-in-depth.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the missing container-vs-VM figure, command output blocks, and fuller operational notes restored from the Chinese source
+- `Day91-100/93.mysql-performance-optimization.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the missing slow-query, explain-plan, and profiling output examples restored from the Chinese source
+- `Day91-100/94.network-api-design.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the existing English pulled closer to the Chinese source in the API-principle and response-format explanations
+- `Day91-100/95.django-for-commercial-projects.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the missing architecture and HTTP diagrams and the dropped JsonResponse example block restored from the Chinese source
+- `Day91-100/96.software-testing-and-automation.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the existing English tightened closer to the Chinese source in the testing-purpose and TDD explanations
+- `Day91-100/97.ecommerce-site-architecture.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the missing SPU-SKU, OAuth, cache-warmup, cart-storage, and payment-integration diagrams and examples restored from the Chinese source
+- `Day91-100/98.deployment-and-performance-tuning.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the missing deployment visuals, project-layout example, and concrete uWSGI and Nginx config snippets restored from the Chinese source
+- `Day91-100/99.common-interview-questions.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the existing English tightened slightly closer to the Chinese source
+- `Day91-100/100.supplementary-content.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the wording kept close to the Chinese source and the lesson tracker brought to the end of Day 100
