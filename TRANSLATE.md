@@ -114,7 +114,7 @@ Status legend:
 - `[x]` `Day66-80/71.NumPy的应用-4.md` -> `Day66-80/71.numpy-applications-4.md`
 - `[x]` `Day66-80/72.深入浅出pandas-1.md` -> `Day66-80/72.pandas-in-depth-1.md`
 - `[x]` `Day66-80/73.深入浅出pandas-2.md` -> `Day66-80/73.pandas-in-depth-2.md`
-- `[ ]` `Day66-80/74.深入浅出pandas-3.md` -> `Day66-80/74.pandas-in-depth-3.md`
+- `[x]` `Day66-80/74.深入浅出pandas-3.md` -> `Day66-80/74.pandas-in-depth-3.md`
 - `[ ]` `Day66-80/75.深入浅出pandas-4.md` -> `Day66-80/75.pandas-in-depth-4.md`
 - `[ ]` `Day66-80/76.深入浅出pandas-5.md` -> `Day66-80/76.pandas-in-depth-5.md`
 - `[ ]` `Day66-80/77.深入浅出pandas-6.md` -> `Day66-80/77.pandas-in-depth-6.md`
@@ -155,7 +155,7 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day66-80/74.pandas-in-depth-3.md`.
+- `[~]` Review `Day66-80/75.pandas-in-depth-4.md`.
 - `[ ]` Continue through the lessons in order after that.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
@@ -326,3 +326,6 @@ Status legend:
 - `Day66-80/73.pandas-in-depth-2.md`
   Status: complete
   Completed: pass 2 literal review completed, with the dropped DataFrame example outputs and query results restored so the lesson stays closer to the Chinese source
+- `Day66-80/74.pandas-in-depth-3.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the reshaping, cleaning, and outlier-handling example results restored and the wording tightened toward the Chinese source
