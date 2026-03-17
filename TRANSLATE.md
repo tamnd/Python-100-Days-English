@@ -139,7 +139,7 @@ Status legend:
 - `[x]` `Day91-100/93.MySQL性能优化.md` -> `Day91-100/93.mysql-performance-optimization.md`
 - `[x]` `Day91-100/94.网络API接口设计.md` -> `Day91-100/94.network-api-design.md`
 - `[x]` `Day91-100/95.使用Django开发商业项目.md` -> `Day91-100/95.django-for-commercial-projects.md`
-- `[ ]` `Day91-100/96.软件测试和自动化测试.md` -> `Day91-100/96.software-testing-and-automation.md`
+- `[x]` `Day91-100/96.软件测试和自动化测试.md` -> `Day91-100/96.software-testing-and-automation.md`
 - `[ ]` `Day91-100/97.电商网站技术要点剖析.md` -> `Day91-100/97.ecommerce-site-architecture.md`
 - `[ ]` `Day91-100/98.项目部署上线和性能调优.md` -> `Day91-100/98.deployment-and-performance-tuning.md`
 - `[ ]` `Day91-100/99.面试中的公共问题.md` -> `Day91-100/99.common-interview-questions.md`
@@ -155,7 +155,7 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day91-100/96.software-testing-and-automation.md`.
+- `[~]` Review `Day91-100/97.ecommerce-site-architecture.md`.
 - `[ ]` Continue through the lessons in order after that.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
@@ -392,3 +392,6 @@ Status legend:
 - `Day91-100/95.django-for-commercial-projects.md`
   Status: complete
   Completed: pass 2 literal review completed, with the missing architecture and HTTP diagrams and the dropped JsonResponse example block restored from the Chinese source
+- `Day91-100/96.software-testing-and-automation.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the existing English tightened closer to the Chinese source in the testing-purpose and TDD explanations
