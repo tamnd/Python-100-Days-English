@@ -120,7 +120,7 @@ Status legend:
 - `[x]` `Day66-80/77.深入浅出pandas-6.md` -> `Day66-80/77.pandas-in-depth-6.md`
 - `[x]` `Day66-80/78.数据可视化-1.md` -> `Day66-80/78.data-visualization-1.md`
 - `[x]` `Day66-80/79.数据可视化-2.md` -> `Day66-80/79.data-visualization-2.md`
-- `[ ]` `Day66-80/80.数据可视化-3.md` -> `Day66-80/80.data-visualization-3.md`
+- `[x]` `Day66-80/80.数据可视化-3.md` -> `Day66-80/80.data-visualization-3.md`
 
 ## Day81-100
 
@@ -155,7 +155,7 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day66-80/80.data-visualization-3.md`.
+- `[~]` Review `Day81-90/81.machine-learning-overview.md`.
 - `[ ]` Continue through the lessons in order after that.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
@@ -344,3 +344,6 @@ Status legend:
 - `Day66-80/79.data-visualization-2.md`
   Status: complete
   Completed: pass 2 literal review completed, with the missing bubble, area, radar, rose, and 3D chart visuals restored from the Chinese source
+- `Day66-80/80.data-visualization-3.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the missing seaborn and pyecharts example visuals and explanatory image restored from the Chinese source
