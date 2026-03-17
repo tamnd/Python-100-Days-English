@@ -125,7 +125,7 @@ Status legend:
 ## Day81-100
 
 - `[x]` `Day81-90/81.浅谈机器学习.md` -> `Day81-90/81.machine-learning-overview.md`
-- `[ ]` `Day81-90/82.k最近邻算法.md` -> `Day81-90/82.k-nearest-neighbors.md`
+- `[x]` `Day81-90/82.k最近邻算法.md` -> `Day81-90/82.k-nearest-neighbors.md`
 - `[ ]` `Day81-90/83.决策树和随机森林.md` -> `Day81-90/83.decision-trees-and-random-forest.md`
 - `[ ]` `Day81-90/84.朴素贝叶斯算法.md` -> `Day81-90/84.naive-bayes.md`
 - `[ ]` `Day81-90/85.回归模型.md` -> `Day81-90/85.regression-models.md`
@@ -155,7 +155,7 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day81-90/82.k-nearest-neighbors.md`.
+- `[~]` Review `Day81-90/83.decision-trees-and-random-forest.md`.
 - `[ ]` Continue through the lessons in order after that.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
@@ -350,3 +350,6 @@ Status legend:
 - `Day81-90/81.machine-learning-overview.md`
   Status: complete
   Completed: pass 2 literal review completed, with the dropped AI context, fuller machine-learning applications, and the missing kNN and regression walkthrough restored from the Chinese source
+- `Day81-90/82.k-nearest-neighbors.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the missing scikit-learn background, kNN outputs, and fuller model-evaluation explanation restored from the Chinese source
