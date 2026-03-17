@@ -46,7 +46,7 @@ Status legend:
 - `[x]` `Day01-20/17.函数高级应用.md` -> `Day01-20/17.advanced-function-applications.md`
 - `[x]` `Day01-20/18.面向对象编程入门.md` -> `Day01-20/18.object-oriented-programming-intro.md`
 - `[x]` `Day01-20/19.面向对象编程进阶.md` -> `Day01-20/19.object-oriented-programming-advanced.md`
-- `[ ]` `Day01-20/20.面向对象编程应用.md` -> `Day01-20/20.object-oriented-programming-in-practice.md`
+- `[x]` `Day01-20/20.面向对象编程应用.md` -> `Day01-20/20.object-oriented-programming-in-practice.md`
 
 ## Day21-30
 
@@ -221,3 +221,6 @@ Status legend:
 - `Day01-20/19.object-oriented-programming-advanced.md`
   Status: complete
   Completed: pass 3 literal review completed, with the visibility, dynamic-attribute, and inheritance sections rewritten into simpler English while restoring the original examples and key notes from the Chinese source
+- `Day01-20/20.object-oriented-programming-in-practice.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the poker and payroll examples rewritten into simpler English while restoring the original names, prompts, and source-specific teaching details
