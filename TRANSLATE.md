@@ -107,7 +107,7 @@ Status legend:
 - `[x]` `Day61-65/64.使用Selenium抓取网页动态内容.md` -> `Day61-65/64.selenium-for-dynamic-content.md`
 - `[x]` `Day61-65/65.爬虫框架Scrapy简介.md` -> `Day61-65/65.introduction-to-scrapy.md`
 - `[x]` `Day66-80/66.数据分析概述.md` -> `Day66-80/66.data-analysis-overview.md`
-- `[ ]` `Day66-80/67.环境准备.md` -> `Day66-80/67.environment-setup.md`
+- `[x]` `Day66-80/67.环境准备.md` -> `Day66-80/67.environment-setup.md`
 - `[ ]` `Day66-80/68.NumPy的应用-1.md` -> `Day66-80/68.numpy-applications-1.md`
 - `[ ]` `Day66-80/69.NumPy的应用-2.md` -> `Day66-80/69.numpy-applications-2.md`
 - `[ ]` `Day66-80/70.NumPy的应用-3.md` -> `Day66-80/70.numpy-applications-3.md`
@@ -155,7 +155,7 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day66-80/67.environment-setup.md`.
+- `[~]` Review `Day66-80/68.numpy-1.md`.
 - `[ ]` Continue through the lessons in order after that.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
@@ -305,3 +305,6 @@ Status legend:
 - `Day66-80/66.data-analysis-overview.md`
   Status: complete
   Completed: pass 2 literal review completed, with the role descriptions, general process lists, and the data-analysis library notes pulled closer to the Chinese source
+- `Day66-80/67.environment-setup.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the Anaconda and JupyterLab setup notes, the conda commands, and the usage tips and shortcut tables pulled closer to the Chinese source
