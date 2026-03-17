@@ -63,7 +63,7 @@ Status legend:
 
 ## Day31-45
 
-- `[ ]` `Day31-35/31.Python语言进阶.md` -> `Day31-35/31.python-advanced.md`
+- `[x]` `Day31-35/31.Python语言进阶.md` -> `Day31-35/31.python-advanced.md`
 - `[ ]` `Day31-35/32-33.Web前端入门.md` -> `Day31-35/32-33.web-frontend-introduction.md`
 - `[ ]` `Day31-35/34-35.玩转Linux操作系统.md` -> `Day31-35/34-35.linux-basics.md`
 - `[ ]` `Day36-45/36.关系型数据库和MySQL概述.md` -> `Day36-45/36.relational-databases-and-mysql-overview.md`
@@ -218,6 +218,9 @@ Status legend:
 - `Day01-20/18.object-oriented-programming-intro.md`
   Status: complete
   Completed: pass 3 literal review completed, with the OOP intro, student examples, and encapsulation explanation rewritten into simpler English while keeping the original examples and teaching order
+- `Day31-35/31.python-advanced.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the algorithm notes, function-usage wording, and teaching examples rewritten into simpler and more literal English while keeping the original structure and scope
 - `Day01-20/19.object-oriented-programming-advanced.md`
   Status: complete
   Completed: pass 3 literal review completed, with the visibility, dynamic-attribute, and inheritance sections rewritten into simpler English while restoring the original examples and key notes from the Chinese source
