@@ -54,7 +54,7 @@ Status legend:
 - `[x]` `Day21-30/22.对象的序列化和反序列化.md` -> `Day21-30/22.serialization-and-deserialization.md`
 - `[x]` `Day21-30/23.Python读写CSV文件.md` -> `Day21-30/23.working-with-csv-files.md`
 - `[x]` `Day21-30/24.Python读写Excel文件-1.md` -> `Day21-30/24.working-with-excel-files-1.md`
-- `[ ]` `Day21-30/25.Python读写Excel文件-2.md` -> `Day21-30/25.working-with-excel-files-2.md`
+- `[x]` `Day21-30/25.Python读写Excel文件-2.md` -> `Day21-30/25.working-with-excel-files-2.md`
 - `[ ]` `Day21-30/26.Python操作Word和PowerPoint文件.md` -> `Day21-30/26.working-with-word-and-powerpoint.md`
 - `[ ]` `Day21-30/27.Python操作PDF文件.md` -> `Day21-30/27.working-with-pdf-files.md`
 - `[ ]` `Day21-30/28.Python处理图像.md` -> `Day21-30/28.image-processing.md`
@@ -236,3 +236,6 @@ Status legend:
 - `Day21-30/24.working-with-excel-files-1.md`
   Status: complete
   Completed: pass 3 literal review completed, with the Excel read-write, styling, and formula examples rewritten into simpler English while restoring the original filenames, names, and workbook details
+- `Day21-30/25.working-with-excel-files-2.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the openpyxl read-write, styling, and chart examples rewritten into simpler English while restoring the original filenames, labels, and workbook details
