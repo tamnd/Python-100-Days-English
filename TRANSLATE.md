@@ -75,7 +75,7 @@ Status legend:
 - `[x]` `Day36-45/42.视图、函数和过程.md` -> `Day36-45/42.views-functions-and-procedures.md`
 - `[x]` `Day36-45/43.索引.md` -> `Day36-45/43.indexes.md`
 - `[x]` `Day36-45/44.Python接入MySQL数据库.md` -> `Day36-45/44.python-and-mysql.md`
-- `[ ]` `Day36-45/45.Hive实战.md` -> `Day36-45/45.hive-in-practice.md`
+- `[x]` `Day36-45/45.Hive实战.md` -> `Day36-45/45.hive-in-practice.md`
 
 ## Day46-60
 
@@ -254,6 +254,9 @@ Status legend:
 - `Day36-45/44.python-and-mysql.md`
   Status: complete
   Completed: pass 3 literal review completed, with the Python-MySQL connection steps, CRUD examples, and Excel export example rewritten into simpler and more literal English while keeping the original code flow
+- `Day36-45/45.hive-in-practice.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the Hive overview, environment setup, common commands, and basic syntax sections rewritten into simpler and more literal English while keeping the original examples and structure
 - `Day01-20/19.object-oriented-programming-advanced.md`
   Status: complete
   Completed: pass 3 literal review completed, with the visibility, dynamic-attribute, and inheritance sections rewritten into simpler English while restoring the original examples and key notes from the Chinese source
