@@ -80,7 +80,7 @@ Status legend:
 ## Day46-60
 
 - `[x]` `Day46-60/46.Django快速上手.md` -> `Day46-60/46.getting-started-with-django.md`
-- `[ ]` `Day46-60/47.深入模型.md` -> `Day46-60/47.models-in-depth.md`
+- `[x]` `Day46-60/47.深入模型.md` -> `Day46-60/47.models-in-depth.md`
 - `[ ]` `Day46-60/48.静态资源和Ajax请求.md` -> `Day46-60/48.static-assets-and-ajax.md`
 - `[ ]` `Day46-60/49.Cookie和Session.md` -> `Day46-60/49.cookies-and-sessions.md`
 - `[ ]` `Day46-60/50.制作报表.md` -> `Day46-60/50.reporting.md`
@@ -260,6 +260,9 @@ Status legend:
 - `Day46-60/46.getting-started-with-django.md`
   Status: complete
   Completed: pass 3 literal review completed, with the web basics, HTTP, Django overview, and first-project explanation rewritten into simpler and more literal English while keeping the original structure and examples
+- `Day46-60/47.models-in-depth.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the model, ORM, and MySQL-configuration explanations rewritten into simpler and more literal English while keeping the original project flow and examples
 - `Day01-20/19.object-oriented-programming-advanced.md`
   Status: complete
   Completed: pass 3 literal review completed, with the visibility, dynamic-attribute, and inheritance sections rewritten into simpler English while restoring the original examples and key notes from the Chinese source
