@@ -43,7 +43,7 @@ Status legend:
 - `[x]` `Day01-20/14.函数和模块.md` -> `Day01-20/14.functions-and-modules.md`
 - `[x]` `Day01-20/15.函数应用实战.md` -> `Day01-20/15.function-practice.md`
 - `[x]` `Day01-20/16.函数使用进阶.md` -> `Day01-20/16.advanced-functions.md`
-- `[ ]` `Day01-20/17.函数高级应用.md` -> `Day01-20/17.advanced-function-applications.md`
+- `[x]` `Day01-20/17.函数高级应用.md` -> `Day01-20/17.advanced-function-applications.md`
 - `[ ]` `Day01-20/18.面向对象编程入门.md` -> `Day01-20/18.object-oriented-programming-intro.md`
 - `[ ]` `Day01-20/19.面向对象编程进阶.md` -> `Day01-20/19.object-oriented-programming-advanced.md`
 - `[ ]` `Day01-20/20.面向对象编程应用.md` -> `Day01-20/20.object-oriented-programming-in-practice.md`
@@ -212,3 +212,6 @@ Status legend:
 - `Day01-20/16.advanced-functions.md`
   Status: complete
   Completed: pass 3 literal review completed, with the higher-order-function, lambda, and partial-function sections rewritten into simpler English while restoring missing explanation from the Chinese source
+- `Day01-20/17.advanced-function-applications.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the decorator and recursion sections rewritten into simpler English while restoring the original examples and explanatory detail from the Chinese source
