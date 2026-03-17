@@ -38,7 +38,7 @@ Status legend:
 - `[x]` `Day01-20/09.常用数据结构之列表-2.md` -> `Day01-20/09.lists-2.md`
 - `[x]` `Day01-20/10.常用数据结构之元组.md` -> `Day01-20/10.tuples.md`
 - `[x]` `Day01-20/11.常用数据结构之字符串.md` -> `Day01-20/11.strings.md`
-- `[ ]` `Day01-20/12.常用数据结构之集合.md` -> `Day01-20/12.sets.md`
+- `[x]` `Day01-20/12.常用数据结构之集合.md` -> `Day01-20/12.sets.md`
 - `[ ]` `Day01-20/13.常用数据结构之字典.md` -> `Day01-20/13.dictionaries.md`
 - `[ ]` `Day01-20/14.函数和模块.md` -> `Day01-20/14.functions-and-modules.md`
 - `[ ]` `Day01-20/15.函数应用实战.md` -> `Day01-20/15.function-practice.md`
@@ -197,3 +197,6 @@ Status legend:
 - `Day01-20/11.strings.md`
   Status: complete
   Completed: pass 3 literal review completed, with the string basics, string operations, and string methods sections rewritten into simpler English while keeping the original meaning, examples, and lesson flow
+- `Day01-20/12.sets.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the set properties, hashable-type notes, and operation sections rewritten into simpler English while keeping the original structure and examples
