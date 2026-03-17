@@ -27,7 +27,7 @@ Status legend:
 
 ## Day01-20
 
-- `[ ]` `Day01-20/01.初识Python.md` -> `Day01-20/01.getting-started-with-python.md`
+- `[x]` `Day01-20/01.初识Python.md` -> `Day01-20/01.getting-started-with-python.md`
 - `[ ]` `Day01-20/02.第一个Python程序.md` -> `Day01-20/02.first-python-program.md`
 - `[ ]` `Day01-20/03.Python语言中的变量.md` -> `Day01-20/03.variables-in-python.md`
 - `[ ]` `Day01-20/04.Python语言中的运算符.md` -> `Day01-20/04.operators-in-python.md`
@@ -164,3 +164,6 @@ Status legend:
 - `README.md`
   Status: complete
   Completed: pass 3 literal review completed, with the top-level wording pulled closer to the Chinese source and README links verified against the English repo paths
+- `Day01-20/01.getting-started-with-python.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the lesson rewritten sentence by sentence into simpler, more literal English while keeping the original structure, examples, and install notes
