@@ -66,7 +66,7 @@ Status legend:
 - `[x]` `Day31-35/31.Python语言进阶.md` -> `Day31-35/31.python-advanced.md`
 - `[x]` `Day31-35/32-33.Web前端入门.md` -> `Day31-35/32-33.web-frontend-introduction.md`
 - `[x]` `Day31-35/34-35.玩转Linux操作系统.md` -> `Day31-35/34-35.linux-basics.md`
-- `[ ]` `Day36-45/36.关系型数据库和MySQL概述.md` -> `Day36-45/36.relational-databases-and-mysql-overview.md`
+- `[x]` `Day36-45/36.关系型数据库和MySQL概述.md` -> `Day36-45/36.relational-databases-and-mysql-overview.md`
 - `[ ]` `Day36-45/37.SQL详解之DDL.md` -> `Day36-45/37.sql-ddl.md`
 - `[ ]` `Day36-45/38.SQL详解之DML.md` -> `Day36-45/38.sql-dml.md`
 - `[ ]` `Day36-45/39.SQL详解之DQL.md` -> `Day36-45/39.sql-dql.md`
@@ -227,6 +227,9 @@ Status legend:
 - `Day31-35/34-35.linux-basics.md`
   Status: complete
   Completed: pass 3 literal review completed, with the operating-system overview, Linux basics, command explanations, and file-system sections rewritten into simpler and more literal English while keeping the original lesson structure
+- `Day36-45/36.relational-databases-and-mysql-overview.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the relational-database overview, MySQL introduction, and installation sections rewritten into simpler and more literal English while keeping the original structure and setup flow
 - `Day01-20/19.object-oriented-programming-advanced.md`
   Status: complete
   Completed: pass 3 literal review completed, with the visibility, dynamic-attribute, and inheritance sections rewritten into simpler English while restoring the original examples and key notes from the Chinese source
