@@ -32,7 +32,7 @@ Status legend:
 - `[x]` `Day01-20/03.Python语言中的变量.md` -> `Day01-20/03.variables-in-python.md`
 - `[x]` `Day01-20/04.Python语言中的运算符.md` -> `Day01-20/04.operators-in-python.md`
 - `[x]` `Day01-20/05.分支结构.md` -> `Day01-20/05.branching.md`
-- `[ ]` `Day01-20/06.循环结构.md` -> `Day01-20/06.loops.md`
+- `[x]` `Day01-20/06.循环结构.md` -> `Day01-20/06.loops.md`
 - `[ ]` `Day01-20/07.分支和循环结构实战.md` -> `Day01-20/07.branching-and-loops-in-practice.md`
 - `[ ]` `Day01-20/08.常用数据结构之列表-1.md` -> `Day01-20/08.lists-1.md`
 - `[ ]` `Day01-20/09.常用数据结构之列表-2.md` -> `Day01-20/09.lists-2.md`
@@ -179,3 +179,6 @@ Status legend:
 - `Day01-20/05.branching.md`
   Status: complete
   Completed: pass 3 literal review completed, with the branching, match-case, and example sections rewritten into clearer English while keeping the original teaching order and examples
+- `Day01-20/06.loops.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the loop explanations, break-continue notes, and application examples rewritten into clearer English while keeping the original examples and flow
