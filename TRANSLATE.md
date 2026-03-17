@@ -133,7 +133,7 @@ Status legend:
 - `[x]` `Day81-90/87.集成学习算法.md` -> `Day81-90/87.ensemble-learning.md`
 - `[x]` `Day81-90/88.神经网络模型.md` -> `Day81-90/88.neural-network-models.md`
 - `[x]` `Day81-90/89.自然语言处理入门.md` -> `Day81-90/89.natural-language-processing-intro.md`
-- `[ ]` `Day81-90/90.机器学习实战.md` -> `Day81-90/90.machine-learning-in-practice.md`
+- `[x]` `Day81-90/90.机器学习实战.md` -> `Day81-90/90.machine-learning-in-practice.md`
 - `[ ]` `Day91-100/91.团队项目开发的问题和解决方案.md` -> `Day91-100/91.team-project-problems-and-solutions.md`
 - `[ ]` `Day91-100/92.Docker容器技术详解.md` -> `Day91-100/92.docker-in-depth.md`
 - `[ ]` `Day91-100/93.MySQL性能优化.md` -> `Day91-100/93.mysql-performance-optimization.md`
@@ -155,7 +155,7 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day81-90/90.machine-learning-in-practice.md`.
+- `[~]` Review `Day91-100/91.team-project-problems-and-solutions.md`.
 - `[ ]` Continue through the lessons in order after that.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
@@ -374,3 +374,6 @@ Status legend:
 - `Day81-90/89.natural-language-processing-intro.md`
   Status: complete
   Completed: pass 2 literal review completed, with the missing bag-of-words output blocks, Chinese stop-word example, Word2Vec figure and outputs, and the later Seq2Seq and Transformer diagrams restored from the Chinese source
+- `Day81-90/90.machine-learning-in-practice.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the dropped Titanic output blocks, dataset-visualization image, validation results, and deployment/API example details restored from the Chinese source
