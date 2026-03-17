@@ -51,7 +51,7 @@ Status legend:
 ## Day21-30
 
 - `[x]` `Day21-30/21.文件读写和异常处理.md` -> `Day21-30/21.file-io-and-exception-handling.md`
-- `[ ]` `Day21-30/22.对象的序列化和反序列化.md` -> `Day21-30/22.serialization-and-deserialization.md`
+- `[x]` `Day21-30/22.对象的序列化和反序列化.md` -> `Day21-30/22.serialization-and-deserialization.md`
 - `[ ]` `Day21-30/23.Python读写CSV文件.md` -> `Day21-30/23.working-with-csv-files.md`
 - `[ ]` `Day21-30/24.Python读写Excel文件-1.md` -> `Day21-30/24.working-with-excel-files-1.md`
 - `[ ]` `Day21-30/25.Python读写Excel文件-2.md` -> `Day21-30/25.working-with-excel-files-2.md`
@@ -227,3 +227,6 @@ Status legend:
 - `Day21-30/21.file-io-and-exception-handling.md`
   Status: complete
   Completed: pass 3 literal review completed, with the file I/O, exception-handling, and context-manager sections rewritten into simpler English while restoring the original filenames, prompts, and summary detail
+- `Day21-30/22.serialization-and-deserialization.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the JSON, pip, and network-API sections rewritten into simpler English while restoring the original examples, names, and source-specific notes
