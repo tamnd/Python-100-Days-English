@@ -69,7 +69,7 @@ Status legend:
 - `[x]` `Day36-45/36.关系型数据库和MySQL概述.md` -> `Day36-45/36.relational-databases-and-mysql-overview.md`
 - `[x]` `Day36-45/37.SQL详解之DDL.md` -> `Day36-45/37.sql-ddl.md`
 - `[x]` `Day36-45/38.SQL详解之DML.md` -> `Day36-45/38.sql-dml.md`
-- `[ ]` `Day36-45/39.SQL详解之DQL.md` -> `Day36-45/39.sql-dql.md`
+- `[x]` `Day36-45/39.SQL详解之DQL.md` -> `Day36-45/39.sql-dql.md`
 - `[ ]` `Day36-45/40.SQL详解之DCL.md` -> `Day36-45/40.sql-dcl.md`
 - `[ ]` `Day36-45/41.MySQL新特性.md` -> `Day36-45/41.mysql-new-features.md`
 - `[ ]` `Day36-45/42.视图、函数和过程.md` -> `Day36-45/42.views-functions-and-procedures.md`
@@ -236,6 +236,9 @@ Status legend:
 - `Day36-45/38.sql-dml.md`
   Status: complete
   Completed: pass 3 literal review completed, with the insert, delete, and update explanations rewritten into simpler and more literal English while keeping the original examples and full sample data
+- `Day36-45/39.sql-dql.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the DQL query comments and teaching notes rewritten into simpler and more literal English while keeping the original query set and example flow
 - `Day01-20/19.object-oriented-programming-advanced.md`
   Status: complete
   Completed: pass 3 literal review completed, with the visibility, dynamic-attribute, and inheritance sections rewritten into simpler English while restoring the original examples and key notes from the Chinese source
