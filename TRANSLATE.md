@@ -34,7 +34,7 @@ Status legend:
 - `[x]` `Day01-20/05.分支结构.md` -> `Day01-20/05.branching.md`
 - `[x]` `Day01-20/06.循环结构.md` -> `Day01-20/06.loops.md`
 - `[x]` `Day01-20/07.分支和循环结构实战.md` -> `Day01-20/07.branching-and-loops-in-practice.md`
-- `[ ]` `Day01-20/08.常用数据结构之列表-1.md` -> `Day01-20/08.lists-1.md`
+- `[x]` `Day01-20/08.常用数据结构之列表-1.md` -> `Day01-20/08.lists-1.md`
 - `[ ]` `Day01-20/09.常用数据结构之列表-2.md` -> `Day01-20/09.lists-2.md`
 - `[ ]` `Day01-20/10.常用数据结构之元组.md` -> `Day01-20/10.tuples.md`
 - `[ ]` `Day01-20/11.常用数据结构之字符串.md` -> `Day01-20/11.strings.md`
@@ -185,3 +185,6 @@ Status legend:
 - `Day01-20/07.branching-and-loops-in-practice.md`
   Status: complete
   Completed: pass 3 literal review completed, with the practice examples and explanatory notes rewritten into clearer English while keeping the original exercises and code
+- `Day01-20/08.lists-1.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the list basics, indexing-slicing, and traversal sections rewritten into clearer English while keeping the original examples and structure
