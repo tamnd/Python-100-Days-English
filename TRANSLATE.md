@@ -111,7 +111,7 @@ Status legend:
 - `[x]` `Day66-80/68.NumPy的应用-1.md` -> `Day66-80/68.numpy-applications-1.md`
 - `[x]` `Day66-80/69.NumPy的应用-2.md` -> `Day66-80/69.numpy-applications-2.md`
 - `[x]` `Day66-80/70.NumPy的应用-3.md` -> `Day66-80/70.numpy-applications-3.md`
-- `[ ]` `Day66-80/71.NumPy的应用-4.md` -> `Day66-80/71.numpy-applications-4.md`
+- `[x]` `Day66-80/71.NumPy的应用-4.md` -> `Day66-80/71.numpy-applications-4.md`
 - `[ ]` `Day66-80/72.深入浅出pandas-1.md` -> `Day66-80/72.pandas-in-depth-1.md`
 - `[ ]` `Day66-80/73.深入浅出pandas-2.md` -> `Day66-80/73.pandas-in-depth-2.md`
 - `[ ]` `Day66-80/74.深入浅出pandas-3.md` -> `Day66-80/74.pandas-in-depth-3.md`
@@ -155,7 +155,7 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day66-80/71.numpy-applications-4.md`.
+- `[~]` Review `Day66-80/72.pandas-in-depth-1.md`.
 - `[ ]` Continue through the lessons in order after that.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
@@ -317,3 +317,6 @@ Status legend:
 - `Day66-80/70.numpy-applications-3.md`
   Status: complete
   Completed: pass 2 literal review completed, with the omitted vectorized-operation outputs, broadcasting examples, and common-function examples restored so the lesson stays closer to the Chinese source
+- `Day66-80/71.numpy-applications-4.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the determinant notes, matrix-object outputs, linear-algebra examples, and the missing polynomial least-squares section restored from the Chinese source
