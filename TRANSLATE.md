@@ -58,7 +58,7 @@ Status legend:
 - `[x]` `Day21-30/26.Python操作Word和PowerPoint文件.md` -> `Day21-30/26.working-with-word-and-powerpoint.md`
 - `[x]` `Day21-30/27.Python操作PDF文件.md` -> `Day21-30/27.working-with-pdf-files.md`
 - `[x]` `Day21-30/28.Python处理图像.md` -> `Day21-30/28.image-processing.md`
-- `[ ]` `Day21-30/29.Python发送邮件和短信.md` -> `Day21-30/29.sending-email-and-sms.md`
+- `[x]` `Day21-30/29.Python发送邮件和短信.md` -> `Day21-30/29.sending-email-and-sms.md`
 - `[ ]` `Day21-30/30.正则表达式的应用.md` -> `Day21-30/30.regular-expressions-in-practice.md`
 
 ## Day31-45
@@ -248,3 +248,6 @@ Status legend:
 - `Day21-30/28.image-processing.md`
   Status: complete
   Completed: pass 3 literal review completed, with the image-processing basics and Pillow examples rewritten into simpler English while restoring the original labels and source-specific sample details
+- `Day21-30/29.sending-email-and-sms.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the email and SMS examples rewritten into simpler English while restoring the original subjects, filenames, message text, and platform-specific details
