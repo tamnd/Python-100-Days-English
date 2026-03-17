@@ -118,7 +118,7 @@ Status legend:
 - `[x]` `Day66-80/75.深入浅出pandas-4.md` -> `Day66-80/75.pandas-in-depth-4.md`
 - `[x]` `Day66-80/76.深入浅出pandas-5.md` -> `Day66-80/76.pandas-in-depth-5.md`
 - `[x]` `Day66-80/77.深入浅出pandas-6.md` -> `Day66-80/77.pandas-in-depth-6.md`
-- `[ ]` `Day66-80/78.数据可视化-1.md` -> `Day66-80/78.data-visualization-1.md`
+- `[x]` `Day66-80/78.数据可视化-1.md` -> `Day66-80/78.data-visualization-1.md`
 - `[ ]` `Day66-80/79.数据可视化-2.md` -> `Day66-80/79.data-visualization-2.md`
 - `[ ]` `Day66-80/80.数据可视化-3.md` -> `Day66-80/80.data-visualization-3.md`
 
@@ -155,7 +155,7 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day66-80/78.data-visualization-1.md`.
+- `[~]` Review `Day66-80/79.data-visualization-2.md`.
 - `[ ]` Continue through the lessons in order after that.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
@@ -338,3 +338,6 @@ Status legend:
 - `Day66-80/77.pandas-in-depth-6.md`
   Status: complete
   Completed: pass 2 literal review completed, with the missing index-example outputs and the cut-off datetime-index section restored from the Chinese source
+- `Day66-80/78.data-visualization-1.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the missing chart outputs, visual examples, and small explanatory notes restored from the Chinese source
