@@ -105,7 +105,7 @@ Status legend:
 - `[x]` `Day61-65/63.Python中的并发编程-3.md` -> `Day61-65/63.concurrent-programming-in-python-3.md`
 - `[x]` `Day61-65/63.并发编程在爬虫中的应用.md` -> `Day61-65/63.concurrent-programming-in-crawlers.md`
 - `[x]` `Day61-65/64.使用Selenium抓取网页动态内容.md` -> `Day61-65/64.selenium-for-dynamic-content.md`
-- `[ ]` `Day61-65/65.爬虫框架Scrapy简介.md` -> `Day61-65/65.introduction-to-scrapy.md`
+- `[x]` `Day61-65/65.爬虫框架Scrapy简介.md` -> `Day61-65/65.introduction-to-scrapy.md`
 - `[ ]` `Day66-80/66.数据分析概述.md` -> `Day66-80/66.data-analysis-overview.md`
 - `[ ]` `Day66-80/67.环境准备.md` -> `Day66-80/67.environment-setup.md`
 - `[ ]` `Day66-80/68.NumPy的应用-1.md` -> `Day66-80/68.numpy-applications-1.md`
@@ -155,7 +155,7 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review `Day61-65/65.introduction-to-scrapy.md`.
+- `[~]` Review `Day66-80/66.data-analysis-overview.md`.
 - `[ ]` Continue through the lessons in order after that.
 - `[ ]` Review each lesson file in order and update this checklist after every file.
 
@@ -299,3 +299,6 @@ Status legend:
 - `Day61-65/64.selenium-for-dynamic-content.md`
   Status: complete
   Completed: pass 2 literal review completed, with the missing ChromeDriver and anti-Selenium screenshots, the fuller waiting-condition and API tables, and the complete Selenium example restored from the Chinese source
+- `Day61-65/65.introduction-to-scrapy.md`
+  Status: complete
+  Completed: pass 2 literal review completed, with the missing Scrapy architecture diagram, the fuller project and callback flow, the duplicate-page note, the Excel pipeline example, and the settings explanation restored from the Chinese source
