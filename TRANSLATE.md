@@ -84,7 +84,7 @@ Status legend:
 - `[x]` `Day46-60/48.静态资源和Ajax请求.md` -> `Day46-60/48.static-assets-and-ajax.md`
 - `[x]` `Day46-60/49.Cookie和Session.md` -> `Day46-60/49.cookies-and-sessions.md`
 - `[x]` `Day46-60/50.制作报表.md` -> `Day46-60/50.reporting.md`
-- `[ ]` `Day46-60/51.日志和调试工具栏.md` -> `Day46-60/51.logging-and-debug-toolbar.md`
+- `[x]` `Day46-60/51.日志和调试工具栏.md` -> `Day46-60/51.logging-and-debug-toolbar.md`
 - `[ ]` `Day46-60/52.中间件的应用.md` -> `Day46-60/52.middleware.md`
 - `[ ]` `Day46-60/53.前后端分离开发入门.md` -> `Day46-60/53.frontend-backend-separation-intro.md`
 - `[ ]` `Day46-60/54.RESTful架构和DRF入门.md` -> `Day46-60/54.restful-architecture-and-drf-intro.md`
@@ -259,19 +259,22 @@ Status legend:
   Completed: pass 3 literal review completed, with the Hive overview, environment setup, common commands, and basic syntax sections rewritten into simpler and more literal English while keeping the original examples and structure
 - `Day46-60/46.getting-started-with-django.md`
   Status: complete
-  Completed: pass 3 literal review completed, with the web basics, HTTP, Django overview, and first-project explanation rewritten into simpler and more literal English while keeping the original structure and examples
+  Completed: pass 3 literal review completed, with the Django setup, project structure, and first-request walkthrough rewritten into simpler and more literal English while keeping the original code and lesson flow
 - `Day46-60/47.models-in-depth.md`
   Status: complete
-  Completed: pass 3 literal review completed, with the model, ORM, and MySQL-configuration explanations rewritten into simpler and more literal English while keeping the original project flow and examples
+  Completed: pass 3 literal review completed, with the model design, field-option, and query sections rewritten into simpler and more literal English while keeping the original examples and explanation order
 - `Day46-60/48.static-assets-and-ajax.md`
   Status: complete
-  Completed: pass 3 literal review completed, with the static-resource and Ajax explanations rewritten into simpler and more literal English while keeping the original voting example and frontend code flow
+  Completed: pass 3 literal review completed, with the static-file, Ajax-request, and teacher-voting examples rewritten into simpler and more literal English while keeping the original code and structure
 - `Day46-60/49.cookies-and-sessions.md`
   Status: complete
-  Completed: pass 3 literal review completed, with the login preparation, user-tracking explanation, and session-background sections rewritten into simpler and more literal English while keeping the original code and lesson flow
+  Completed: pass 3 literal review completed, with the Cookie, Session, and user-login explanations rewritten into simpler and more literal English while keeping the original flow and examples
 - `Day46-60/50.reporting.md`
   Status: complete
-  Completed: pass 3 literal review completed, with the Excel-report, PDF-report, and ECharts sections rewritten into simpler and more literal English while keeping the original examples and reporting flow
+  Completed: pass 3 literal review completed, with the Excel, Word, PDF, and chart-report sections rewritten into simpler and more literal English while keeping the original code and teaching order
+- `Day46-60/51.logging-and-debug-toolbar.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the logging, debug-toolbar, and ORM-optimization sections rewritten into simpler and more literal English while keeping the original configuration and examples
 - `Day01-20/19.object-oriented-programming-advanced.md`
   Status: complete
   Completed: pass 3 literal review completed, with the visibility, dynamic-attribute, and inheritance sections rewritten into simpler English while restoring the original examples and key notes from the Chinese source
