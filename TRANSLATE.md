@@ -98,7 +98,7 @@ Status legend:
 ## Day61-80
 
 - `[x]` `Day61-65/61.网络数据采集概述.md` -> `Day61-65/61.web-data-collection-overview.md`
-- `[ ]` `Day61-65/62.用Python获取网络资源-1.md` -> `Day61-65/62.fetching-web-resources.md`
+- `[x]` `Day61-65/62.用Python获取网络资源-1.md` -> `Day61-65/62.fetching-web-resources.md`
 - `[ ]` `Day61-65/62.用Python解析HTML页面-2.md` -> `Day61-65/62.parsing-html-with-python.md`
 - `[ ]` `Day61-65/63.Python中的并发编程-1.md` -> `Day61-65/63.concurrent-programming-in-python-1.md`
 - `[ ]` `Day61-65/63.Python中的并发编程-2.md` -> `Day61-65/63.concurrent-programming-in-python-2.md`
@@ -305,6 +305,9 @@ Status legend:
 - `Day61-65/61.web-data-collection-overview.md`
   Status: complete
   Completed: pass 3 literal review completed, with the crawler overview, legality discussion, HTTP review, and tool-workflow sections rewritten into simpler and more literal English while keeping the original examples and structure
+- `Day61-65/62.fetching-web-resources.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the requests basics, Douban crawler example, and IP-proxy section rewritten into simpler and more literal English while keeping the original code and lesson flow
 - `Day01-20/19.object-oriented-programming-advanced.md`
   Status: complete
   Completed: pass 3 literal review completed, with the visibility, dynamic-attribute, and inheritance sections rewritten into simpler English while restoring the original examples and key notes from the Chinese source
