@@ -93,7 +93,7 @@ Status legend:
 - `[x]` `Day46-60/57.接入三方平台.md` -> `Day46-60/57.third-party-platform-integration.md`
 - `[x]` `Day46-60/58.异步任务和定时任务.md` -> `Day46-60/58.async-and-scheduled-tasks.md`
 - `[x]` `Day46-60/59.单元测试.md` -> `Day46-60/59.unit-testing.md`
-- `[ ]` `Day46-60/60.项目上线.md` -> `Day46-60/60.project-deployment.md`
+- `[x]` `Day46-60/60.项目上线.md` -> `Day46-60/60.project-deployment.md`
 
 ## Day61-80
 
@@ -299,6 +299,9 @@ Status legend:
 - `Day46-60/59.unit-testing.md`
   Status: complete
   Completed: pass 3 literal review completed, with the short unit-testing pointer rewritten into simpler and more literal English while keeping the original scope and link target
+- `Day46-60/60.project-deployment.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the short project-deployment pointer rewritten into simpler and more literal English while keeping the original scope and link target
 - `Day01-20/19.object-oriented-programming-advanced.md`
   Status: complete
   Completed: pass 3 literal review completed, with the visibility, dynamic-attribute, and inheritance sections rewritten into simpler English while restoring the original examples and key notes from the Chinese source
