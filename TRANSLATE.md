@@ -87,7 +87,7 @@ Status legend:
 - `[x]` `Day46-60/51.日志和调试工具栏.md` -> `Day46-60/51.logging-and-debug-toolbar.md`
 - `[x]` `Day46-60/52.中间件的应用.md` -> `Day46-60/52.middleware.md`
 - `[x]` `Day46-60/53.前后端分离开发入门.md` -> `Day46-60/53.frontend-backend-separation-intro.md`
-- `[ ]` `Day46-60/54.RESTful架构和DRF入门.md` -> `Day46-60/54.restful-architecture-and-drf-intro.md`
+- `[x]` `Day46-60/54.RESTful架构和DRF入门.md` -> `Day46-60/54.restful-architecture-and-drf-intro.md`
 - `[ ]` `Day46-60/55.RESTful架构和DRF进阶.md` -> `Day46-60/55.restful-architecture-and-drf-advanced.md`
 - `[ ]` `Day46-60/56.使用缓存.md` -> `Day46-60/56.caching.md`
 - `[ ]` `Day46-60/57.接入三方平台.md` -> `Day46-60/57.third-party-platform-integration.md`
@@ -281,6 +281,9 @@ Status legend:
 - `Day46-60/53.frontend-backend-separation-intro.md`
   Status: complete
   Completed: pass 3 literal review completed, with the frontend-backend separation overview, JSON API example, and Vue rendering walkthrough rewritten into simpler and more literal English while keeping the original code and lesson flow
+- `Day46-60/54.restful-architecture-and-drf-intro.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the REST overview, DRF serializer-view examples, and token-JWT introduction rewritten into simpler and more literal English while keeping the original structure and examples
 - `Day01-20/19.object-oriented-programming-advanced.md`
   Status: complete
   Completed: pass 3 literal review completed, with the visibility, dynamic-attribute, and inheritance sections rewritten into simpler English while restoring the original examples and key notes from the Chinese source
