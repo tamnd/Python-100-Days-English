@@ -103,7 +103,7 @@ Status legend:
 - `[x]` `Day61-65/63.Python中的并发编程-1.md` -> `Day61-65/63.concurrent-programming-in-python-1.md`
 - `[x]` `Day61-65/63.Python中的并发编程-2.md` -> `Day61-65/63.concurrent-programming-in-python-2.md`
 - `[x]` `Day61-65/63.Python中的并发编程-3.md` -> `Day61-65/63.concurrent-programming-in-python-3.md`
-- `[ ]` `Day61-65/63.并发编程在爬虫中的应用.md` -> `Day61-65/63.concurrent-programming-in-crawlers.md`
+- `[x]` `Day61-65/63.并发编程在爬虫中的应用.md` -> `Day61-65/63.concurrent-programming-in-crawlers.md`
 - `[ ]` `Day61-65/64.使用Selenium抓取网页动态内容.md` -> `Day61-65/64.selenium-for-dynamic-content.md`
 - `[ ]` `Day61-65/65.爬虫框架Scrapy简介.md` -> `Day61-65/65.introduction-to-scrapy.md`
 - `[ ]` `Day66-80/66.数据分析概述.md` -> `Day66-80/66.data-analysis-overview.md`
@@ -320,6 +320,9 @@ Status legend:
 - `Day61-65/63.concurrent-programming-in-python-3.md`
   Status: complete
   Completed: pass 3 literal review completed, with the async-programming concepts, generator-coroutine explanation, and async-function sections rewritten into simpler and more literal English while keeping the original examples and terms
+- `Day61-65/63.concurrent-programming-in-crawlers.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the crawler concurrency comparison and image-downloading examples rewritten into simpler and more literal English while keeping the original code flow
 - `Day01-20/19.object-oriented-programming-advanced.md`
   Status: complete
   Completed: pass 3 literal review completed, with the visibility, dynamic-attribute, and inheritance sections rewritten into simpler English while restoring the original examples and key notes from the Chinese source
