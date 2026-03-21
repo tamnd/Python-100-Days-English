@@ -111,7 +111,7 @@ Status legend:
 - `[x]` `Day66-80/68.NumPy的应用-1.md` -> `Day66-80/68.numpy-applications-1.md`
 - `[x]` `Day66-80/69.NumPy的应用-2.md` -> `Day66-80/69.numpy-applications-2.md`
 - `[x]` `Day66-80/70.NumPy的应用-3.md` -> `Day66-80/70.numpy-applications-3.md`
-- `[ ]` `Day66-80/71.NumPy的应用-4.md` -> `Day66-80/71.numpy-applications-4.md`
+- `[x]` `Day66-80/71.NumPy的应用-4.md` -> `Day66-80/71.numpy-applications-4.md`
 - `[ ]` `Day66-80/72.深入浅出pandas-1.md` -> `Day66-80/72.pandas-in-depth-1.md`
 - `[ ]` `Day66-80/73.深入浅出pandas-2.md` -> `Day66-80/73.pandas-in-depth-2.md`
 - `[ ]` `Day66-80/74.深入浅出pandas-3.md` -> `Day66-80/74.pandas-in-depth-3.md`
@@ -344,6 +344,9 @@ Status legend:
 - `Day66-80/70.numpy-applications-3.md`
   Status: complete
   Completed: pass 3 literal review completed, with the array-operation and universal-function sections rewritten into simpler and more literal English while keeping the original examples and explanations
+- `Day66-80/71.numpy-applications-4.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the vector, determinant, and matrix sections rewritten into simpler and more literal English while keeping the original formulas and examples
 - `Day01-20/19.object-oriented-programming-advanced.md`
   Status: complete
   Completed: pass 3 literal review completed, with the visibility, dynamic-attribute, and inheritance sections rewritten into simpler English while restoring the original examples and key notes from the Chinese source
