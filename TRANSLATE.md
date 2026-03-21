@@ -106,7 +106,7 @@ Status legend:
 - `[x]` `Day61-65/63.并发编程在爬虫中的应用.md` -> `Day61-65/63.concurrent-programming-in-crawlers.md`
 - `[x]` `Day61-65/64.使用Selenium抓取网页动态内容.md` -> `Day61-65/64.selenium-for-dynamic-content.md`
 - `[x]` `Day61-65/65.爬虫框架Scrapy简介.md` -> `Day61-65/65.introduction-to-scrapy.md`
-- `[ ]` `Day66-80/66.数据分析概述.md` -> `Day66-80/66.data-analysis-overview.md`
+- `[x]` `Day66-80/66.数据分析概述.md` -> `Day66-80/66.data-analysis-overview.md`
 - `[ ]` `Day66-80/67.环境准备.md` -> `Day66-80/67.environment-setup.md`
 - `[ ]` `Day66-80/68.NumPy的应用-1.md` -> `Day66-80/68.numpy-applications-1.md`
 - `[ ]` `Day66-80/69.NumPy的应用-2.md` -> `Day66-80/69.numpy-applications-2.md`
@@ -329,6 +329,9 @@ Status legend:
 - `Day61-65/65.introduction-to-scrapy.md`
   Status: complete
   Completed: pass 3 literal review completed, with the Scrapy overview, component-flow explanation, and starter example rewritten into simpler and more literal English while keeping the original framework structure and sample spider
+- `Day66-80/66.data-analysis-overview.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the data-analysis overview, analyst-role explanation, and library-stack sections rewritten into simpler and more literal English while keeping the original structure and scope
 - `Day01-20/19.object-oriented-programming-advanced.md`
   Status: complete
   Completed: pass 3 literal review completed, with the visibility, dynamic-attribute, and inheritance sections rewritten into simpler English while restoring the original examples and key notes from the Chinese source
