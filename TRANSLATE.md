@@ -115,7 +115,7 @@ Status legend:
 - `[x]` `Day66-80/72.深入浅出pandas-1.md` -> `Day66-80/72.pandas-in-depth-1.md`
 - `[x]` `Day66-80/73.深入浅出pandas-2.md` -> `Day66-80/73.pandas-in-depth-2.md`
 - `[x]` `Day66-80/74.深入浅出pandas-3.md` -> `Day66-80/74.pandas-in-depth-3.md`
-- `[ ]` `Day66-80/75.深入浅出pandas-4.md` -> `Day66-80/75.pandas-in-depth-4.md`
+- `[x]` `Day66-80/75.深入浅出pandas-4.md` -> `Day66-80/75.pandas-in-depth-4.md`
 - `[ ]` `Day66-80/76.深入浅出pandas-5.md` -> `Day66-80/76.pandas-in-depth-5.md`
 - `[ ]` `Day66-80/77.深入浅出pandas-6.md` -> `Day66-80/77.pandas-in-depth-6.md`
 - `[ ]` `Day66-80/78.数据可视化-1.md` -> `Day66-80/78.data-visualization-1.md`
@@ -356,6 +356,9 @@ Status legend:
 - `Day66-80/74.pandas-in-depth-3.md`
   Status: complete
   Completed: pass 3 literal review completed, with the reshaping and data-cleaning sections rewritten into simpler and more literal English while keeping the original pandas workflow and examples
+- `Day66-80/75.pandas-in-depth-4.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the pivoting and descriptive-statistics sections rewritten into simpler and more literal English while keeping the original examples and analysis flow
 - `Day01-20/19.object-oriented-programming-advanced.md`
   Status: complete
   Completed: pass 3 literal review completed, with the visibility, dynamic-attribute, and inheritance sections rewritten into simpler English while restoring the original examples and key notes from the Chinese source
