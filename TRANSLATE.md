@@ -125,7 +125,7 @@ Status legend:
 ## Day81-100
 
 - `[x]` `Day81-90/81.浅谈机器学习.md` -> `Day81-90/81.machine-learning-overview.md`
-- `[ ]` `Day81-90/82.k最近邻算法.md` -> `Day81-90/82.k-nearest-neighbors.md`
+- `[x]` `Day81-90/82.k最近邻算法.md` -> `Day81-90/82.k-nearest-neighbors.md`
 - `[ ]` `Day81-90/83.决策树和随机森林.md` -> `Day81-90/83.decision-trees-and-random-forest.md`
 - `[ ]` `Day81-90/84.朴素贝叶斯算法.md` -> `Day81-90/84.naive-bayes.md`
 - `[ ]` `Day81-90/85.回归模型.md` -> `Day81-90/85.regression-models.md`
@@ -413,3 +413,6 @@ Status legend:
 - `Day81-90/81.machine-learning-overview.md`
   Status: complete
   Completed: pass 3 literal review completed, with the AI history, machine-learning overview, application examples, workflow steps, and first model examples rewritten into simpler English while restoring source-specific notes and citations
+- `Day81-90/82.k-nearest-neighbors.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the kNN overview, iris-dataset walkthrough, evaluation metrics, hyperparameter tuning, and regression section rewritten into simpler English while restoring missing content from the Chinese source
