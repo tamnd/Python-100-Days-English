@@ -128,7 +128,7 @@ Status legend:
 - `[x]` `Day81-90/82.k最近邻算法.md` -> `Day81-90/82.k-nearest-neighbors.md`
 - `[x]` `Day81-90/83.决策树和随机森林.md` -> `Day81-90/83.decision-trees-and-random-forest.md`
 - `[x]` `Day81-90/84.朴素贝叶斯算法.md` -> `Day81-90/84.naive-bayes.md`
-- `[ ]` `Day81-90/85.回归模型.md` -> `Day81-90/85.regression-models.md`
+- `[x]` `Day81-90/85.回归模型.md` -> `Day81-90/85.regression-models.md`
 - `[ ]` `Day81-90/86.K-Means聚类算法.md` -> `Day81-90/86.k-means-clustering.md`
 - `[ ]` `Day81-90/87.集成学习算法.md` -> `Day81-90/87.ensemble-learning.md`
 - `[ ]` `Day81-90/88.神经网络模型.md` -> `Day81-90/88.neural-network-models.md`
@@ -422,3 +422,6 @@ Status legend:
 - `Day81-90/84.naive-bayes.md`
   Status: complete
   Completed: pass 3 literal review completed, with the Bayes-story setup, theorem explanation, and naive-Bayes walkthrough rewritten into simpler English while restoring source details that had been smoothed over in the English version
+- `Day81-90/85.regression-models.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the regression examples, Auto MPG dataset introduction, correlation notes, and preprocessing explanation rewritten into simpler English while restoring several concrete details from the Chinese source
