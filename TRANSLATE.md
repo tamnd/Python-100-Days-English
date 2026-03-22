@@ -119,7 +119,7 @@ Status legend:
 - `[x]` `Day66-80/76.深入浅出pandas-5.md` -> `Day66-80/76.pandas-in-depth-5.md`
 - `[x]` `Day66-80/77.深入浅出pandas-6.md` -> `Day66-80/77.pandas-in-depth-6.md`
 - `[x]` `Day66-80/78.数据可视化-1.md` -> `Day66-80/78.data-visualization-1.md`
-- `[ ]` `Day66-80/79.数据可视化-2.md` -> `Day66-80/79.data-visualization-2.md`
+- `[x]` `Day66-80/79.数据可视化-2.md` -> `Day66-80/79.data-visualization-2.md`
 - `[ ]` `Day66-80/80.数据可视化-3.md` -> `Day66-80/80.data-visualization-3.md`
 
 ## Day81-100
@@ -368,6 +368,9 @@ Status legend:
 - `Day66-80/78.data-visualization-1.md`
   Status: complete
   Completed: pass 3 literal review completed, with the matplotlib setup and basic-chart sections rewritten into simpler and more literal English while keeping the original plotting examples and notes
+- `Day66-80/79.data-visualization-2.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the advanced matplotlib chart sections rewritten into simpler and more literal English while keeping the original chart examples and guidance
 - `Day01-20/19.object-oriented-programming-advanced.md`
   Status: complete
   Completed: pass 3 literal review completed, with the visibility, dynamic-attribute, and inheritance sections rewritten into simpler English while restoring the original examples and key notes from the Chinese source
