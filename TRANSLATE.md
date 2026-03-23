@@ -138,7 +138,7 @@ Status legend:
 - `[x]` `Day91-100/92.Docker容器技术详解.md` -> `Day91-100/92.docker-in-depth.md`
 - `[x]` `Day91-100/93.MySQL性能优化.md` -> `Day91-100/93.mysql-performance-optimization.md`
 - `[x]` `Day91-100/94.网络API接口设计.md` -> `Day91-100/94.network-api-design.md`
-- `[ ]` `Day91-100/95.使用Django开发商业项目.md` -> `Day91-100/95.django-for-commercial-projects.md`
+- `[x]` `Day91-100/95.使用Django开发商业项目.md` -> `Day91-100/95.django-for-commercial-projects.md`
 - `[ ]` `Day91-100/96.软件测试和自动化测试.md` -> `Day91-100/96.software-testing-and-automation.md`
 - `[ ]` `Day91-100/97.电商网站技术要点剖析.md` -> `Day91-100/97.ecommerce-site-architecture.md`
 - `[ ]` `Day91-100/98.项目部署上线和性能调优.md` -> `Day91-100/98.deployment-and-performance-tuning.md`
@@ -452,3 +452,6 @@ Status legend:
 - `Day91-100/94.network-api-design.md`
   Status: complete
   Completed: pass 3 literal review completed, with the API-introduction and URL-design notes rewritten into simpler English while restoring source-specific explanation from the Chinese lesson
+- `Day91-100/95.django-for-commercial-projects.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the commercial-Django project overview rewritten into simpler English while restoring source-specific framing around architecture and decoupling
