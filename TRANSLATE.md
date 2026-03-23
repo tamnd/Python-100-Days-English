@@ -137,7 +137,7 @@ Status legend:
 - `[x]` `Day91-100/91.团队项目开发的问题和解决方案.md` -> `Day91-100/91.team-project-problems-and-solutions.md`
 - `[x]` `Day91-100/92.Docker容器技术详解.md` -> `Day91-100/92.docker-in-depth.md`
 - `[x]` `Day91-100/93.MySQL性能优化.md` -> `Day91-100/93.mysql-performance-optimization.md`
-- `[ ]` `Day91-100/94.网络API接口设计.md` -> `Day91-100/94.network-api-design.md`
+- `[x]` `Day91-100/94.网络API接口设计.md` -> `Day91-100/94.network-api-design.md`
 - `[ ]` `Day91-100/95.使用Django开发商业项目.md` -> `Day91-100/95.django-for-commercial-projects.md`
 - `[ ]` `Day91-100/96.软件测试和自动化测试.md` -> `Day91-100/96.software-testing-and-automation.md`
 - `[ ]` `Day91-100/97.电商网站技术要点剖析.md` -> `Day91-100/97.ecommerce-site-architecture.md`
@@ -449,3 +449,6 @@ Status legend:
 - `Day91-100/93.mysql-performance-optimization.md`
   Status: complete
   Completed: pass 3 literal review completed, with the MySQL performance principles and schema-design notes rewritten into simpler English while restoring source-specific framing from the Chinese lesson
+- `Day91-100/94.network-api-design.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the API-introduction and URL-design notes rewritten into simpler English while restoring source-specific explanation from the Chinese lesson
