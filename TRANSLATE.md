@@ -131,7 +131,7 @@ Status legend:
 - `[x]` `Day81-90/85.回归模型.md` -> `Day81-90/85.regression-models.md`
 - `[x]` `Day81-90/86.K-Means聚类算法.md` -> `Day81-90/86.k-means-clustering.md`
 - `[x]` `Day81-90/87.集成学习算法.md` -> `Day81-90/87.ensemble-learning.md`
-- `[ ]` `Day81-90/88.神经网络模型.md` -> `Day81-90/88.neural-network-models.md`
+- `[x]` `Day81-90/88.神经网络模型.md` -> `Day81-90/88.neural-network-models.md`
 - `[ ]` `Day81-90/89.自然语言处理入门.md` -> `Day81-90/89.natural-language-processing-intro.md`
 - `[ ]` `Day81-90/90.机器学习实战.md` -> `Day81-90/90.machine-learning-in-practice.md`
 - `[ ]` `Day91-100/91.团队项目开发的问题和解决方案.md` -> `Day91-100/91.team-project-problems-and-solutions.md`
@@ -431,3 +431,6 @@ Status legend:
 - `Day81-90/87.ensemble-learning.md`
   Status: complete
   Completed: pass 3 literal review completed, with the ensemble-learning overview, Boosting explanation, AdaBoost steps, and GBDT introduction rewritten into simpler English while restoring source-specific teaching detail from the Chinese lesson
+- `Day81-90/88.neural-network-models.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the neural-network overview, activation-function notes, and first scikit-learn example rewritten into simpler English while restoring more of the original framing and explanation from the Chinese source
