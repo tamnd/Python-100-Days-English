@@ -143,7 +143,7 @@ Status legend:
 - `[x]` `Day91-100/97.电商网站技术要点剖析.md` -> `Day91-100/97.ecommerce-site-architecture.md`
 - `[x]` `Day91-100/98.项目部署上线和性能调优.md` -> `Day91-100/98.deployment-and-performance-tuning.md`
 - `[x]` `Day91-100/99.面试中的公共问题.md` -> `Day91-100/99.common-interview-questions.md`
-- `[ ]` `Day91-100/100.补充内容.md` -> `Day91-100/100.supplementary-content.md`
+- `[x]` `Day91-100/100.补充内容.md` -> `Day91-100/100.supplementary-content.md`
 
 ## Supplemental Material
 
@@ -467,3 +467,6 @@ Status legend:
 - `Day91-100/99.common-interview-questions.md`
   Status: complete
   Completed: pass 3 literal review completed, with the interview topic lists and standard-library and third-party-library examples rewritten into simpler English while staying closer to the Chinese source
+- `Day91-100/100.supplementary-content.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the short resource pointers rewritten into simpler English while keeping the original wording and list structure
