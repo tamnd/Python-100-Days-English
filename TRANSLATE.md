@@ -134,7 +134,7 @@ Status legend:
 - `[x]` `Day81-90/88.神经网络模型.md` -> `Day81-90/88.neural-network-models.md`
 - `[x]` `Day81-90/89.自然语言处理入门.md` -> `Day81-90/89.natural-language-processing-intro.md`
 - `[x]` `Day81-90/90.机器学习实战.md` -> `Day81-90/90.machine-learning-in-practice.md`
-- `[ ]` `Day91-100/91.团队项目开发的问题和解决方案.md` -> `Day91-100/91.team-project-problems-and-solutions.md`
+- `[x]` `Day91-100/91.团队项目开发的问题和解决方案.md` -> `Day91-100/91.team-project-problems-and-solutions.md`
 - `[ ]` `Day91-100/92.Docker容器技术详解.md` -> `Day91-100/92.docker-in-depth.md`
 - `[ ]` `Day91-100/93.MySQL性能优化.md` -> `Day91-100/93.mysql-performance-optimization.md`
 - `[ ]` `Day91-100/94.网络API接口设计.md` -> `Day91-100/94.network-api-design.md`
@@ -440,3 +440,6 @@ Status legend:
 - `Day81-90/90.machine-learning-in-practice.md`
   Status: complete
   Completed: pass 3 literal review completed, with the Kaggle project framing, Titanic dataset exploration, and feature-engineering overview rewritten into simpler English while restoring more of the source setup and guidance
+- `Day91-100/91.team-project-problems-and-solutions.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the team-development problem list, version-control explanation, and Git setup section rewritten into simpler English while restoring source-specific notes and examples from the Chinese lesson
