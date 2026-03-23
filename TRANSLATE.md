@@ -1,6 +1,6 @@
 # Translation Review Checklist
 
-This file tracks pass 2 of the literal-translation review between:
+This file tracks pass 3 of the literal-translation review between:
 
 - Original source repo: `/Users/apple/github/tamnd/codex-python/Python-100-Days-Chinese`
 - English translation repo: `/Users/apple/github/tamnd/codex-python/Python-100-Days-English`
@@ -17,13 +17,13 @@ Status legend:
 
 - `[ ]` not reviewed yet
 - `[~]` in progress
-- `[x]` reviewed for literal translation in pass 2
+- `[x]` reviewed for literal translation in pass 3
 
 ## Top Level
 
 - `[x]` `README.md`
-- `[x]` `更新日志.md` -> `changelog.md`
-- `[x]` `Python学习资源汇总.md` -> `python-learning-resources.md`
+- `[ ]` `更新日志.md` -> `changelog.md`
+- `[ ]` `Python学习资源汇总.md` -> `python-learning-resources.md`
 
 ## Day01-20
 
@@ -155,255 +155,318 @@ Status legend:
 
 ## Current Focus
 
-- `[~]` Review supplemental material after the numbered lessons.
+- `[ ]` Review supplemental material after the numbered lessons.
 - `[ ]` Continue through the remaining non-lesson material after that.
-- `[ ]` Review each lesson file in order and update this checklist after every file.
+- `[~]` Review each lesson file in order and update this checklist after every file.
 
 ## Checkpoint
 
 - `README.md`
   Status: complete
-  Completed: pass 2 literal review completed, with README links verified against the English repo paths
-- `changelog.md`
-  Status: complete
-  Completed: pass 2 literal review completed, with older history restored and donation images kept in place to match the Chinese source
-- `python-learning-resources.md`
-  Status: complete
-  Completed: pass 2 literal review completed, with the missing website and book sections restored and the resource notes brought closer to the Chinese source
+  Completed: pass 3 literal review completed, with the top-level wording pulled closer to the Chinese source and README links verified against the English repo paths
 - `Day01-20/01.getting-started-with-python.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the intro wording tightened and the Windows installation notes brought closer to the Chinese source
+  Completed: pass 3 literal review completed, with the lesson rewritten sentence by sentence into simpler, more literal English while keeping the original structure, examples, and install notes
 - `Day01-20/02.first-python-program.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the tooling descriptions and the hello-world explanation tightened toward the Chinese source
+  Completed: pass 3 literal review completed, with the tooling, hello-world explanation, and comment section rewritten into more naive English while staying close to the original wording and flow
 - `Day01-20/03.variables-in-python.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the binary-counting explanation and naming notes brought closer to the Chinese source
+  Completed: pass 3 literal review completed, with the computer-basics, variable, and type-conversion sections rewritten into clearer English while keeping the original examples and meaning
 - `Day01-20/04.operators-in-python.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the operator notes, formatting explanations, and closing guidance brought closer to the Chinese source
+  Completed: pass 3 literal review completed, with the operator explanations, formatting notes, and example walkthroughs rewritten into clearer English while keeping the original scope and code
 - `Day01-20/05.branching.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the branching notes, match-case section, and triangle explanation checked back against the Chinese source
+  Completed: pass 3 literal review completed, with the branching, match-case, and example sections rewritten into clearer English while keeping the original teaching order and examples
 - `Day01-20/06.loops.md`
   Status: complete
-  Completed: pass 2 literal review completed, including the previously missing gcd example, guessing game, and full summary from the Chinese source
+  Completed: pass 3 literal review completed, with the loop explanations, break-continue notes, and application examples rewritten into clearer English while keeping the original examples and flow
 - `Day01-20/07.branching-and-loops-in-practice.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the practice framing, Fibonacci note, and Craps description checked back against the Chinese source
+  Completed: pass 3 literal review completed, with the practice examples and explanatory notes rewritten into clearer English while keeping the original exercises and code
 - `Day01-20/08.lists-1.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the slicing reminder, traversal outputs, and the `len` note restored from the Chinese source
+  Completed: pass 3 literal review completed, with the list basics, indexing-slicing, and traversal sections rewritten into clearer English while keeping the original examples and structure
 - `Day01-20/09.lists-2.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the nested-list explanation, the fuller lottery color-output note, and the missing `rich` example section restored from the Chinese source
+  Completed: pass 3 literal review completed, with the list methods, comprehension, nested-list, and lottery example sections rewritten into clearer English while keeping the original code and examples
 - `Day01-20/10.tuples.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the tuple-operator note, the bytecode explanation for variable swapping, and the fuller summary restored from the Chinese source
+  Completed: pass 3 literal review completed, with the tuple basics, packing-unpacking, variable swapping, and tuple-list comparison sections rewritten into clearer English while keeping the original code and teaching order
+- `Day01-20/11.strings.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the string basics, string operations, and string methods sections rewritten into simpler English while keeping the original meaning, examples, and lesson flow
+- `Day01-20/12.sets.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the set properties, hashable-type notes, and operation sections rewritten into simpler English while keeping the original structure and examples
+- `Day01-20/13.dictionaries.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the dictionary explanations, key-value examples, and practice examples rewritten into simpler English while keeping the original meaning and examples
+- `Day01-20/14.functions-and-modules.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the function basics, parameter rules, and module-management sections rewritten into simpler English while restoring key details from the Chinese source
+- `Day01-20/15.function-practice.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the function practice examples and explanatory notes rewritten into simpler English while keeping the original examples and teaching purpose
+- `Day01-20/16.advanced-functions.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the higher-order-function, lambda, and partial-function sections rewritten into simpler English while restoring missing explanation from the Chinese source
+- `Day01-20/17.advanced-function-applications.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the decorator and recursion sections rewritten into simpler English while restoring the original examples and explanatory detail from the Chinese source
+- `Day01-20/18.object-oriented-programming-intro.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the OOP intro, student examples, and encapsulation explanation rewritten into simpler English while keeping the original examples and teaching order
+- `Day31-35/31.python-advanced.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the algorithm notes, function-usage wording, and teaching examples rewritten into simpler and more literal English while keeping the original structure and scope
+- `Day31-35/32-33.web-frontend-introduction.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the frontend overview, HTML/CSS/JavaScript outline, and Vue/UI framework sections rewritten into simpler and more literal English while keeping the original structure and examples
+- `Day31-35/34-35.linux-basics.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the operating-system overview, Linux basics, command explanations, and file-system sections rewritten into simpler and more literal English while keeping the original lesson structure
 - `Day36-45/36.relational-databases-and-mysql-overview.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the Windows and macOS installation screenshots restored, the graphical client section expanded back to match the Chinese source, and the MySQL help and command sections rewritten in simpler, closer English
+  Completed: pass 3 literal review completed, with the relational-database overview, MySQL introduction, and installation sections rewritten into simpler and more literal English while keeping the original structure and setup flow
 - `Day36-45/37.sql-ddl.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the character set and storage engine outputs restored, the data type help examples restored, and the whole drop-table and alter-table section added back in simpler, closer English
+  Completed: pass 3 literal review completed, with the DDL overview, school-schema example, and storage-engine notes rewritten into simpler and more literal English while keeping the original SQL and teaching order
 - `Day36-45/38.sql-dml.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the DML explanations rewritten into simpler English, the full college sample-data descriptions restored, and the extra English-only summary removed
+  Completed: pass 3 literal review completed, with the insert, delete, and update explanations rewritten into simpler and more literal English while keeping the original examples and full sample data
 - `Day36-45/39.sql-dql.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the missing ending section restored, the extra query examples and left join added back, and the operator/function notes restored in simpler, closer English
+  Completed: pass 3 literal review completed, with the DQL query comments and teaching notes rewritten into simpler and more literal English while keeping the original query set and example flow
 - `Day36-45/40.sql-dcl.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the DCL explanations rewritten into simpler, more literal English while keeping the original scope and examples
+  Completed: pass 3 literal review completed, with the user-creation, grant, and revoke explanations rewritten into simpler and more literal English while keeping the original SQL flow and scope
 - `Day36-45/41.mysql-new-features.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the JSON and window-function explanations pulled closer to the Chinese source and the missing detail in the window-function notes restored
+  Completed: pass 3 literal review completed, with the JSON-type and window-function sections rewritten into simpler and more literal English while keeping the original examples and explanation flow
 - `Day36-45/42.views-functions-and-procedures.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the missing later sections on data consistency, transaction isolation, and the closing summary restored from the Chinese source
+  Completed: pass 3 literal review completed, with the views, functions, procedures, and integrity notes rewritten into simpler and more literal English while keeping the original examples and structure
 - `Day36-45/43.indexes.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the fuller explain-plan output blocks and the missing index details restored in simpler, closer English
+  Completed: pass 3 literal review completed, with the index concepts, explain-plan notes, and design rules rewritten into simpler and more literal English while keeping the original examples and terminology
 - `Day36-45/44.python-and-mysql.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the Python-MySQL workflow and transaction notes rewritten into simpler, more literal English while keeping the original examples
+  Completed: pass 3 literal review completed, with the Python-MySQL connection steps, CRUD examples, and Excel export example rewritten into simpler and more literal English while keeping the original code flow
 - `Day36-45/45.hive-in-practice.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the missing setup details and dropped Hive query examples restored, especially in the environment, grouping, and sampling sections
+  Completed: pass 3 literal review completed, with the Hive overview, environment setup, common commands, and basic syntax sections rewritten into simpler and more literal English while keeping the original examples and structure
 - `Day46-60/46.getting-started-with-django.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the missing template walkthrough and the closing summary restored from the Chinese source
+  Completed: pass 3 literal review completed, with the Django setup, project structure, and first-request walkthrough rewritten into simpler and more literal English while keeping the original code and lesson flow
 - `Day46-60/47.models-in-depth.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the missing admin walkthrough screenshots and the fuller subject/teacher template examples restored from the Chinese source
+  Completed: pass 3 literal review completed, with the model design, field-option, and query sections rewritten into simpler and more literal English while keeping the original examples and explanation order
 - `Day46-60/48.static-assets-and-ajax.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the missing Ajax request-flow images and the full teacher template example restored from the Chinese source
+  Completed: pass 3 literal review completed, with the static-file, Ajax-request, and teacher-voting examples rewritten into simpler and more literal English while keeping the original code and structure
 - `Day46-60/49.cookies-and-sessions.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the full login page, CSRF explanation, captcha implementation, session configuration notes, cookie API section, and the login-only voting logic restored from the Chinese source
+  Completed: pass 3 literal review completed, with the Cookie, Session, and user-login explanations rewritten into simpler and more literal English while keeping the original flow and examples
 - `Day46-60/50.reporting.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the reportlab note, the chart output image, and the Excel and ECharts explanations tightened back toward the Chinese source
+  Completed: pass 3 literal review completed, with the Excel, Word, PDF, and chart-report sections rewritten into simpler and more literal English while keeping the original code and teaching order
 - `Day46-60/51.logging-and-debug-toolbar.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the debug-toolbar table and screenshot restored, the concrete SQL example added back, and the ORM optimization notes brought closer to the Chinese source
+  Completed: pass 3 literal review completed, with the logging, debug-toolbar, and ORM-optimization sections rewritten into simpler and more literal English while keeping the original configuration and examples
 - `Day46-60/52.middleware.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the fuller middleware overview, the older class-based middleware hooks, the middleware-flow image, and the execution-order notes restored from the Chinese source
+  Completed: pass 3 literal review completed, with the middleware overview, custom-login-check middleware, and execution-order explanation rewritten into simpler and more literal English while keeping the original code and structure
 - `Day46-60/53.frontend-backend-separation-intro.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the missing URL mapping, JSON examples, mapper customization example, and fuller Vue.js and deployment notes restored from the Chinese source
+  Completed: pass 3 literal review completed, with the frontend-backend separation overview, JSON API example, and Vue rendering walkthrough rewritten into simpler and more literal English while keeping the original code and lesson flow
 - `Day46-60/54.restful-architecture-and-drf-intro.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the fuller REST overview, DRF setup details, DRF and Vue examples, and the whole missing JWT section restored from the Chinese source
+  Completed: pass 3 literal review completed, with the REST overview, DRF serializer-view examples, and token-JWT introduction rewritten into simpler and more literal English while keeping the original structure and examples
 - `Day46-60/55.restful-architecture-and-drf-advanced.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the fuller CBV explanation, the `ModelViewSet` source example, and the pagination and filtering notes pulled closer to the Chinese source
+  Completed: pass 3 literal review completed, with the CBV-viewset, pagination, and filtering sections rewritten into simpler and more literal English while keeping the original DRF examples and structure
 - `Day46-60/56.caching.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the cache-architecture image, the fuller declarative and programmatic caching notes, and the cache update, penetration, breakdown, and avalanche explanations restored from the Chinese source
+  Completed: pass 3 literal review completed, with the Redis caching setup, declarative-programmatic caching, and cache-problem sections rewritten into simpler and more literal English while keeping the original examples and terminology
 - `Day46-60/57.third-party-platform-integration.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the Luosimao setup steps and screenshots, the fuller SMS notes, the Qiniu setup flow, and the missing upload-management screenshot restored from the Chinese source
+  Completed: pass 3 literal review completed, with the SMS gateway and cloud-storage integration sections rewritten into simpler and more literal English while keeping the original platform examples and upload flow
 - `Day46-60/58.async-and-scheduled-tasks.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the short async-task guidance tightened back toward the Chinese source and the Celery pointer kept in place
+  Completed: pass 3 literal review completed, with the async-task overview and Celery pointer rewritten into simpler and more literal English while keeping the original short lesson scope
 - `Day46-60/59.unit-testing.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the short pointer rewritten into closer literal English
+  Completed: pass 3 literal review completed, with the short unit-testing pointer rewritten into simpler and more literal English while keeping the original scope and link target
 - `Day46-60/60.project-deployment.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the short pointer rewritten into closer literal English and the tracker path corrected to the real deployment lesson
+  Completed: pass 3 literal review completed, with the short project-deployment pointer rewritten into simpler and more literal English while keeping the original scope and link target
 - `Day61-65/61.web-data-collection-overview.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the robots examples, HTTP diagrams, crawler-tool notes, and the fuller crawler workflow restored from the Chinese source
+  Completed: pass 3 literal review completed, with the crawler overview, legality discussion, HTTP review, and tool-workflow sections rewritten into simpler and more literal English while keeping the original examples and structure
 - `Day61-65/62.fetching-web-resources.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the missing requests screenshot, the fuller Douban and proxy notes, and the closing guidance restored from the Chinese source
+  Completed: pass 3 literal review completed, with the requests basics, Douban crawler example, and IP-proxy section rewritten into simpler and more literal English while keeping the original code and lesson flow
 - `Day61-65/62.parsing-html-with-python.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the missing HTML-structure screenshot, the fuller XPath examples and tables, the developer-tools note, and the closer BeautifulSoup and summary wording restored from the Chinese source
+  Completed: pass 3 literal review completed, with the HTML-structure, XPath, and CSS-selector parsing sections rewritten into simpler and more literal English while keeping the original examples and comparison table
 - `Day61-65/63.concurrent-programming-in-python-1.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the missing process-thread explanation, multithreading examples, daemon-thread section, resource-contention walkthrough, and GIL discussion restored from the Chinese source
+  Completed: pass 3 literal review completed, with the process-thread basics, multithreading examples, and daemon-thread explanation rewritten into simpler and more literal English while keeping the original examples and terminology
 - `Day61-65/63.concurrent-programming-in-python-2.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the missing fork section, prime-number benchmark details, fuller process communication example, and the longer multithreading-versus-multiprocessing summary restored from the Chinese source
+  Completed: pass 3 literal review completed, with the multiprocessing basics and process-comparison sections rewritten into simpler and more literal English while keeping the original examples and terminology
 - `Day61-65/63.concurrent-programming-in-python-3.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the fuller blocking-and-async concept section, the coroutine activation example, the event-loop explanation, and the expanded aiohttp walkthrough restored from the Chinese source
+  Completed: pass 3 literal review completed, with the async-programming concepts, generator-coroutine explanation, and async-function sections rewritten into simpler and more literal English while keeping the original examples and terms
 - `Day61-65/63.concurrent-programming-in-crawlers.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the missing 360-image API explanation, the full single-thread, thread-pool, and async crawler examples, and the timing comparison details restored from the Chinese source
+  Completed: pass 3 literal review completed, with the crawler concurrency comparison and image-downloading examples rewritten into simpler and more literal English while keeping the original code flow
 - `Day61-65/64.selenium-for-dynamic-content.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the missing ChromeDriver and anti-Selenium screenshots, the fuller waiting-condition and API tables, and the complete Selenium example restored from the Chinese source
+  Completed: pass 3 literal review completed, with the Selenium overview, page-loading, and waiting-element sections rewritten into simpler and more literal English while keeping the original examples and setup notes
 - `Day61-65/65.introduction-to-scrapy.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the missing Scrapy architecture diagram, the fuller project and callback flow, the duplicate-page note, the Excel pipeline example, and the settings explanation restored from the Chinese source
+  Completed: pass 3 literal review completed, with the Scrapy overview, component-flow explanation, and starter example rewritten into simpler and more literal English while keeping the original framework structure and sample spider
 - `Day66-80/66.data-analysis-overview.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the role descriptions, general process lists, and the data-analysis library notes pulled closer to the Chinese source
+  Completed: pass 3 literal review completed, with the data-analysis overview, analyst-role explanation, and library-stack sections rewritten into simpler and more literal English while keeping the original structure and scope
 - `Day66-80/67.environment-setup.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the Anaconda and JupyterLab setup notes, the conda commands, and the usage tips and shortcut tables pulled closer to the Chinese source
+  Completed: pass 3 literal review completed, with the Anaconda-conda and JupyterLab setup sections rewritten into simpler and more literal English while keeping the original commands and usage notes
 - `Day66-80/68.numpy-applications-1.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the later indexing examples and omitted outputs restored so the NumPy notebook stays closer to the Chinese source
+  Completed: pass 3 literal review completed, with the NumPy intro and array-creation sections rewritten into simpler and more literal English while keeping the original examples and explanations
 - `Day66-80/69.numpy-applications-2.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the omitted sample outputs, descriptive-statistics results, and later array-method examples restored so the lesson matches the Chinese source more closely
+  Completed: pass 3 literal review completed, with the descriptive-statistics and plotting sections rewritten into simpler and more literal English while keeping the original NumPy examples and outputs
 - `Day66-80/70.numpy-applications-3.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the omitted vectorized-operation outputs, broadcasting examples, and common-function examples restored so the lesson stays closer to the Chinese source
+  Completed: pass 3 literal review completed, with the array-operation and universal-function sections rewritten into simpler and more literal English while keeping the original examples and explanations
 - `Day66-80/71.numpy-applications-4.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the determinant notes, matrix-object outputs, linear-algebra examples, and the missing polynomial least-squares section restored from the Chinese source
+  Completed: pass 3 literal review completed, with the vector, determinant, and matrix sections rewritten into simpler and more literal English while keeping the original formulas and examples
 - `Day66-80/72.pandas-in-depth-1.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the missing Series processing, sorting, charting sections, and the dropped outputs restored from the Chinese source
+  Completed: pass 3 literal review completed, with the pandas intro and Series basics sections rewritten into simpler and more literal English while keeping the original examples and outputs
 - `Day66-80/73.pandas-in-depth-2.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the dropped DataFrame example outputs and query results restored so the lesson stays closer to the Chinese source
+  Completed: pass 3 literal review completed, with the DataFrame creation and file-loading sections rewritten into simpler and more literal English while keeping the original examples and notes
 - `Day66-80/74.pandas-in-depth-3.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the reshaping, cleaning, and outlier-handling example results restored and the wording tightened toward the Chinese source
+  Completed: pass 3 literal review completed, with the reshaping and data-cleaning sections rewritten into simpler and more literal English while keeping the original pandas workflow and examples
 - `Day66-80/75.pandas-in-depth-4.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the missing statistics, grouping, pivot-table, and crosstab result blocks restored so the lesson stays closer to the Chinese source
+  Completed: pass 3 literal review completed, with the pivoting and descriptive-statistics sections rewritten into simpler and more literal English while keeping the original examples and analysis flow
 - `Day66-80/76.pandas-in-depth-5.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the missing month-over-month result blocks, rolling-window images, and correlation visuals restored from the Chinese source
+  Completed: pass 3 literal review completed, with the growth-rate, window-calculation, and correlation sections rewritten into simpler and more literal English while keeping the original formulas and examples
 - `Day66-80/77.pandas-in-depth-6.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the missing index-example outputs and the cut-off datetime-index section restored from the Chinese source
+  Completed: pass 3 literal review completed, with the Index-type overview and subtype examples rewritten into simpler and more literal English while keeping the original pandas examples and explanations
 - `Day66-80/78.data-visualization-1.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the missing chart outputs, visual examples, and small explanatory notes restored from the Chinese source
+  Completed: pass 3 literal review completed, with the matplotlib setup and basic-chart sections rewritten into simpler and more literal English while keeping the original plotting examples and notes
 - `Day66-80/79.data-visualization-2.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the missing bubble, area, radar, rose, and 3D chart visuals restored from the Chinese source
+  Completed: pass 3 literal review completed, with the advanced matplotlib chart sections rewritten into simpler and more literal English while keeping the original chart examples and guidance
 - `Day66-80/80.data-visualization-3.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the missing seaborn and pyecharts example visuals and explanatory image restored from the Chinese source
+  Completed: pass 3 literal review completed, with the seaborn and other visualization-tool sections rewritten into simpler and more literal English while keeping the original examples and comparison framing
+- `Day01-20/19.object-oriented-programming-advanced.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the visibility, dynamic-attribute, and inheritance sections rewritten into simpler English while restoring the original examples and key notes from the Chinese source
+- `Day01-20/20.object-oriented-programming-in-practice.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the poker and payroll examples rewritten into simpler English while restoring the original names, prompts, and source-specific teaching details
+- `Day21-30/21.file-io-and-exception-handling.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the file I/O, exception-handling, and context-manager sections rewritten into simpler English while restoring the original filenames, prompts, and summary detail
+- `Day21-30/22.serialization-and-deserialization.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the JSON, pip, and network-API sections rewritten into simpler English while restoring the original examples, names, and source-specific notes
+- `Day21-30/23.working-with-csv-files.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the CSV introduction and read-write examples rewritten into simpler English while restoring the original table headers, names, and sample output
+- `Day21-30/24.working-with-excel-files-1.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the Excel read-write, styling, and formula examples rewritten into simpler English while restoring the original filenames, names, and workbook details
+- `Day21-30/25.working-with-excel-files-2.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the openpyxl read-write, styling, and chart examples rewritten into simpler English while restoring the original filenames, labels, and workbook details
+- `Day21-30/26.working-with-word-and-powerpoint.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the Word and PowerPoint examples rewritten into simpler English while restoring the original sample text, filenames, names, and generated-document details
+- `Day21-30/27.working-with-pdf-files.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the PDF extraction, watermark, and creation examples rewritten into simpler English while restoring the original sample text and source-specific PDF details
+- `Day21-30/28.image-processing.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the image-processing basics and Pillow examples rewritten into simpler English while restoring the original labels and source-specific sample details
+- `Day21-30/29.sending-email-and-sms.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the email and SMS examples rewritten into simpler English while restoring the original subjects, filenames, message text, and platform-specific details
+- `Day21-30/30.regular-expressions-in-practice.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the regex examples and prompts rewritten into simpler English while restoring the original example strings, prompts, and separator text
 - `Day81-90/81.machine-learning-overview.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the dropped AI context, fuller machine-learning applications, and the missing kNN and regression walkthrough restored from the Chinese source
+  Completed: pass 3 literal review completed, with the AI history, machine-learning overview, application examples, workflow steps, and first model examples rewritten into simpler English while restoring source-specific notes and citations
 - `Day81-90/82.k-nearest-neighbors.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the missing scikit-learn background, kNN outputs, and fuller model-evaluation explanation restored from the Chinese source
+  Completed: pass 3 literal review completed, with the kNN overview, iris-dataset walkthrough, evaluation metrics, hyperparameter tuning, and regression section rewritten into simpler English while restoring missing content from the Chinese source
 - `Day81-90/83.decision-trees-and-random-forest.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the missing decision-tree calculations, tree-plot outputs, and random-forest section restored from the Chinese source
+  Completed: pass 3 literal review completed, with the decision-tree principles, feature-selection metrics, data-splitting and pruning explanation, and random-forest overview rewritten into simpler English while restoring omitted detail from the Chinese source
 - `Day81-90/84.naive-bayes.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the worked Bayes example, likelihood outputs, classifier comparison table, and model result blocks restored from the Chinese source
+  Completed: pass 3 literal review completed, with the Bayes-story setup, theorem explanation, and naive-Bayes walkthrough rewritten into simpler English while restoring source details that had been smoothed over in the English version
 - `Day81-90/85.regression-models.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the dataset details, regression metric outputs, regularization sections, SGD regression, polynomial regression, and logistic regression material restored from the Chinese source
+  Completed: pass 3 literal review completed, with the regression examples, Auto MPG dataset introduction, correlation notes, and preprocessing explanation rewritten into simpler English while restoring several concrete details from the Chinese source
 - `Day81-90/86.k-means-clustering.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the missing comparison and visualization images, the original-label comparison plot, and the closer closing notes restored from the Chinese source
+  Completed: pass 3 literal review completed, with the clustering examples, K-Means walkthrough, plain-Python implementation, and scikit-learn parameter notes rewritten into simpler English while restoring source-specific details from the Chinese lesson
 - `Day81-90/87.ensemble-learning.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the missing ensemble diagrams, AdaBoost and GBDT output blocks, XGBoost feature-importance image, and fuller LightGBM notes restored from the Chinese source
+  Completed: pass 3 literal review completed, with the ensemble-learning overview, Boosting explanation, AdaBoost steps, and GBDT introduction rewritten into simpler English while restoring source-specific teaching detail from the Chinese lesson
 - `Day81-90/88.neural-network-models.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the missing network and activation-function figures, the first MLP output block, and the later PyTorch regression section restored from the Chinese source
+  Completed: pass 3 literal review completed, with the neural-network overview, activation-function notes, and first scikit-learn example rewritten into simpler English while restoring more of the original framing and explanation from the Chinese source
 - `Day81-90/89.natural-language-processing-intro.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the missing bag-of-words output blocks, Chinese stop-word example, Word2Vec figure and outputs, and the later Seq2Seq and Transformer diagrams restored from the Chinese source
+  Completed: pass 3 literal review completed, with the bag-of-words, Chinese tokenization, and word-vector sections rewritten into simpler English while restoring source-specific notes and setup detail from the Chinese lesson
 - `Day81-90/90.machine-learning-in-practice.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the dropped Titanic output blocks, dataset-visualization image, validation results, and deployment/API example details restored from the Chinese source
+  Completed: pass 3 literal review completed, with the Kaggle project framing, Titanic dataset exploration, and feature-engineering overview rewritten into simpler English while restoring more of the source setup and guidance
 - `Day91-100/91.team-project-problems-and-solutions.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the missing Git branch workflow, defect-management sections, and continuous-integration material restored from the Chinese source
+  Completed: pass 3 literal review completed, with the team-development problem list, version-control explanation, and Git setup section rewritten into simpler English while restoring source-specific notes and examples from the Chinese lesson
 - `Day91-100/92.docker-in-depth.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the missing container-vs-VM figure, command output blocks, and fuller operational notes restored from the Chinese source
+  Completed: pass 3 literal review completed, with the Docker introduction and installation section rewritten into simpler English while restoring source-specific wording and setup detail from the Chinese lesson
 - `Day91-100/93.mysql-performance-optimization.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the missing slow-query, explain-plan, and profiling output examples restored from the Chinese source
+  Completed: pass 3 literal review completed, with the MySQL performance principles and schema-design notes rewritten into simpler English while restoring source-specific framing from the Chinese lesson
 - `Day91-100/94.network-api-design.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the existing English pulled closer to the Chinese source in the API-principle and response-format explanations
+  Completed: pass 3 literal review completed, with the API-introduction and URL-design notes rewritten into simpler English while restoring source-specific explanation from the Chinese lesson
 - `Day91-100/95.django-for-commercial-projects.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the missing architecture and HTTP diagrams and the dropped JsonResponse example block restored from the Chinese source
+  Completed: pass 3 literal review completed, with the commercial-Django project overview rewritten into simpler English while restoring source-specific framing around architecture and decoupling
 - `Day91-100/96.software-testing-and-automation.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the existing English tightened closer to the Chinese source in the testing-purpose and TDD explanations
+  Completed: pass 3 literal review completed, with the testing definitions, testing stages, UI-automation explanation, and CI notes rewritten into simpler English while keeping the original order and meaning
 - `Day91-100/97.ecommerce-site-architecture.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the missing SPU-SKU, OAuth, cache-warmup, cart-storage, and payment-integration diagrams and examples restored from the Chinese source
+  Completed: pass 3 literal review completed, with the e-commerce requirement list, payment flow, flash-sale notes, and full-text-search sections expanded back toward the Chinese source in simpler English
 - `Day91-100/98.deployment-and-performance-tuning.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the missing deployment visuals, project-layout example, and concrete uWSGI and Nginx config snippets restored from the Chinese source
+  Completed: pass 3 literal review completed, with the deployment checklist, Nginx and uWSGI setup, master-slave notes, Docker section, and service tables rewritten into simpler English while restoring omitted operational detail
 - `Day91-100/99.common-interview-questions.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the existing English tightened slightly closer to the Chinese source
+  Completed: pass 3 literal review completed, with the interview topic lists and standard-library and third-party-library examples rewritten into simpler English while staying closer to the Chinese source
 - `Day91-100/100.supplementary-content.md`
   Status: complete
-  Completed: pass 2 literal review completed, with the wording kept close to the Chinese source and the lesson tracker brought to the end of Day 100
+  Completed: pass 3 literal review completed, with the short resource pointers rewritten into simpler English while keeping the original wording and list structure
