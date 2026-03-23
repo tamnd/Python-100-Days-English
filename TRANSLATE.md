@@ -132,7 +132,7 @@ Status legend:
 - `[x]` `Day81-90/86.K-Means聚类算法.md` -> `Day81-90/86.k-means-clustering.md`
 - `[x]` `Day81-90/87.集成学习算法.md` -> `Day81-90/87.ensemble-learning.md`
 - `[x]` `Day81-90/88.神经网络模型.md` -> `Day81-90/88.neural-network-models.md`
-- `[ ]` `Day81-90/89.自然语言处理入门.md` -> `Day81-90/89.natural-language-processing-intro.md`
+- `[x]` `Day81-90/89.自然语言处理入门.md` -> `Day81-90/89.natural-language-processing-intro.md`
 - `[ ]` `Day81-90/90.机器学习实战.md` -> `Day81-90/90.machine-learning-in-practice.md`
 - `[ ]` `Day91-100/91.团队项目开发的问题和解决方案.md` -> `Day91-100/91.team-project-problems-and-solutions.md`
 - `[ ]` `Day91-100/92.Docker容器技术详解.md` -> `Day91-100/92.docker-in-depth.md`
@@ -434,3 +434,6 @@ Status legend:
 - `Day81-90/88.neural-network-models.md`
   Status: complete
   Completed: pass 3 literal review completed, with the neural-network overview, activation-function notes, and first scikit-learn example rewritten into simpler English while restoring more of the original framing and explanation from the Chinese source
+- `Day81-90/89.natural-language-processing-intro.md`
+  Status: complete
+  Completed: pass 3 literal review completed, with the bag-of-words, Chinese tokenization, and word-vector sections rewritten into simpler English while restoring source-specific notes and setup detail from the Chinese lesson
